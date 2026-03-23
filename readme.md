@@ -47,3 +47,6 @@ python evaluate.py
 ## Improvements 
 
 As model finetuning was not done properly, the i couldnt do much with this. In the `reports.md` i have noted how i would improve the model.  
+
+
+Note: Ruff was used for linting of the code. 
