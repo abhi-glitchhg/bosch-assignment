@@ -1,4 +1,4 @@
-# Bosch assignmen
+# Bosch assignment
 
 This document gives idea about the repo structure and setup. Read `report.md` for more details. I decided to keep this assignment with minimal requirements and keep it simple. 
 
