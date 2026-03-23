@@ -2,6 +2,17 @@
 
 This document gives idea about the repo structure and setup. Read `report.md` for more details. I decided to keep this assignment with minimal requirements and keep it simple. 
 
+## Setup 
+
+While running the docker image, i would suggest to mount bdd data to the /app/data directory. The expected mounted file structure would look like
+
+ - /app 
+    -/data 
+        -/assignment_data_bdd
+        
+
+
+
 ## EDA 
 
 Exploratory data analysis for the dataset is in `src/EDA` folder. It contains a jupyter notebook where you can plot the graphs and try to gauge the properties and trends in the  dataset we are going to work with.
