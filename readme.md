@@ -26,6 +26,8 @@ As discussed in the `report.md` we spent some time deciding on the model and unf
 To train the model, you will find the script in `src/training/train.py`. You can choose to change some of the hyperparameters to suit your resources. (like batch size, AMP etc)
 
 ```py
+cd src/training
+
 python train.py
 ```
 
