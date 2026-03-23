@@ -150,9 +150,7 @@ if __name__ == "__main__":
         num_workers=0,
     )
 
-    model   = load_model(CHECKPOINT)
-    # model = torchvision.models.detection.fasterrcnn_resnet50_fpn(weights="DEFAULT")
-    # model.to(DEVICE).eval()
+    model = load_model(CHECKPOINT)
 
     results = evaluate(model, val_loader)
     print_results(results)

@@ -1,11 +1,10 @@
-
-
 import torch
 import cv2
 from evaluate import load_model
 from PIL import Image
 import torchvision
 from torchvision.transforms import v2 as T
+from argparse import ArgumentParser
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
@@ -116,8 +115,7 @@ BDD_RELEVANT = {
 }
 
 
-
-def infer(model,image_path, conf_thresh=0.5):
+def infer(model, image_path, conf_thresh=0.5):
     # transforms
     image = Image.open(image_path).convert("RGB")
     tensor = T.ToTensor()(image).to(DEVICE)
@@ -159,11 +157,27 @@ def visualise(image_path, conf_thresh=0.5):
     cv2.destroyAllWindows()
 
 
+def parse_args():
+    parser = ArgumentParser()
+    parser.add_argument("--image", type=str, default="../../data/assignment_data_bdd/bdd100k_images_100k/bdd100k/images/100k/train/0a0a0b1a-7c39d841.jpg", )
+    parser.add_argument(
+        "--checkpoint",
+        type=str,
+        default=None,
+        help="Path to model checkpoint . If not provided, uses COCO pretrained weights.",
+    )
+    parser.add_argument(
+        "--conf", type=float, default=0.5, help="Confidence threshold (default: 0.5)"
+    )
+    return parser.parse_args()
+
+
 if __name__ == "__main__":
-    path = "../../data/assignment_data_bdd/bdd100k_images_100k/bdd100k/images/100k/train/0a0a0b1a-7c39d841.jpg"
-    model = load_model()
-    results = infer(model,path)
+    
+    args = parse_args()
+    model = load_model(args.checkpoint)
+    results = infer(model, args.image)
     for box, score, label in results:
         print(f"{label:15s}  {score:.2f}  {box.int().tolist()}")
 
-    visualise(path)
+    visualise(args.image)

@@ -1,4 +1,3 @@
-
 import torch
 import pathlib
 import pandas as pd
@@ -15,11 +14,11 @@ from dataset import BDDDataset
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 EPOCHS = 20
 BATCH_SIZE = 24
-ACCUM_STEPS = 4 
+ACCUM_STEPS = 4
 LR = 3e-3
 WEIGHT_DECAY = 1e-4
 USE_AMP = True
-NUM_CLASSES = 11  # 10 BDD classes + background 
+NUM_CLASSES = 11  # 10 BDD classes + background
 
 LABEL_DIR = pathlib.Path(
     "../../data/assignment_data_bdd/bdd100k_labels_release/bdd100k/labels"
@@ -28,10 +27,11 @@ IMAGE_DIR = pathlib.Path(
     "../../data/assignment_data_bdd/bdd100k_images_100k/bdd100k/images/100k"
 )
 
+
 def build_model(checkpoint_path=None):
     model = torchvision.models.detection.fasterrcnn_resnet50_fpn(
         weights="DEFAULT",
-        min_size=480,   
+        min_size=480,
         max_size=640,
     )
     # resizing is handled internally by torchvision class :)
@@ -43,7 +43,7 @@ def build_model(checkpoint_path=None):
     # replace head
     in_features = model.roi_heads.box_predictor.cls_score.in_features
     model.roi_heads.box_predictor = FastRCNNPredictor(in_features, NUM_CLASSES)
-    
+
     # load weights from local
     if checkpoint_path:
         ckpt = torch.load(checkpoint_path, map_location=DEVICE)
@@ -72,7 +72,9 @@ def get_transforms(train=True):
     return T.Compose(ops)
 
 
-def collate_fn(batch): # stacking logic for dataloader else we get error when dataloader tries to stack targets of different len
+def collate_fn(
+    batch,
+):  # stacking logic for dataloader else we get error when dataloader tries to stack targets of different len
     images, targets = zip(*batch)
     return list(images), list(targets)
 
@@ -117,7 +119,7 @@ def train_one_epoch(model, loader, optimizer, scaler, device, accum_steps):
 
 @torch.no_grad()
 def validate(model, loader, device):
-    model.eval()  
+    model.eval()
     total = 0.0
     for images, targets in tqdm(loader, desc="  val  ", leave=False):
         images = [img.to(device) for img in images]
@@ -125,8 +127,9 @@ def validate(model, loader, device):
         with autocast(device_type=device, enabled=USE_AMP):
             loss_dict = model(images, targets)
             total += sum(loss_dict.values()).item()
-    
+
     return total / len(loader)
+
 
 if __name__ == "__main__":
     # ── data ──────────────────────────────────────────────────────────────
@@ -199,7 +202,7 @@ if __name__ == "__main__":
             )
             print(f"  ✅ saved (val={val:.4f})")
 
-        # save other checkpoints so that we can test different states of the model later. 
+        # save other checkpoints so that we can test different states of the model later.
         torch.save(
             {"epoch": epoch, "state_dict": model.state_dict(), "val_loss": val},
             f"checkpoints/fasterrcnn_bdd100k_{epoch}.pth",

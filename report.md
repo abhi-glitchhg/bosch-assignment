@@ -126,6 +126,8 @@ Fine-tuning more than doubles mAP@0.5 (0.12 → 0.26) and nearly triples recall,
 
 ## 4. Improvements and Future Work
 
+I know assignment has asked me to *actually* do these things but finetuning model required significant training resources. As my model isnt doing really well on metrics side with very little finetuning i will mention the procedures i would have tried if i had chance. :) 
+
 **Full fine-tuning.** Unfreezing the backbone and FPN would be the single highest-impact change. Even training on a subset of 10k samples improved model performance, and loss curves were still decreasing — indicating headroom. A two-phase approach (head only → full network at lower lr=1e-4) would adapt low-level features to BDD's lighting and weather conditions.
 
 **Dataset cleaning.** A non-trivial number of annotations have incorrect or imprecise bounding boxes. An active learning strategy — training on current data and identifying high-loss samples for re-annotation — would surface the most problematic examples efficiently. Class-wise feature clustering with outlier detection and human-in-the-loop verification would also help.
