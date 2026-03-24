@@ -70,6 +70,8 @@ A personal project [Faster R-CNN on HuggingFace](https://huggingface.co/HugoHE/f
 
 Settled on a **COCO-pretrained Faster R-CNN ResNet50-FPN** from torchvision, replacing the final `FastRCNNPredictor` head for BDD100K's 10 classes. The backbone and FPN were kept frozen; only the head was trained. Gradient accumulation and mixed precision training were used to maximise effective batch size within an 8GB VRAM budget.
 
+Also we removed small bboxes which had area less than a threshold based on observations from EDA. We chose that threshold to be 200pixels. 
+
 | Hyperparameter | Value |
 |---|---|
 | Backbone | ResNet50-FPN (frozen) |
