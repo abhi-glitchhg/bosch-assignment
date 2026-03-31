@@ -21,32 +21,35 @@ We have found some interesting cases where the labels are incorrect or the bound
 
 ## Training 
 
-As discussed in the `report.md` we spent some time deciding on the model and unfortunately some trials were unfruitful. Finally we decided to finetune a coco-pretrained model from torchvision. 
+~~As discussed in the `report.md` we spent some time deciding on the model and unfortunately some trials were unfruitful. Finally we decided to finetune a coco-pretrained model from torchvision. ~~ 
+
+As training model from the scratch was difficult and time and resource constrains were there hence i chose yolo model series from `ultralytics`  which provides me great range of models and a nice training framework. I chose yolov8 small model. Yolo models are popular and their tensorrt engine files are also available hence one can easily use them in prod. 
 
 To train the model, you will find the script in `src/training/train.py`. You can choose to change some of the hyperparameters to suit your resources. (like batch size, AMP etc)
 
 ```py
 cd src/training
 
-python train.py
+python yolo_training.py --exp-name baseline 
 ```
 
 To infer model on an image, you can use inference script in the same directory.  
 
 ```py
-python inference.py --path <your parth> --checkpoint <optional checkpoint> 
+python inference.py --path <your parth>  
 ```
 
-To check model performance using metrics, we have a script for evaluation. We use widely used torchmetrics library to calculate mAP metric. 
+
+## Evaluation and Improvements.  
+   
+
+To check model performance using metrics, we have a script for evaluation. We use widely used torchmetrics library to calculate mAP metric. It allso gives us on which samples our model failed along with FN,FP and confusion examplles. 
 
 ```py
-python evaluate.py
+cd ../evaluation 
+
+python evaluate_bdd_failures.py 
 ```
-
-
-## Improvements 
-
-As model finetuning was not done properly, the i couldnt do much with this. In the `reports.md` i have noted how i would improve the model.  
 
 
 Note: Ruff was used for linting of the code. 

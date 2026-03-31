@@ -1,183 +1,119 @@
-import torch
+import argparse
+from pathlib import Path
 import cv2
-from evaluate import load_model
-from PIL import Image
-import torchvision
-from torchvision.transforms import v2 as T
-from argparse import ArgumentParser
-
-DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-
-COCO_CLASSES = [
-    "__background__",
-    "person",
-    "bicycle",
-    "car",
-    "motorcycle",
-    "airplane",
-    "bus",
-    "train",
-    "truck",
-    "boat",
-    "traffic light",
-    "fire hydrant",
-    "N/A",
-    "stop sign",
-    "parking meter",
-    "bench",
-    "bird",
-    "cat",
-    "dog",
-    "horse",
-    "sheep",
-    "cow",
-    "elephant",
-    "bear",
-    "zebra",
-    "giraffe",
-    "N/A",
-    "backpack",
-    "umbrella",
-    "N/A",
-    "N/A",
-    "handbag",
-    "tie",
-    "suitcase",
-    "frisbee",
-    "skis",
-    "snowboard",
-    "sports ball",
-    "kite",
-    "baseball bat",
-    "baseball glove",
-    "skateboard",
-    "surfboard",
-    "tennis racket",
-    "bottle",
-    "N/A",
-    "wine glass",
-    "cup",
-    "fork",
-    "knife",
-    "spoon",
-    "bowl",
-    "banana",
-    "apple",
-    "sandwich",
-    "orange",
-    "broccoli",
-    "carrot",
-    "hot dog",
-    "pizza",
-    "donut",
-    "cake",
-    "chair",
-    "couch",
-    "potted plant",
-    "bed",
-    "N/A",
-    "dining table",
-    "N/A",
-    "N/A",
-    "toilet",
-    "N/A",
-    "tv",
-    "laptop",
-    "mouse",
-    "remote",
-    "keyboard",
-    "cell phone",
-    "microwave",
-    "oven",
-    "toaster",
-    "sink",
-    "refrigerator",
-    "N/A",
-    "book",
-    "clock",
-    "vase",
-    "scissors",
-    "teddy bear",
-    "hair drier",
-    "toothbrush",
-]
-
-BDD_RELEVANT = {
-    "person",
-    "bicycle",
-    "car",
-    "motorcycle",
-    "bus",
-    "train",
-    "truck",
-    "traffic light",
-    "stop sign",
-}
+from ultralytics import YOLO
 
 
-def infer(model, image_path, conf_thresh=0.5):
-    # transforms
-    image = Image.open(image_path).convert("RGB")
-    tensor = T.ToTensor()(image).to(DEVICE)
+def draw_predictions(image, result):
+    names = result.names
 
-    with torch.no_grad():
-        preds = model([tensor])[0]
+    if result.boxes is None or len(result.boxes) == 0:
+        return image
 
-    boxes = preds["boxes"].cpu()
-    scores = preds["scores"].cpu()
-    labels = [COCO_CLASSES[i] for i in preds["labels"].tolist()]
+    for box in result.boxes:
+        cls_id = int(box.cls[0].item())
+        conf = float(box.conf[0].item())
+        x1, y1, x2, y2 = box.xyxy[0].cpu().numpy().astype(int)
 
-    return [
-        (box, score, label)
-        for box, score, label in zip(boxes, scores, labels)
-        if score > conf_thresh and label in BDD_RELEVANT
-    ]
+        label = f"{names[cls_id]} {conf:.2f}"
 
-
-# ── visualise ─────────────────────────────────────────────────────────────
-def visualise(image_path, conf_thresh=0.5):
-    results = infer(image_path, conf_thresh)
-    img = cv2.imread(image_path)
-
-    for box, score, label in results:
-        x1, y1, x2, y2 = box.int().tolist()
-        cv2.rectangle(img, (x1, y1), (x2, y2), (0, 255, 0), 2)
+        cv2.rectangle(image, (x1, y1), (x2, y2), (0, 255, 0), 2)
         cv2.putText(
-            img,
-            f"{label} {score:.2f}",
-            (x1, y1 - 5),
+            image,
+            label,
+            (x1, max(y1 - 8, 20)),
             cv2.FONT_HERSHEY_SIMPLEX,
-            0.5,
+            0.6,
             (0, 255, 0),
-            1,
+            2,
+            cv2.LINE_AA,
         )
 
-    cv2.imshow("detections", img)
-    cv2.waitKey(0)
-    cv2.destroyAllWindows()
+    return image
 
 
-def parse_args():
-    parser = ArgumentParser()
-    parser.add_argument("--image", type=str, default="../../data/assignment_data_bdd/bdd100k_images_100k/bdd100k/images/100k/train/0a0a0b1a-7c39d841.jpg", )
+def main():
+    parser = argparse.ArgumentParser(description="Run YOLO inference on a single image.")
+    parser.add_argument("--image", type=str, required=True, help="Path to input image")
+    parser.add_argument("--weights", type=str,default='runs/detect/bdd_yolov8_baseline/weights/best.pt' , help="Path to YOLO weights (.pt)")
+    parser.add_argument("--conf", type=float, default=0.25, help="Confidence threshold")
+    parser.add_argument("--imgsz", type=int, default=1280, help="Inference image size")
     parser.add_argument(
-        "--checkpoint",
+        "--device",
+        type=str,
+        default="cuda",
+        help='Device to use, e.g. "0", "cpu", "0,1"',
+    )
+    parser.add_argument(
+        "--save-path",
         type=str,
         default=None,
-        help="Path to model checkpoint . If not provided, uses COCO pretrained weights.",
+        help="Optional output image path. If not given, saves next to input image.",
     )
     parser.add_argument(
-        "--conf", type=float, default=0.5, help="Confidence threshold (default: 0.5)"
+        "--show",
+        action="store_true",
+        help="Show the output image in a window",
     )
-    return parser.parse_args()
+    args = parser.parse_args()
+
+    image_path = Path(args.image)
+    weights_path = Path(args.weights)
+
+    if not image_path.exists():
+        raise FileNotFoundError(f"Image not found: {image_path}")
+
+    if not weights_path.exists():
+        raise FileNotFoundError(f"Weights not found: {weights_path}")
+
+    model = YOLO(str(weights_path))
+
+    results = model.predict(
+        source=str(image_path),
+        conf=args.conf,
+        imgsz=args.imgsz,
+        device=args.device,
+        verbose=False,
+    )
+
+    if len(results) == 0:
+        raise RuntimeError("No results returned by model.")
+
+    result = results[0]
+
+    image = cv2.imread(str(image_path))
+    if image is None:
+        raise RuntimeError(f"Could not read image: {image_path}")
+
+    output = draw_predictions(image, result)
+
+    if args.save_path is not None:
+        save_path = Path(args.save_path)
+    else:
+        save_path = image_path.with_name(f"{image_path.stem}_pred{image_path.suffix}")
+
+    cv2.imwrite(str(save_path), output)
+    print(f"Saved output to: {save_path}")
+
+    if result.boxes is None or len(result.boxes) == 0:
+        print("No detections found.")
+    else:
+        print("\nDetections:")
+        for box in result.boxes:
+            cls_id = int(box.cls[0].item())
+            conf = float(box.conf[0].item())
+            x1, y1, x2, y2 = box.xyxy[0].cpu().numpy().tolist()
+            class_name = result.names[cls_id]
+            print(
+                f"class={class_name}, conf={conf:.4f}, "
+                f"xyxy=({x1:.1f}, {y1:.1f}, {x2:.1f}, {y2:.1f})"
+            )
+
+    if args.show:
+        cv2.imshow("Prediction", output)
+        cv2.waitKey(0)
+        cv2.destroyAllWindows()
 
 
 if __name__ == "__main__":
-    
-    args = parse_args()
-    model = load_model(args.checkpoint)
-    results = infer(model, args.image)
-    for box, score, label in results:
-        print(f"{label:15s}  {score:.2f}  {box.int().tolist()}")
-
-    visualise(args.image)
+    main()
