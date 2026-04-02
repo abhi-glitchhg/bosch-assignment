@@ -215,7 +215,7 @@ So the main takeaway from this YOLO series of experiments is that classwise prep
  
  ```bash
  === Per-class metrics ===
-         class  gt_count  pred_count    tp    fp    fn  precision@0.5IoU  recall@0.5IoU  f1@0.5IoU
+         class  gt_count  pred_count    tp    fp    fn  precision @0.5IoU  recall @0.5IoU  f1 @0.5IoU
          train        15           0     0     0    15          0.000000       0.000000   0.000000
          motor       428         173   117    56   311          0.676301       0.273364   0.389351
           bike       979         547   326   221   653          0.595978       0.332993   0.427261
@@ -239,7 +239,7 @@ So the main takeaway from this YOLO series of experiments is that classwise prep
  
  ```bash
  === Occlusion / Truncation metrics ===
-        bucket  gt_count    tp    fn  recall@0.5IoU
+        bucket  gt_count    tp    fn  recall @0.5IoU
   non_occluded     81579 56526 25053       0.692899
  non_truncated    148952 89569 59383       0.601328
       occluded     79970 43298 36672       0.541428
