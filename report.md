@@ -61,6 +61,8 @@ The idea behind this experiment was simple: if some categories contain noisy or 
 
 The latest YOLO-based results are as follows:
 
+```bash 
+
 === Per-class metrics ===
         class  gt_count  pred_count    tp   fp    fn  precision@0.5IoU  recall@0.5IoU  f1@0.5IoU
         train        15           0     0    0    15          0.000000       0.000000   0.000000
@@ -73,12 +75,20 @@ The latest YOLO-based results are as follows:
  traffic sign     28605       23044 15535 7509 13070          0.674145       0.543087   0.601561
           car     95109       60814 52010 8804 43099          0.855231       0.546846   0.667124
 traffic light     17444       16631 10144 6487  7300          0.609945       0.581518   0.595393
+```
+
+```bash
+
 === Occlusion / Truncation metrics ===
        bucket  gt_count    tp    fn  recall@0.5IoU
  non_occluded     81579 53487 28092       0.655647
 non_truncated    148952 76227 72725       0.511755
      occluded     79970 32931 47039       0.411792
     truncated     12597 10191  2406       0.809002
+```
+
+```bash
+
 === Top confusion pairs ===
      gt_class    pred_class  count
         truck           car    575
@@ -101,12 +111,16 @@ traffic light  traffic sign     93
          bike         motor     11
           car traffic light     10
        person  traffic sign      8
+```
+
+```bash
 === Size bucket summary ===
 bucket    tp    fp    fn
  small 18754 11098 55617
 medium 46036 13299 18014
  large 21628  1952  1500
 
+```
 From these numbers, we can see that the model is relatively better on medium and large objects, while small objects are still a major challenge. The car class has very high precision, which supports the idea that filtering removed noisy detections, but the recall is still moderate, which means the model is now missing many valid instances as well. Traffic light and traffic sign remain comparatively stable, which also shows that classwise filtering helped preserve useful small objects for those classes. At the same time, the very large false negatives for small boxes and reduced recall on occluded objects make it clear that filtering alone is not enough.
 
 So the main takeaway from this YOLO series of experiments is that classwise preprocessing is useful, but hard filtering creates a trade-off between precision and recall. A better next step would be to combine mild filtering with data balancing, oversampling of useful visible objects, and possibly class-aware sampling instead of removing difficult samples too aggressively.
@@ -123,6 +137,8 @@ So the main takeaway from this YOLO series of experiments is that classwise prep
  
  ## Baseline model evaluation. 
  
+ This was first Yolo model experiment where we trained the model on whole data, with a fixed threshold filtering (if area is less than 0.02% of the image size, we remove them).
+
  1. We have written a script to Evaluate our model on validation data where we can see on which samples our model failed. What was kind of failure (Fp, FN, Mismatch). As we have discussed in the EDA, we had noticed the small bounding boxes having very bad quality, hence even during training we have filtered those bboxes. And even for evaluation they have not been considered. 
  2. To partially clean the data, we can take help of our trained model, the idea is to see where our model is giving false positives. That means our model is predicting a class but that bbox is not even in the ground truth. If we can definitely say our model is correct then we can add this datapoint to the ground truth. Now how we evaluate if our model is correct or not is subjective. As a simple strategy we can have a tool with human in loop that will verify model outputs. Or else if the resources are available, a foundational vlm can do the same job.
  
@@ -146,6 +162,7 @@ So the main takeaway from this YOLO series of experiments is that classwise prep
  
      c. In `examples_confusion` directory, we have samples where bbox exists in GT and even model has predicted the bbox. But the classes are not matching. This is interesting section where we can see where our model is having confusions/difficulty with samples. Based on the validation results, stats for confusion is like following. 
 
+```bash
          === Top confusion pairs ===
           gt_class    pred_class  count 
              truck           car    714
@@ -171,7 +188,7 @@ So the main takeaway from this YOLO series of experiments is that classwise prep
      
      ** Aboove confusion pairs will be generated once you run the evaluation script :)
  
- 
+``` 
  
      We can understand if model is making mistakes in similar classes. If model is confused between classes {car, bus, truck}, {rider, person}, {traffic sign, traffic light} it is understandable and most likely model issue. But when model is confused between [car and person (44 instances)],  [traffic sign and car (49 instances)], [motor and car (28 instances)], [bike and person (25 instances)], we can say there could be a data labelling issue. 
  
