@@ -292,7 +292,7 @@ So the main takeaway from this YOLO series of experiments is that classwise prep
  
  After training with this setup, the model became more conservative. For classes like car, we can see that precision has improved significantly (~0.85), which means the model is making fewer false positives and the predictions are cleaner. However, recall has dropped (~0.54), indicating that the model is missing more objects than before. This trend is consistent across most classes. For person, bike and rider, the drop in recall is even more noticeable, which suggests that we may have removed some valid smaller instances that were useful for learning.
  
- | class         | gt_count | pred_count |    tp |   fp |    fn | precision@0.5IoU | recall@0.5IoU | f1@0.5IoU |
+ | class         | gt_count | pred_count |    tp |   fp |    fn | precision @0.5IoU | recall @0.5IoU | f1 @0.5IoU |
 | ------------- | -------: | ---------: | ----: | ---: | ----: | ------------------------------------------: | ------------------------------------: | ----------------------------: |
 | train         |       15 |          0 |     0 |    0 |    15 |                                      0.0000 |                                0.0000 |                        0.0000 |
 | motor         |      428 |        189 |   123 |   66 |   305 |                                      0.6508 |                                0.2874 |                        0.3987 |
@@ -309,7 +309,7 @@ So the main takeaway from this YOLO series of experiments is that classwise prep
  Looking at the occlusion metrics, performance on occluded objects has dropped further (recall ~0.41), while non-occluded performance has also reduced slightly (~0.65). This indicates that by removing smaller and harder samples, the model has become biased towards easier, clearer objects and is not generalising well to difficult cases anymore. This is also reflected in the size bucket summary where small objects now have a very high number of false negatives.
 
 
- | bucket        | gt_count |    tp |    fn | recall@0.5IoU |
+ | bucket        | gt_count |    tp |    fn | recall @0.5IoU |
 | ------------- | -------: | ----: | ----: | ------------------------------------: |
 | non_occluded  |    81579 | 53487 | 28092 |                                0.6556 |
 | non_truncated |   148952 | 76227 | 72725 |                                0.5118 |
