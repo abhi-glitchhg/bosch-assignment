@@ -112,11 +112,7 @@ From these numbers, we can see that the model is relatively better on medium and
 So the main takeaway from this YOLO series of experiments is that classwise preprocessing is useful, but hard filtering creates a trade-off between precision and recall. A better next step would be to combine mild filtering with data balancing, oversampling of useful visible objects, and possibly class-aware sampling instead of removing difficult samples too aggressively.
 
 
-##  Evaluation
-
- ## Evaluation 
- 
- ## Evaluation
+## Evaluation
  
  The following script can do the evaluation, metric calculation and also gives us glimbse of where our model failed by saving some examples of FP,FN,and confusion examples. 
  
