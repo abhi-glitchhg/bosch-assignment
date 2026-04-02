@@ -3,10 +3,7 @@ problem_statement/
 generated_data/
 *.pth
 *.pt
-*.csv
-*.jpg
-src/evaluation/eval_bdd_failures_train/*
-src/evaluation/eval_bdd_failures_val/*
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

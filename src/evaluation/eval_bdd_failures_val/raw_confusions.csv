@@ -1,0 +1,2039 @@
+image,gt_class,pred_class,iou,weather,timeofday,scene,gt_occluded,gt_truncated
+b1cd1e94-26dd524f.jpg,car,traffic sign,0.6946375504842509,clear,night,city street,0,0
+b1cd1e94-26dd524f.jpg,car,traffic sign,0.5748693624717324,clear,night,city street,0,0
+b1cebfb7-284f5117.jpg,truck,car,0.7796067700289886,clear,daytime,highway,1,0
+b1d0a191-03dcecc2.jpg,truck,car,0.9353527852532242,snowy,daytime,city street,0,0
+b1d0a191-06deb55d.jpg,person,rider,0.7316231802430696,snowy,daytime,city street,0,0
+b1d0a191-de8948f6.jpg,traffic sign,traffic light,0.5562697778249281,snowy,daytime,highway,0,0
+b1d0a191-de8948f6.jpg,traffic sign,traffic light,0.6699708750843575,snowy,daytime,highway,0,0
+b1d22449-15fb948f.jpg,truck,car,0.8024934833208113,clear,night,city street,0,0
+b1d22ed6-f1cac061.jpg,person,car,0.6000287227564983,undefined,daytime,city street,1,0
+b1d968b9-563405f4.jpg,truck,car,0.8632938048154227,overcast,daytime,city street,1,0
+b1d968b9-563405f4.jpg,truck,car,0.5118447200812917,overcast,daytime,city street,1,0
+b1d971b4-ac67ca0d.jpg,truck,car,0.7784182080700366,overcast,daytime,residential,1,0
+b1d971b4-ac67ca0d.jpg,truck,car,0.7422853257089439,overcast,daytime,residential,1,0
+b1d9e136-6c94ea3f.jpg,person,car,0.7806478899719669,undefined,daytime,city street,1,0
+b1d9e136-6c94ea3f.jpg,bus,car,0.5227077920575275,undefined,daytime,city street,1,0
+b1dac7f7-6b2e0382.jpg,truck,car,0.6722836682845017,clear,daytime,city street,1,0
+b1df722f-57d21f3f.jpg,truck,car,0.9637429551247539,clear,daytime,highway,0,1
+b1df722f-5bcc3db7.jpg,truck,car,0.7491150644296467,clear,daytime,highway,0,0
+b1e1a7b8-a7426a97.jpg,bus,car,0.7210734926509353,rainy,daytime,highway,1,0
+b1e9ee0e-67e26f2e.jpg,bus,car,0.8554787476041975,rainy,daytime,parking lot,1,0
+b1f0efd9-37a14dda.jpg,truck,car,0.8832311737482003,undefined,dawn/dusk,residential,0,0
+b1f4491b-09593e90.jpg,car,truck,0.9592459461679843,undefined,undefined,city street,1,0
+b1f4491b-33824f31.jpg,truck,car,0.6202798800990527,partly cloudy,daytime,city street,1,0
+b1f4491b-cf446195.jpg,truck,bus,0.9200160492662603,overcast,daytime,highway,1,1
+b1f4491b-cf446195.jpg,truck,car,0.936507626175464,overcast,daytime,highway,1,1
+b1fbf878-b31a8293.jpg,bus,car,0.8138590407114435,clear,night,city street,0,0
+b1fc95c9-644e3c3f.jpg,car,truck,0.91546265936804,undefined,daytime,city street,0,0
+b20234fd-822029be.jpg,bus,car,0.8286595482920196,clear,night,city street,1,0
+b2046bcf-8bc6a044.jpg,rider,person,0.672255825410104,snowy,daytime,city street,1,0
+b205eb4d-f84aaa1a.jpg,truck,car,0.8169099574359313,clear,daytime,highway,0,0
+b20841f9-cef732d5.jpg,bus,car,0.8207602613147604,clear,daytime,highway,1,0
+b20841f9-cef732d5.jpg,bus,car,0.8958815553515709,clear,daytime,highway,0,0
+b20841f9-cef732d5.jpg,bus,truck,0.873011716254515,clear,daytime,highway,0,0
+b20b69d2-7767e6b6.jpg,truck,car,0.8077724468389279,clear,daytime,city street,0,0
+b20b69d2-7767e6b6.jpg,truck,car,0.6357090699701708,clear,daytime,city street,0,0
+b20e291a-6012d836.jpg,truck,car,0.7316854857506007,clear,daytime,residential,0,0
+b20e291a-6012d836.jpg,person,car,0.7734962208079507,clear,daytime,residential,1,0
+b20e291a-6012d836.jpg,person,truck,0.7366781612504467,clear,daytime,residential,1,0
+b21547c1-796757ac.jpg,traffic sign,car,0.9023256488897738,clear,night,city street,0,0
+b2169b74-fa197951.jpg,truck,car,0.5561001796579153,clear,daytime,highway,1,0
+b2208b0f-2796a692.jpg,truck,car,0.566189242932038,clear,daytime,city street,1,0
+b2331b83-a28e6b57.jpg,bus,truck,0.8766606986478123,clear,daytime,city street,0,0
+b23493b1-3200de1c.jpg,truck,car,0.9251088660372683,partly cloudy,daytime,city street,0,0
+b23adb0d-8a7aaced.jpg,traffic light,car,0.7544177868552766,clear,night,city street,0,0
+b23d2079-0c019d8e.jpg,bus,truck,0.8624442410095075,clear,night,city street,0,0
+b242f6b2-0033bdfb.jpg,bus,truck,0.535961531646997,clear,night,city street,1,0
+b24702e3-0456c83c.jpg,truck,car,0.9303815327126129,clear,daytime,highway,1,0
+b24702e3-fe617f57.jpg,truck,car,0.8308593260968209,clear,dawn/dusk,city street,0,0
+b24d283f-33783d1b.jpg,bus,car,0.8542671557053486,overcast,daytime,city street,1,0
+b2505382-1423f56a.jpg,car,truck,0.5572057395599104,clear,night,city street,1,0
+b251064f-8d92db81.jpg,bus,car,0.8654361341071519,clear,daytime,city street,1,0
+b251064f-8d92db81.jpg,bus,car,0.5515899705825934,clear,daytime,city street,1,0
+b255cd6c-2f889586.jpg,bus,car,0.6641984972756823,snowy,daytime,city street,1,0
+b255cd6c-fb594dcb.jpg,truck,car,0.9497449110815065,snowy,night,city street,0,0
+b259c5e1-cda39ef9.jpg,car,bus,0.9017745777171339,clear,daytime,highway,0,0
+b259c5e1-cda39ef9.jpg,car,truck,0.8896414552833649,clear,daytime,highway,0,0
+b26327fe-3ac19999.jpg,truck,car,0.7497840073608983,snowy,daytime,residential,1,0
+b26327fe-3ac19999.jpg,truck,car,0.5948591523129222,snowy,daytime,residential,1,0
+b266db29-12bf52fa.jpg,car,traffic light,0.9022111729874781,rainy,daytime,residential,0,0
+b266db29-29fa8335.jpg,truck,car,0.5139752707777517,rainy,daytime,city street,1,0
+b266db29-29fa8335.jpg,truck,car,0.561371007885301,rainy,daytime,city street,1,0
+b266db29-29fa8335.jpg,truck,car,0.831389237296261,rainy,daytime,city street,1,0
+b266db29-c518f15d.jpg,truck,car,0.5416254804043056,rainy,daytime,city street,1,0
+b2675b13-d04e4a76.jpg,traffic sign,car,0.7108386992392082,clear,night,city street,0,0
+b26aafd1-513824d4.jpg,truck,car,0.7991044312006305,rainy,daytime,residential,0,1
+b26dd913-2888cbfd.jpg,car,truck,0.8922351866838262,overcast,dawn/dusk,highway,1,0
+b26dd913-2888cbfd.jpg,car,bus,0.9354965337451489,overcast,dawn/dusk,highway,1,0
+b26dddb5-28e4a05f.jpg,bus,truck,0.9519559626418177,clear,dawn/dusk,city street,0,0
+b26dddb5-28e4a05f.jpg,bus,car,0.529016950138463,clear,dawn/dusk,city street,1,0
+b26f7271-d906ee87.jpg,truck,car,0.8931611698071598,partly cloudy,daytime,highway,0,0
+b27098c3-0db780d5.jpg,car,truck,0.947195174050046,clear,dawn/dusk,city street,0,1
+b27098c3-915a9986.jpg,truck,car,0.724750246613879,clear,dawn/dusk,city street,1,0
+b279bc06-3c8aeb90.jpg,traffic light,traffic sign,0.8564082416710456,undefined,daytime,city street,0,0
+b27d5dcb-5bdec286.jpg,bus,car,0.7424639596192976,partly cloudy,dawn/dusk,city street,0,0
+b27e8b69-c00092ae.jpg,traffic sign,traffic light,0.5136005959651183,clear,daytime,city street,0,0
+b284c0e8-85fbc42a.jpg,bus,truck,0.9612616627536373,undefined,daytime,city street,1,0
+b284c0e8-85fbc42a.jpg,car,truck,0.7483487629771616,undefined,daytime,city street,1,0
+b284c0e8-85fbc42a.jpg,person,car,0.5259779038620388,undefined,daytime,city street,0,0
+b28ec521-69495052.jpg,traffic sign,traffic light,0.6339498612214198,clear,night,city street,0,0
+b291cfd6-a6275049.jpg,truck,car,0.8962252171594758,clear,dawn/dusk,city street,0,1
+b291cfd6-ff98ba56.jpg,truck,bus,0.9365994743305038,overcast,daytime,highway,1,0
+b291cfd6-ff98ba56.jpg,truck,car,0.8707502216093497,overcast,daytime,highway,1,0
+b294386c-24ddd0c3.jpg,bike,motor,0.8382791804829819,clear,daytime,city street,1,0
+b29511e5-0e7c7013.jpg,truck,car,0.8330938928927317,overcast,dawn/dusk,city street,1,0
+b29511e5-0e7c7013.jpg,truck,bus,0.8247450122148297,overcast,dawn/dusk,city street,1,0
+b2a0648b-d8e126bc.jpg,truck,car,0.5019117671230813,clear,night,city street,1,0
+b2a0648b-d8e126bc.jpg,truck,bus,0.8845615403831294,clear,night,city street,1,0
+b2a0dbe8-85f1894e.jpg,truck,car,0.7989864812916131,clear,night,city street,1,0
+b2a8e8b4-a4e93829.jpg,person,car,0.6176194715595961,clear,daytime,city street,0,0
+b2ae0446-4b0bfda7.jpg,motor,car,0.6409725679394025,clear,dawn/dusk,residential,1,0
+b2b70230-c43553a9.jpg,truck,bus,0.9442214121837564,clear,daytime,city street,1,0
+b2c7d048-fdd059eb.jpg,truck,car,0.5929273354530084,snowy,night,residential,1,0
+b2c7d048-fdd059eb.jpg,truck,car,0.930177707154791,snowy,night,residential,1,0
+b2c88d3b-1c1ad881.jpg,car,traffic sign,0.7972006419352464,clear,night,city street,0,0
+b2d22b2f-8302eb61.jpg,bus,car,0.8478357584797487,snowy,daytime,city street,0,0
+b2d49c0c-e888f874.jpg,car,traffic sign,0.7177200398811991,undefined,daytime,city street,0,0
+b2d502aa-64d3e228.jpg,car,person,0.7435108626221928,clear,night,city street,0,0
+b2d502aa-64d3e228.jpg,bus,truck,0.7982293399755774,clear,night,city street,1,0
+b2d502aa-ef17ffbd.jpg,truck,car,0.7095750715439036,clear,night,city street,0,0
+b2d502aa-ef17ffbd.jpg,truck,car,0.5380035341437687,clear,night,city street,1,0
+b2d502aa-f9141409.jpg,bus,car,0.8666551242298781,clear,night,city street,1,0
+b2d83b7b-9627ff87.jpg,motor,truck,0.5414308190556095,rainy,daytime,residential,0,0
+b2e54795-698ce97f.jpg,rider,person,0.7972042044906807,snowy,dawn/dusk,city street,1,0
+b2e96aa8-4d92cdf0.jpg,truck,car,0.9349342106681422,overcast,daytime,city street,1,0
+b2f3d83a-1effdb49.jpg,traffic sign,traffic light,0.5392008296944388,undefined,daytime,city street,0,0
+b2f48fc3-eda0e217.jpg,bike,motor,0.8477274537062733,rainy,daytime,city street,1,0
+b2fbf86d-d5de82a4.jpg,bus,truck,0.8954697122535804,clear,daytime,city street,1,0
+b2fc6d24-0af7cdca.jpg,traffic sign,car,0.7061227747605128,undefined,daytime,city street,0,0
+b3091a27-aa7841b5.jpg,bike,person,0.6188558805377198,undefined,daytime,city street,1,0
+b30b460d-9829fd26.jpg,truck,bus,0.8509799271308992,clear,daytime,highway,0,0
+b313a4dc-217f1233.jpg,truck,bus,0.9200117299125716,clear,night,city street,0,0
+b3154d05-8bc595ba.jpg,bus,truck,0.7008628853911426,clear,daytime,city street,0,0
+b3159650-0d7fbee8.jpg,truck,car,0.8780019293701782,undefined,daytime,city street,1,1
+b3321962-e23b25e3.jpg,truck,car,0.6127707579389409,partly cloudy,daytime,city street,0,0
+b332df78-970364e2.jpg,traffic sign,traffic light,0.50732461417117,clear,night,city street,0,0
+b336bdb9-ed5d2cc3.jpg,motor,car,0.6025209776723814,rainy,daytime,city street,0,0
+b33ced12-c53391e6.jpg,bus,car,0.5345498180807136,clear,daytime,city street,0,0
+b33ea6cb-8ef8b9c4.jpg,truck,car,0.808039665812432,undefined,daytime,city street,1,0
+b3450498-dbbb787e.jpg,truck,car,0.9541019337376174,overcast,daytime,city street,1,0
+b3450498-dbbb787e.jpg,car,truck,0.7171392544899159,overcast,daytime,city street,1,0
+b350afdd-9c872c22.jpg,car,truck,0.7448375290353844,clear,night,residential,1,0
+b355880f-9131b077.jpg,car,truck,0.9456054755954971,overcast,daytime,city street,1,0
+b3563bcf-1962e18d.jpg,truck,car,0.938327006194609,clear,daytime,city street,1,0
+b35c8e3d-f985138a.jpg,truck,car,0.6386862573634752,clear,night,city street,1,0
+b35dac08-396cde53.jpg,bus,car,0.9526154778276757,clear,daytime,city street,1,0
+b35dac08-396cde53.jpg,motor,car,0.6792448584210624,clear,daytime,city street,1,0
+b3674f80-8070d692.jpg,bus,truck,0.8747651017303838,overcast,daytime,city street,1,0
+b3674f80-8070d692.jpg,truck,car,0.662726092867943,overcast,daytime,city street,1,0
+b368ee71-aba6eeef.jpg,car,truck,0.7681324947095887,clear,daytime,city street,0,1
+b368ee71-e2f04304.jpg,truck,car,0.5033402663393335,clear,dawn/dusk,city street,1,0
+b368ee71-e2f04304.jpg,truck,car,0.5840310666826868,clear,dawn/dusk,city street,1,0
+b368ee71-e2f04304.jpg,bus,car,0.7147337164361133,clear,dawn/dusk,city street,0,0
+b36a5c73-437be32a.jpg,truck,car,0.8933742060974796,snowy,daytime,city street,1,0
+b36fcdfe-fd6585e0.jpg,car,bus,0.7237996039286474,undefined,daytime,residential,0,0
+b37385bd-9d5b76d4.jpg,truck,car,0.849154910717755,rainy,daytime,city street,0,1
+b37385bd-9d5b76d4.jpg,truck,car,0.5053732249210927,rainy,daytime,city street,1,0
+b378e452-c639ce0f.jpg,car,truck,0.9638827899492826,undefined,daytime,highway,0,1
+b378e452-c639ce0f.jpg,traffic sign,car,0.8708375460621042,undefined,daytime,highway,0,0
+b37c2955-5f0aef70.jpg,car,truck,0.912368364859264,clear,night,city street,0,0
+b37c2955-5f0aef70.jpg,car,truck,0.7798371126177194,clear,night,city street,0,0
+b37d75bd-e971140f.jpg,car,bus,0.9307151053850173,overcast,daytime,city street,0,0
+b37e9cc3-cf8111d8.jpg,bus,truck,0.8283743716552364,undefined,daytime,city street,1,0
+b3815e24-b9565680.jpg,truck,car,0.8014939656746863,clear,dawn/dusk,residential,0,0
+b3826fd8-774c2e0a.jpg,traffic sign,car,0.5365807973555988,clear,daytime,residential,0,0
+b38580a1-f26eb052.jpg,truck,car,0.6801345968149128,partly cloudy,dawn/dusk,city street,1,0
+b38580a1-f26eb052.jpg,truck,car,0.6826434600754494,partly cloudy,dawn/dusk,city street,1,0
+b38e631d-e2d95e18.jpg,truck,bus,0.9757626955042848,clear,night,city street,0,0
+b3931c96-5417a573.jpg,bus,truck,0.9514860765870746,snowy,dawn/dusk,city street,1,0
+b3931c96-5417a573.jpg,truck,car,0.5294228532248199,snowy,dawn/dusk,city street,0,0
+b396946b-d29f75f9.jpg,truck,car,0.9479427693263659,clear,daytime,residential,1,0
+b398327e-3d2a2683.jpg,truck,car,0.8429284001779165,clear,daytime,highway,1,0
+b3990aa9-4fb64582.jpg,person,car,0.9244369794275299,clear,daytime,city street,0,1
+b3990aa9-8adaa51a.jpg,truck,car,0.8455115684061774,clear,daytime,city street,1,0
+b39e8c78-f02c29c6.jpg,bus,car,0.788833631643017,rainy,daytime,highway,1,0
+b39e8c78-f02c29c6.jpg,truck,car,0.5805317156887722,rainy,daytime,highway,1,0
+b3a102ed-6ef54f5e.jpg,traffic sign,traffic light,0.555836098355575,clear,night,city street,0,0
+b3a1e72b-f46924ca.jpg,truck,car,0.7185981777847705,clear,dawn/dusk,highway,1,0
+b3a1e72b-f46924ca.jpg,truck,car,0.7404470214355617,clear,dawn/dusk,highway,1,0
+b3a1e72b-f46924ca.jpg,truck,car,0.6960462841669159,clear,dawn/dusk,highway,0,0
+b3a58c04-e89d17a2.jpg,truck,car,0.9403111976956614,partly cloudy,daytime,city street,1,0
+b3a58c04-e89d17a2.jpg,truck,car,0.7081436980791035,partly cloudy,daytime,city street,1,0
+b3a58c04-e89d17a2.jpg,motor,bike,0.8800370949580028,partly cloudy,daytime,city street,1,0
+b3a58c04-e89d17a2.jpg,motor,rider,0.6257219684863934,partly cloudy,daytime,city street,1,0
+b3a6f586-3ea7e1ad.jpg,truck,bus,0.9651190060098815,overcast,daytime,city street,1,0
+b3a6f586-3ea7e1ad.jpg,truck,car,0.8297379459379224,overcast,daytime,city street,1,0
+b3a72605-98b37492.jpg,truck,car,0.9369434040675559,snowy,night,city street,1,0
+b3a84a0f-0fb529e1.jpg,car,truck,0.9166273560054216,snowy,daytime,city street,0,0
+b3b64b42-403091d9.jpg,traffic light,traffic sign,0.7341691540420298,partly cloudy,daytime,city street,0,0
+b3b64b42-dab3c506.jpg,truck,bus,0.9110387000153971,overcast,daytime,city street,0,0
+b3b8fce6-c67646a7.jpg,bus,truck,0.8953242090034809,partly cloudy,daytime,city street,0,0
+b3b8fce6-c67646a7.jpg,bus,car,0.7277962545649705,partly cloudy,daytime,city street,0,0
+b3b94eea-b06bca81.jpg,rider,person,0.536478814271528,undefined,daytime,city street,1,0
+b3c094d3-75cda540.jpg,truck,car,0.5733184744495031,snowy,dawn/dusk,city street,1,0
+b3c4e98b-0c191966.jpg,bus,truck,0.9415055988310018,clear,night,city street,0,0
+b3c939e3-370d8f4a.jpg,truck,car,0.8912377650222159,clear,dawn/dusk,highway,1,0
+b3d6c39a-07f81865.jpg,car,bus,0.9442914411652679,undefined,daytime,city street,0,0
+b3d6c39a-7bb39a3a.jpg,truck,car,0.907131621493725,overcast,dawn/dusk,highway,1,0
+b3d6c39a-ecf305b3.jpg,truck,car,0.6037900331717334,undefined,daytime,city street,1,0
+b3d6c39a-ecf305b3.jpg,truck,car,0.7315498859095729,undefined,daytime,city street,1,0
+b3dc64cd-705e7567.jpg,traffic sign,traffic light,0.7818299174439179,overcast,daytime,city street,0,0
+b3e0345b-69069f01.jpg,rider,person,0.6845566864453476,undefined,daytime,city street,1,0
+b3e18480-6c84e030.jpg,truck,car,0.8559353113584677,rainy,dawn/dusk,city street,1,0
+b3e2086f-4db03957.jpg,motor,bike,0.6597918977434417,partly cloudy,daytime,residential,1,1
+b3e2086f-4db03957.jpg,traffic light,traffic sign,0.723272881380852,partly cloudy,daytime,residential,0,0
+b3e2086f-d41fbd4d.jpg,rider,person,0.8166974615694622,partly cloudy,daytime,city street,0,0
+b3e51564-d2ac524c.jpg,bus,car,0.7002891204741375,rainy,daytime,city street,1,0
+b3e65789-dfe0bc9e.jpg,car,truck,0.9421614805788019,undefined,daytime,residential,1,0
+b3e70fdd-e1df8660.jpg,truck,car,0.5084517275347001,clear,night,city street,1,0
+b3e72283-584093dc.jpg,bus,car,0.8892569934276469,overcast,daytime,city street,1,0
+b3e83de5-c5e9dcca.jpg,truck,car,0.9782401010181894,undefined,daytime,city street,0,1
+b3ea5e17-c67b7a7a.jpg,bus,car,0.8577601553112824,clear,daytime,city street,1,0
+b3ea802a-8830eb32.jpg,truck,car,0.5575159596772753,overcast,daytime,residential,1,0
+b3fbc6ad-746053d9.jpg,bus,truck,0.9457724036033169,clear,daytime,city street,0,0
+b40669bb-19958f9a.jpg,person,car,0.6188906718871339,undefined,night,city street,1,0
+b40ce2eb-c53a5e8e.jpg,car,bus,0.8179669366146307,undefined,daytime,city street,1,0
+b40ce2eb-c53a5e8e.jpg,car,truck,0.760989925497567,undefined,daytime,city street,1,0
+b40e08ea-f2d97c95.jpg,person,traffic light,0.5138554408990958,undefined,daytime,city street,0,0
+b40e08ea-f2d97c95.jpg,person,car,0.5958353829498783,undefined,daytime,city street,1,0
+b40e08ea-f2d97c95.jpg,rider,person,0.5454047055185395,undefined,daytime,city street,1,0
+b4115405-2f28f75a.jpg,bus,car,0.8605704080956159,clear,daytime,city street,1,0
+b41ace08-830c808c.jpg,truck,car,0.9297595761291191,rainy,dawn/dusk,city street,0,0
+b41ace08-8b937256.jpg,traffic light,traffic sign,0.8072156703165893,overcast,daytime,city street,0,0
+b41ace08-8b937256.jpg,traffic light,traffic sign,0.8699605348128902,overcast,daytime,city street,0,0
+b421c89a-c7cdebb4.jpg,truck,car,0.8675081164170931,clear,dawn/dusk,highway,1,1
+b422ec08-236606a0.jpg,person,rider,0.7997579681492898,overcast,daytime,city street,0,0
+b422ec08-236606a0.jpg,bus,car,0.6423023157175524,overcast,daytime,city street,1,0
+b422ec08-d42660b6.jpg,bus,truck,0.9311877796524972,overcast,daytime,city street,0,1
+b4259d0f-137ad720.jpg,truck,car,0.6872658078860028,clear,night,city street,1,0
+b4259d0f-d93d7a19.jpg,bus,car,0.934442426380654,clear,daytime,city street,0,0
+b4284bbe-1905abe0.jpg,truck,car,0.8705337923204072,clear,daytime,city street,1,0
+b4284bbe-1905abe0.jpg,person,rider,0.5870082357035715,clear,daytime,city street,0,0
+b42913b9-49092dfe.jpg,traffic sign,car,0.7750502245876697,rainy,dawn/dusk,city street,0,0
+b42df626-243bcce8.jpg,motor,car,0.5602193833315039,clear,night,city street,0,0
+b42df626-243bcce8.jpg,motor,bike,0.710546571429912,clear,night,city street,0,0
+b42df626-243bcce8.jpg,motor,rider,0.5600631546707949,clear,night,city street,0,0
+b42df626-3c4d9bfd.jpg,person,rider,0.9083642206749837,clear,dawn/dusk,highway,1,0
+b42df626-3c4d9bfd.jpg,rider,bike,0.9247181851931664,clear,dawn/dusk,highway,1,0
+b42df626-3c4d9bfd.jpg,person,rider,0.656772427216002,clear,dawn/dusk,highway,1,0
+b42df626-bee4420b.jpg,car,person,0.6455498493424318,undefined,daytime,city street,1,0
+b42e6271-4bce300c.jpg,truck,car,0.9020859369411214,clear,dawn/dusk,residential,1,0
+b4301c7b-da5261f0.jpg,truck,bus,0.7507765059435979,overcast,daytime,city street,1,0
+b4304e43-89ba0daa.jpg,bus,car,0.8653384754299946,undefined,daytime,city street,1,0
+b4304e43-89ba0daa.jpg,truck,car,0.8044272336263112,undefined,daytime,city street,1,0
+b43bcc83-c97d569e.jpg,traffic sign,traffic light,0.684725073047333,partly cloudy,daytime,city street,1,0
+b43eb946-92f9152d.jpg,truck,car,0.5348200731071973,partly cloudy,daytime,city street,1,0
+b43eb946-c0cad251.jpg,truck,car,0.7037984719573877,partly cloudy,daytime,city street,0,1
+b44f2475-c80a51b7.jpg,rider,person,0.6330071393421155,snowy,daytime,residential,0,0
+b4543c78-ee2e75f3.jpg,truck,car,0.7729103617571751,partly cloudy,daytime,highway,1,0
+b4581cf1-fa4a5f32.jpg,traffic sign,traffic light,0.7730756802048313,overcast,daytime,city street,0,0
+b45928e6-f07ac4c9.jpg,truck,car,0.9604755402571884,overcast,daytime,residential,1,0
+b46009c2-f64f79ff.jpg,bus,truck,0.9003367063163044,clear,night,city street,1,0
+b4607812-225d9a01.jpg,rider,person,0.8092846576954128,undefined,daytime,city street,1,0
+b4607812-48ed5dcb.jpg,car,person,0.6209291734330541,undefined,daytime,city street,1,0
+b4607812-d0ab0af7.jpg,bus,truck,0.9300813853578087,undefined,daytime,city street,1,0
+b462d8a3-a32ccc75.jpg,bus,truck,0.641137838604833,snowy,dawn/dusk,city street,0,0
+b46d2f57-0fb71a0d.jpg,car,truck,0.8281547953786478,undefined,daytime,city street,1,0
+b47262a4-b17e0871.jpg,bus,car,0.7995251624918891,clear,daytime,city street,1,0
+b47262a4-b17e0871.jpg,bus,car,0.53333824852164,clear,daytime,city street,1,0
+b479f06d-2cc86910.jpg,truck,car,0.6910482097413502,snowy,night,city street,0,0
+b479f06d-2cc86910.jpg,rider,person,0.7515539471113831,snowy,night,city street,1,0
+b4860efe-0056999a.jpg,truck,car,0.6089374412410095,undefined,daytime,city street,1,0
+b4863201-6521c146.jpg,bus,car,0.9556563018689482,rainy,daytime,city street,0,0
+b487a2fa-53094db8.jpg,truck,car,0.9298034544080817,undefined,daytime,city street,0,0
+b487a2fa-b74b81bc.jpg,truck,car,0.5113581469577628,undefined,daytime,city street,1,0
+b48c7b5f-49fec7f1.jpg,truck,car,0.8577318395271012,clear,daytime,highway,1,0
+b48c7b5f-76b4418e.jpg,person,car,0.620038288813757,clear,daytime,city street,1,0
+b48ef806-82544a56.jpg,car,truck,0.9175106001450222,rainy,daytime,city street,1,0
+b48ef806-82544a56.jpg,truck,bus,0.8647038695015324,rainy,daytime,city street,1,0
+b48fc70b-72a49533.jpg,traffic sign,traffic light,0.7511305062669013,clear,daytime,residential,0,0
+b48fc70b-72a49533.jpg,bus,car,0.6195927978539132,clear,daytime,residential,1,0
+b4927f8e-fb16ed87.jpg,traffic sign,traffic light,0.8464385648386182,snowy,night,city street,0,0
+b4927f8e-fb16ed87.jpg,traffic sign,traffic light,0.7895905685766191,snowy,night,city street,0,0
+b4998daa-2074f0c8.jpg,car,truck,0.8727102317114954,clear,night,city street,1,0
+b499ff48-31afe322.jpg,bike,motor,0.7924216587687558,partly cloudy,daytime,city street,1,0
+b49d6c0d-bb90cc08.jpg,truck,car,0.722729731289933,undefined,daytime,city street,0,0
+b4a240e1-6e3cd8b8.jpg,truck,car,0.5978714665526592,clear,night,residential,1,0
+b4a8ec73-7e0ae9b4.jpg,truck,bus,0.9543686390877633,clear,daytime,city street,0,0
+b4a8ec73-7e0ae9b4.jpg,truck,car,0.5011507750336914,clear,daytime,city street,1,0
+b4a99fcc-d849eaf4.jpg,car,truck,0.8099210024235952,partly cloudy,dawn/dusk,city street,1,0
+b4aabd48-612afbae.jpg,rider,person,0.5441275253353693,overcast,daytime,city street,1,0
+b4aabd48-89db54e4.jpg,bike,person,0.8274256092240069,undefined,daytime,city street,1,0
+b4aefa17-2444bcc7.jpg,traffic sign,traffic light,0.6176521418342351,overcast,daytime,city street,0,0
+b4b09f5b-11633a17.jpg,truck,bus,0.8571469334480939,clear,night,city street,1,0
+b4b394c2-e2f83664.jpg,bus,car,0.7202304477881958,clear,night,city street,1,0
+b4b394c2-e2f83664.jpg,truck,car,0.6112456968508385,clear,night,city street,1,0
+b4b68779-1c75351a.jpg,truck,car,0.6933743000671831,overcast,daytime,highway,0,0
+b4b6fd78-b1f488c2.jpg,traffic light,traffic sign,0.6943513404351879,clear,night,city street,0,0
+b4b7133e-5672ca28.jpg,bus,car,0.50520237224743,rainy,daytime,city street,1,0
+b4c0a877-66fc6239.jpg,traffic sign,traffic light,0.7530057629411578,clear,night,highway,0,0
+b4c0a877-7bdedc86.jpg,car,person,0.8162357737843626,rainy,night,city street,1,0
+b4c62929-8d5e3448.jpg,truck,car,0.9455831221468425,clear,daytime,highway,0,1
+b4c755fa-1ce17fa3.jpg,person,car,0.7709158938779676,overcast,night,city street,1,0
+b4c86653-3594c3a4.jpg,truck,car,0.9826910261829778,clear,night,city street,0,1
+b4c86653-3594c3a4.jpg,truck,car,0.8488420451168422,clear,night,city street,1,0
+b4ca8154-8453f431.jpg,rider,person,0.7157103989947058,partly cloudy,daytime,city street,1,0
+b4ca8154-fd2ddd24.jpg,car,bus,0.7863437652106694,clear,night,city street,0,1
+b4d65110-ac665389.jpg,car,truck,0.9709790700409937,clear,daytime,city street,0,1
+b4d65110-ac665389.jpg,bus,car,0.8562895049263416,clear,daytime,city street,1,0
+b4d65110-ac665389.jpg,bus,truck,0.8816215776399406,clear,daytime,city street,1,0
+b4e3816e-6cd8a1fe.jpg,car,traffic light,0.5718462022594346,clear,night,city street,0,1
+b4ecb933-08326feb.jpg,truck,bus,0.9203140526334721,clear,daytime,city street,1,0
+b4f1500e-901fb4e6.jpg,truck,car,0.9144669641961757,overcast,daytime,city street,1,1
+b4f2a76c-3ce3d91e.jpg,car,bus,0.9895043515549146,clear,daytime,highway,0,1
+b4f360ca-78e0a64c.jpg,bus,car,0.7760040016687731,clear,night,city street,1,0
+b4f49565-abd6b20b.jpg,truck,car,0.6188973596808316,clear,daytime,city street,1,0
+b4f49565-ccd350b6.jpg,person,rider,0.808595020578961,overcast,daytime,city street,0,0
+b4fca1a4-f7e84f0b.jpg,truck,car,0.6975699634241764,clear,daytime,residential,1,0
+b4fce2f5-d8eee5bb.jpg,truck,bus,0.9340617163965901,clear,daytime,city street,1,0
+b4fce2f5-ffc1247f.jpg,traffic light,traffic sign,0.6396084561784686,undefined,daytime,city street,0,0
+b5046f1e-7b9d98d0.jpg,truck,car,0.8866087257477587,clear,night,city street,0,0
+b5046f1e-99be1b00.jpg,car,bus,0.8303864596157245,undefined,daytime,city street,0,0
+b5046f1e-99be1b00.jpg,car,truck,0.8548680709632658,undefined,daytime,city street,0,0
+b5046f1e-fa3ac127.jpg,traffic light,traffic sign,0.5191682861438937,undefined,daytime,city street,0,0
+b509067e-188e1123.jpg,person,car,0.5823600607817865,snowy,daytime,city street,1,0
+b509067e-188e1123.jpg,bus,car,0.7324613808397237,snowy,daytime,city street,1,0
+b50cb586-d808d404.jpg,bus,truck,0.7698910499594278,clear,daytime,city street,0,0
+b50cb586-d808d404.jpg,bus,car,0.7779200959328951,clear,daytime,city street,0,0
+b50e6154-4aace8a1.jpg,truck,car,0.6832408079622495,undefined,daytime,city street,0,0
+b50fa05b-602f124c.jpg,truck,car,0.9731840696310744,clear,daytime,city street,0,1
+b5191523-6c028236.jpg,traffic sign,traffic light,0.7954045116626377,clear,night,city street,0,0
+b51aa35f-672053a6.jpg,bus,car,0.9296957864384657,overcast,daytime,city street,0,0
+b51dfd71-9599e952.jpg,truck,car,0.8035645866315514,partly cloudy,daytime,residential,1,0
+b51fc067-22ddb158.jpg,truck,car,0.5804078788833704,clear,night,city street,1,0
+b5296e2a-fde16219.jpg,truck,bus,0.8548592917320353,undefined,daytime,city street,0,0
+b5296e2a-fde16219.jpg,car,truck,0.6572252244449902,undefined,daytime,city street,1,0
+b533db8e-afb2e60c.jpg,bike,motor,0.8500512158956886,undefined,daytime,city street,1,0
+b533db8e-afb2e60c.jpg,bike,motor,0.6638058113275479,undefined,daytime,city street,1,0
+b5380a66-b76d418a.jpg,traffic sign,traffic light,0.632819886432113,overcast,daytime,city street,0,0
+b5380a66-b76d418a.jpg,rider,person,0.8207763961604747,overcast,daytime,city street,1,0
+b5380a66-f8c670ed.jpg,truck,car,0.7823444284290542,overcast,daytime,city street,0,0
+b5380a66-f8c670ed.jpg,bus,car,0.7403809756676552,overcast,daytime,city street,0,0
+b5380a66-f8c670ed.jpg,bus,car,0.7159488758368421,overcast,daytime,city street,0,0
+b53a1501-f21dfab8.jpg,truck,car,0.5575377738314368,clear,night,city street,1,0
+b53cb17b-4df01599.jpg,bus,car,0.8329066091920145,rainy,daytime,city street,0,0
+b53e1aa8-c49fd7ef.jpg,car,truck,0.8142031689189312,partly cloudy,daytime,city street,1,0
+b5465c6e-b2fb645f.jpg,truck,car,0.9150046633962435,clear,night,residential,0,1
+b54735e3-b251b872.jpg,truck,car,0.866652389180465,clear,night,city street,0,0
+b5478d5c-290f5e15.jpg,truck,car,0.8786999098045771,partly cloudy,daytime,city street,1,0
+b5479087-1e95039f.jpg,traffic light,traffic sign,0.609333396384453,clear,night,city street,0,0
+b552a4cb-fbd465af.jpg,car,truck,0.5278793428808743,clear,night,city street,0,0
+b552a4cb-fbd465af.jpg,car,bus,0.5396036231478518,clear,night,city street,0,0
+b555790d-111bb9b8.jpg,truck,car,0.7043116535891201,rainy,dawn/dusk,highway,0,0
+b555790d-ef09fa96.jpg,bus,car,0.7056545005109903,overcast,daytime,residential,1,0
+b559d3b0-dd72ed94.jpg,truck,car,0.9773633334102972,rainy,night,city street,0,0
+b55bd14f-50306d5f.jpg,car,truck,0.6463405313773909,overcast,daytime,residential,1,0
+b55e257d-9db57de1.jpg,person,car,0.5022839321693631,clear,daytime,highway,0,0
+b5614611-ae322079.jpg,truck,car,0.8674663255654218,clear,dawn/dusk,city street,1,0
+b561705d-e341bae9.jpg,car,truck,0.92338515001323,partly cloudy,daytime,residential,0,0
+b561705d-e341bae9.jpg,car,motor,0.7029909942112477,partly cloudy,daytime,residential,0,1
+b5661732-3684230b.jpg,traffic light,car,0.9524021943083087,overcast,daytime,city street,0,1
+b5661732-3684230b.jpg,traffic sign,car,0.6811916493536453,overcast,daytime,city street,0,0
+b5661732-3684230b.jpg,traffic sign,car,0.7206242338807723,overcast,daytime,city street,0,0
+b56a8196-9b3b361b.jpg,truck,car,0.8081787364775791,rainy,daytime,highway,1,0
+b56a8196-9b3b361b.jpg,truck,car,0.690716481800356,rainy,daytime,highway,1,0
+b56c225e-a7a78ad7.jpg,truck,car,0.54478521238972,clear,daytime,highway,1,0
+b57417a0-5c16cbfc.jpg,car,truck,0.7458025487163724,clear,dawn/dusk,city street,0,0
+b57417a0-5c16cbfc.jpg,car,bus,0.6731875885188809,clear,dawn/dusk,city street,0,0
+b578f3d3-40453bfb.jpg,truck,car,0.9420598595542723,clear,daytime,city street,0,0
+b578f3d3-40453bfb.jpg,truck,car,0.6012037779291035,clear,daytime,city street,1,0
+b57a6b0c-531adc6d.jpg,car,rider,0.5488092195952483,partly cloudy,daytime,city street,1,0
+b57b533b-58103d3d.jpg,truck,car,0.9036843740032334,overcast,dawn/dusk,city street,1,0
+b57b533b-cabdbef5.jpg,bus,car,0.9005258064568622,rainy,daytime,city street,1,0
+b581255d-1c6658b4.jpg,car,truck,0.932827611804355,clear,daytime,city street,1,0
+b588c233-8a21f0be.jpg,car,truck,0.9287804509553926,partly cloudy,daytime,city street,1,1
+b58aff80-bea21173.jpg,truck,car,0.8445777321434512,clear,night,city street,1,0
+b58aff80-bea21173.jpg,truck,car,0.5122174278063678,clear,night,city street,1,0
+b58f8128-5be35778.jpg,truck,car,0.7270509042791986,clear,night,undefined,1,0
+b58f8128-5be35778.jpg,truck,bus,0.6969864557520693,clear,night,undefined,1,0
+b5961057-5e258e5e.jpg,car,truck,0.80079783016388,clear,daytime,city street,1,0
+b59d9baf-5fe6c3c0.jpg,truck,car,0.9241105288474891,clear,daytime,city street,1,0
+b59dd81f-b8ebeb56.jpg,bus,car,0.5951346951052454,clear,night,city street,0,0
+b59f6555-89b070c8.jpg,car,truck,0.7526334217078048,clear,night,city street,0,0
+b5a09124-8d4e6518.jpg,truck,car,0.8543586232470425,partly cloudy,daytime,highway,1,0
+b5a09604-69dd5d9f.jpg,person,car,0.8580751791732096,undefined,daytime,city street,1,0
+b5a09604-c93a9d5d.jpg,truck,bus,0.9839747021451475,clear,daytime,city street,0,1
+b5a407d5-c2abd312.jpg,car,truck,0.704950465545124,clear,dawn/dusk,city street,1,0
+b5a52ea9-2e1f4066.jpg,car,truck,0.7459639397985441,clear,daytime,highway,1,0
+b5ab0e46-8eab4733.jpg,bike,car,0.6272757866594374,clear,daytime,city street,1,0
+b5b44d2d-60f87448.jpg,truck,car,0.892448638145294,clear,daytime,city street,0,1
+b5b79bf9-36cbce30.jpg,traffic sign,traffic light,0.524096130507875,overcast,daytime,city street,0,1
+b5b7d0a6-e63e539f.jpg,truck,car,0.5801391778814449,clear,daytime,city street,1,0
+b5bb11f2-227b8c25.jpg,car,truck,0.9481027405119629,partly cloudy,daytime,city street,0,1
+b5bd48b6-57b53578.jpg,truck,car,0.9412563468948011,clear,night,city street,1,0
+b5c30297-f0b3279b.jpg,truck,car,0.8612343885634253,clear,daytime,residential,1,0
+b5c324dc-68f1aa1d.jpg,car,truck,0.9829763509065734,overcast,daytime,city street,0,0
+b5ca1339-b9f4a4e0.jpg,truck,car,0.9679380454363616,clear,daytime,residential,0,1
+b5cb11ce-46ac0ae7.jpg,person,rider,0.9255065107376279,snowy,daytime,city street,1,0
+b5d4dc8d-f867ef92.jpg,motor,car,0.5516623564321715,partly cloudy,daytime,city street,1,0
+b5d6e647-38b01d56.jpg,rider,person,0.6283088208257808,clear,night,highway,1,0
+b5d6e647-38b01d56.jpg,motor,bike,0.624373685480213,clear,night,highway,1,0
+b5d9531f-48222cf3.jpg,bus,car,0.6522295096943675,overcast,daytime,highway,1,0
+b5dd20c5-ac20e15b.jpg,traffic sign,car,0.6362849684461874,clear,night,residential,0,0
+b5df49b8-73e68ecb.jpg,traffic sign,traffic light,0.6936388197040677,clear,dawn/dusk,city street,0,0
+b5ecfd7e-fcdaceb0.jpg,train,car,0.8718538719220923,partly cloudy,daytime,city street,1,0
+b5ecfd7e-fcdaceb0.jpg,train,car,0.6168074119802462,partly cloudy,daytime,city street,1,0
+b5f7a789-c02a194e.jpg,bus,truck,0.8186881494901872,undefined,daytime,city street,1,0
+b5f7a789-c02a194e.jpg,bus,car,0.8709408425665226,undefined,daytime,city street,1,0
+b5fe17dd-52352131.jpg,truck,car,0.6695261428163917,overcast,daytime,city street,0,0
+b6018b92-f949cae0.jpg,truck,car,0.956292165054783,snowy,daytime,parking lot,0,1
+b6036b55-6bc2eeef.jpg,truck,car,0.901178899631685,clear,daytime,city street,1,0
+b6036b55-6bc2eeef.jpg,rider,person,0.6109436396055246,clear,daytime,city street,1,0
+b605d5d8-d9310a5c.jpg,bus,truck,0.89495229891111,clear,daytime,city street,0,0
+b60a623a-4df2b0c0.jpg,bus,car,0.7690403938170562,rainy,daytime,city street,0,0
+b60db8b3-7cb88369.jpg,bus,car,0.7929541003842449,undefined,daytime,city street,1,0
+b6123103-45edd1d3.jpg,truck,bus,0.7982056910599605,rainy,daytime,city street,1,0
+b61456bb-5bfb50ee.jpg,truck,car,0.9400368951623019,rainy,daytime,city street,0,1
+b61aec41-fe792c56.jpg,traffic sign,traffic light,0.8113828590200837,clear,dawn/dusk,city street,0,0
+b61f19ba-ae781838.jpg,truck,car,0.6833014338888218,snowy,daytime,city street,0,0
+b61f19ba-ae781838.jpg,truck,car,0.8870069695074048,snowy,daytime,city street,1,0
+b61fda8b-dbcf61c1.jpg,car,truck,0.9426003566182579,overcast,daytime,city street,1,0
+b6219281-2b4b9493.jpg,motor,bike,0.7949455522942739,overcast,daytime,city street,1,0
+b6219281-2b4b9493.jpg,traffic sign,traffic light,0.6062705414537581,overcast,daytime,city street,0,0
+b6219281-2b4b9493.jpg,motor,bike,0.6948415259168366,overcast,daytime,city street,1,0
+b6375e65-94027fd8.jpg,truck,car,0.954038506500137,clear,night,city street,0,0
+b63b1c14-f01a2f6b.jpg,truck,car,0.6736621442784912,overcast,daytime,residential,0,0
+b63f0379-f0b444b5.jpg,truck,car,0.9304921218526134,overcast,dawn/dusk,city street,1,0
+b643ea5a-af37c824.jpg,bus,truck,0.7384581958484793,partly cloudy,daytime,city street,1,0
+b6487a3e-0761a2ae.jpg,truck,car,0.9477190076224662,undefined,daytime,city street,0,1
+b651ca9e-a11f85d6.jpg,bus,truck,0.9372085155341794,rainy,daytime,city street,0,0
+b651ca9e-a11f85d6.jpg,bus,car,0.5263795806527803,rainy,daytime,city street,0,0
+b6579e76-1d48651a.jpg,rider,person,0.7286315170179041,clear,daytime,city street,1,0
+b6592e95-6e497868.jpg,truck,car,0.5162966017202644,snowy,night,city street,1,0
+b65ff14a-fc05765f.jpg,traffic light,traffic sign,0.6798750210853168,clear,daytime,highway,0,0
+b6642e30-93accfbe.jpg,truck,car,0.8959967787996043,snowy,night,city street,0,1
+b6673f98-1e13354a.jpg,truck,car,0.7741530806466931,clear,daytime,highway,1,0
+b6673f98-1e13354a.jpg,truck,car,0.5346707199205408,clear,daytime,highway,1,0
+b67a1d26-573dee1f.jpg,bike,person,0.5576619420256133,snowy,daytime,city street,1,0
+b67a1d26-573dee1f.jpg,truck,car,0.7415935711026265,snowy,daytime,city street,1,0
+b67d5d14-ecdff820.jpg,truck,car,0.7861462141073745,clear,daytime,highway,1,0
+b683b494-0b21b850.jpg,traffic sign,traffic light,0.6339058728245291,overcast,daytime,highway,0,0
+b68913f1-029e9d1a.jpg,truck,car,0.5414715245797448,clear,daytime,city street,0,0
+b68913f1-029e9d1a.jpg,truck,car,0.7932795444782967,clear,daytime,city street,1,0
+b68a000f-9a8091f9.jpg,car,truck,0.9264288659082764,clear,daytime,residential,1,0
+b68a0153-2c58a0e3.jpg,car,truck,0.9194463108593391,clear,night,city street,1,0
+b68e35b5-865cf5ee.jpg,rider,person,0.7695767662708463,clear,daytime,city street,1,0
+b68e35b5-865cf5ee.jpg,truck,car,0.5388280153762741,clear,daytime,city street,1,0
+b68e35b5-865cf5ee.jpg,truck,car,0.7381305615129143,clear,daytime,city street,1,0
+b6976dce-0810ee45.jpg,truck,car,0.9664242449753268,snowy,night,city street,1,0
+b69fc2ae-156d58aa.jpg,truck,car,0.5394510077086885,overcast,daytime,city street,0,0
+b6a0a684-e1ce5607.jpg,truck,car,0.8521556280642005,partly cloudy,daytime,highway,1,0
+b6a6df2d-435493e8.jpg,truck,car,0.7397233516008034,undefined,daytime,parking lot,1,0
+b6aeb288-6615a6dc.jpg,car,truck,0.5805922600409179,clear,night,city street,1,0
+b6b6fd86-ab4d10f6.jpg,truck,car,0.8884267330344844,undefined,daytime,highway,1,1
+b6bec9b9-a964c43a.jpg,rider,person,0.8847964518636962,snowy,daytime,city street,1,0
+b6c3cbb0-1c4e006c.jpg,truck,car,0.7687767814864791,clear,daytime,residential,1,0
+b6d0b9d1-3460a220.jpg,traffic sign,traffic light,0.7313915995302896,clear,night,city street,0,0
+b6d0b9d1-9e750bae.jpg,traffic sign,traffic light,0.607685568798782,clear,night,city street,0,0
+b6d0b9d1-bfbc7861.jpg,motor,car,0.7371076464881515,rainy,dawn/dusk,city street,1,0
+b6d2717a-6e17bbb1.jpg,traffic sign,car,0.7250849928461661,clear,night,highway,0,0
+b6d2717a-6e17bbb1.jpg,car,traffic sign,0.7474205846841387,clear,night,highway,0,0
+b6d6e4f6-cc416656.jpg,car,truck,0.875459881803924,undefined,daytime,city street,1,0
+b6d855a5-c1d5a996.jpg,motor,person,0.6396410546590222,partly cloudy,daytime,city street,1,0
+b6decb24-75789742.jpg,truck,car,0.5653626422687957,undefined,daytime,city street,1,0
+b6decb24-fffc40f7.jpg,car,truck,0.6381462345919725,partly cloudy,dawn/dusk,city street,0,1
+b6e49a81-ca7f9e9d.jpg,traffic sign,traffic light,0.6664320300115387,undefined,daytime,city street,0,0
+b6e4a55e-2e6228cc.jpg,truck,bus,0.82173282740788,snowy,dawn/dusk,city street,0,0
+b6e602b3-50bfb157.jpg,person,rider,0.7273906919281825,undefined,daytime,residential,1,0
+b6e602b3-50bfb157.jpg,person,rider,0.512386031482214,undefined,daytime,residential,1,0
+b6ea1520-1c9df539.jpg,person,rider,0.8043019008440677,clear,dawn/dusk,city street,0,0
+b6ea1520-1c9df539.jpg,person,bike,0.6104256211126073,clear,dawn/dusk,city street,0,0
+b6f95b33-d54400d9.jpg,traffic light,traffic sign,0.9034938164711105,rainy,night,city street,0,0
+b701e0ad-899d1610.jpg,motor,person,0.8569409646465345,undefined,daytime,city street,0,0
+b701e0ad-899d1610.jpg,traffic sign,traffic light,0.7078055186124348,undefined,daytime,city street,0,0
+b70692e1-fcb7203c.jpg,truck,bus,0.6571637974107336,snowy,daytime,residential,1,0
+b70f200b-ad49ec36.jpg,bus,car,0.6384048678823402,undefined,daytime,city street,1,0
+b714a088-861a043b.jpg,truck,car,0.8669438625364844,undefined,dawn/dusk,city street,0,0
+b714a088-861a043b.jpg,truck,bus,0.720475039527038,undefined,dawn/dusk,city street,1,0
+b71bb4df-b9837e9c.jpg,bus,truck,0.8305822657732304,clear,daytime,highway,0,0
+b71bf87d-894c1a21.jpg,car,bus,0.5505002658307631,rainy,daytime,city street,1,0
+b71ecc5a-7a837d0a.jpg,traffic sign,car,0.9575515402262621,snowy,daytime,city street,0,0
+b71f7e68-578dfb43.jpg,car,traffic sign,0.769646843088448,rainy,dawn/dusk,highway,0,0
+b72393ac-b071c025.jpg,truck,car,0.8035035227803546,clear,daytime,residential,1,0
+b726c429-c334aa54.jpg,rider,person,0.5719128836546016,overcast,daytime,city street,1,0
+b72812e8-c636249b.jpg,truck,car,0.7300487616625309,clear,daytime,city street,1,0
+b729d9e2-a4d95e09.jpg,truck,car,0.7467611514755562,undefined,daytime,city street,0,0
+b72b3974-9667b29a.jpg,traffic light,traffic sign,0.5035031058263251,clear,daytime,highway,0,0
+b7301a4a-b25a846a.jpg,car,truck,0.8031635595030198,clear,night,city street,1,0
+b7404583-645b7fd7.jpg,traffic sign,traffic light,0.7187178513236593,clear,daytime,city street,0,0
+b740e2ac-c01ee78f.jpg,truck,car,0.7439578142368624,clear,daytime,city street,1,0
+b74111eb-d21a119b.jpg,traffic sign,traffic light,0.6177278824601465,clear,daytime,city street,0,0
+b74111eb-d21a119b.jpg,truck,car,0.8866425739444294,clear,daytime,city street,1,0
+b7457987-9bccf8c4.jpg,traffic light,traffic sign,0.8640255240857079,rainy,daytime,highway,0,0
+b747b30e-991436c7.jpg,truck,car,0.7041504618287219,clear,daytime,city street,0,0
+b74ca6c1-38f5c3c8.jpg,truck,car,0.954942284989968,undefined,daytime,city street,0,0
+b75da19e-a1d997ec.jpg,truck,car,0.8108844802819564,overcast,daytime,city street,1,0
+b75da19e-a1d997ec.jpg,truck,car,0.9614148659998863,overcast,daytime,city street,1,0
+b75da19e-ce52c274.jpg,car,traffic light,0.7061994879824603,undefined,daytime,city street,0,0
+b75da19e-ce52c274.jpg,car,traffic light,0.7340042876739232,undefined,daytime,city street,0,0
+b75f355e-b8ecbd7e.jpg,traffic light,traffic sign,0.8842153599051327,clear,daytime,city street,0,0
+b75f814e-4b7257ae.jpg,truck,bus,0.9790741694185832,clear,night,highway,0,0
+b760329b-611024b4.jpg,car,truck,0.6711307201991409,partly cloudy,daytime,residential,0,0
+b760329b-611024b4.jpg,car,truck,0.8235209306096536,partly cloudy,daytime,residential,1,0
+b7610ba3-9eabe8e3.jpg,car,truck,0.9845737177259362,overcast,daytime,highway,1,0
+b769f2fa-026548da.jpg,car,person,0.8093367139304141,overcast,daytime,city street,1,0
+b769f2fa-026548da.jpg,car,person,0.7251351202724066,overcast,daytime,city street,1,0
+b769f2fa-026548da.jpg,car,person,0.5257306202750818,overcast,daytime,city street,1,0
+b769f2fa-026548da.jpg,car,person,0.6329333854463599,overcast,daytime,city street,1,0
+b770f56a-3e8cba7a.jpg,truck,bus,0.9128586606773205,clear,night,city street,1,0
+b770f56a-3e8cba7a.jpg,truck,bus,0.9340445970613389,clear,night,city street,1,0
+b77a6ed6-5661f543.jpg,bus,truck,0.7979792460408587,clear,daytime,city street,0,0
+b77dc345-d1f9b91c.jpg,traffic sign,car,0.5283302348111497,overcast,daytime,city street,1,0
+b7831880-0327e785.jpg,car,person,0.9448724907178379,clear,night,city street,0,1
+b784ff27-baf00daa.jpg,truck,car,0.8457378405935214,clear,daytime,highway,1,0
+b784ff27-baf00daa.jpg,bus,truck,0.8303784193574224,clear,daytime,highway,1,0
+b788c509-9d3284e8.jpg,traffic light,traffic sign,0.6955199180189965,undefined,daytime,city street,0,0
+b78dd814-86a01e2e.jpg,truck,bus,0.8782937200636127,snowy,night,highway,1,0
+b78dd814-b57822af.jpg,bus,car,0.5605182155210542,snowy,night,residential,1,1
+b792daf1-52513869.jpg,truck,car,0.6583578107923423,clear,daytime,city street,1,0
+b792daf1-52513869.jpg,car,truck,0.6545530332391637,clear,daytime,city street,0,0
+b792daf1-52513869.jpg,car,bus,0.6658033167293306,clear,daytime,city street,0,0
+b7984475-0a28901d.jpg,traffic sign,traffic light,0.7493040390304616,clear,daytime,city street,0,0
+b7a8e795-779e8c02.jpg,car,truck,0.8252724904469138,partly cloudy,daytime,city street,1,0
+b7a8e795-779e8c02.jpg,motor,bike,0.5108887160548631,partly cloudy,daytime,city street,0,0
+b7a97cb6-1d099495.jpg,traffic sign,car,0.7669093469158339,clear,night,city street,0,0
+b7a9b166-01d09e6b.jpg,car,truck,0.5220080197182171,clear,daytime,city street,1,0
+b7a9b166-52309c81.jpg,truck,car,0.8553863824266157,clear,daytime,city street,1,0
+b7a9b166-fd70d717.jpg,car,traffic sign,0.8450626022034047,snowy,daytime,highway,0,0
+b7a9b166-fd70d717.jpg,car,traffic sign,0.6512057280118367,snowy,daytime,highway,0,0
+b7abfbea-3067ba7b.jpg,motor,car,0.5448214193847701,clear,daytime,city street,0,0
+b7abfbea-3067ba7b.jpg,motor,car,0.729947224353842,clear,daytime,city street,0,0
+b7ad4512-5b2510d8.jpg,truck,car,0.7027003125636191,rainy,daytime,residential,0,1
+b7b132fc-12fe1b49.jpg,truck,car,0.8488076635092525,undefined,daytime,city street,1,0
+b7b132fc-ba819254.jpg,car,bus,0.8081450473129147,undefined,daytime,city street,0,0
+b7b132fc-ba819254.jpg,car,truck,0.9393254339351584,undefined,daytime,city street,0,0
+b7b1f657-c3290194.jpg,truck,car,0.7302277173791478,undefined,daytime,city street,1,0
+b7b58fcc-1ac3ea04.jpg,traffic sign,traffic light,0.7809718771373914,clear,daytime,highway,1,1
+b7b7c088-13945e4c.jpg,traffic sign,traffic light,0.5449485457748919,overcast,daytime,city street,0,0
+b7bb0d6e-19d84993.jpg,traffic sign,traffic light,0.7606996750981956,partly cloudy,night,city street,0,1
+b7bb37d8-c413361a.jpg,traffic light,traffic sign,0.6605470331987872,clear,daytime,city street,0,0
+b7bfad97-89e3ef28.jpg,person,car,0.6600064331593676,clear,dawn/dusk,city street,0,1
+b7c48676-355433ae.jpg,person,car,0.6014401579286055,snowy,daytime,city street,1,0
+b7c8c7f6-899b3996.jpg,car,truck,0.8718923100274878,clear,night,highway,1,0
+b7d277b3-a6f32171.jpg,car,truck,0.7767037243129289,clear,daytime,city street,1,0
+b7d34a28-7404150e.jpg,truck,car,0.9508837291858818,clear,night,city street,1,0
+b7d34a28-7404150e.jpg,truck,car,0.895487426680873,clear,night,city street,1,0
+b7d7713a-0ce4c8f1.jpg,truck,car,0.8630721272094581,partly cloudy,daytime,city street,1,0
+b7db31d1-fa13a84a.jpg,truck,car,0.8562487544555362,undefined,daytime,residential,1,0
+b7e98aaf-df117cd8.jpg,car,truck,0.7876800930566387,clear,night,residential,0,1
+b7ec9c7e-816b5937.jpg,truck,car,0.6560149218240088,overcast,daytime,highway,0,0
+b7fbffdb-7dd0268d.jpg,traffic light,traffic sign,0.9379352590709991,partly cloudy,daytime,city street,0,0
+b7fbffdb-7dd0268d.jpg,truck,car,0.6438636298434812,partly cloudy,daytime,city street,1,0
+b7fd2970-d748193c.jpg,truck,car,0.8854652101541894,clear,daytime,residential,0,0
+b7fd3f86-2750b2d7.jpg,truck,car,0.7553321608320629,overcast,daytime,city street,0,0
+b7ff9d09-5bef519f.jpg,person,car,0.6428398486225997,clear,daytime,city street,1,0
+b8025b43-db6cdd13.jpg,bus,car,0.8932715456855109,clear,daytime,city street,1,1
+b8025b43-db6cdd13.jpg,truck,car,0.6276984197832352,clear,daytime,city street,1,0
+b803d91d-17b149ce.jpg,truck,bus,0.692644404160484,snowy,daytime,city street,1,1
+b803d91d-ff86709c.jpg,truck,car,0.8555962709226815,snowy,daytime,city street,1,0
+b803d91d-ff86709c.jpg,truck,car,0.8719565733357968,snowy,daytime,city street,0,1
+b803d91d-ff86709c.jpg,truck,car,0.5129457169442226,snowy,daytime,city street,1,0
+b804f988-eb510a9a.jpg,truck,car,0.960609501994249,clear,night,city street,0,0
+b804f988-eb510a9a.jpg,truck,bus,0.9537511649362113,clear,night,city street,0,0
+b8125aef-ae843995.jpg,car,person,0.814902187322172,partly cloudy,daytime,city street,1,1
+b81771ca-32f6b949.jpg,car,traffic sign,0.8394607915770206,clear,night,highway,0,0
+b81771ca-32f6b949.jpg,car,traffic sign,0.9134595291680838,clear,night,highway,0,0
+b818033e-1407617c.jpg,truck,car,0.9319557131905527,overcast,daytime,city street,1,1
+b818033e-87034df2.jpg,car,truck,0.7951762370862727,overcast,daytime,residential,0,0
+b81d060a-b2203c99.jpg,traffic sign,truck,0.967477630217543,undefined,daytime,city street,0,0
+b81d060a-b2203c99.jpg,car,truck,0.6547625984758919,undefined,daytime,city street,1,0
+b8201476-b9dba8dd.jpg,truck,car,0.9116147694699338,clear,daytime,city street,1,0
+b8201476-b9dba8dd.jpg,truck,car,0.6845920851214327,clear,daytime,city street,1,0
+b82f91d7-bfddb3c7.jpg,truck,car,0.9809657597882964,snowy,daytime,highway,0,0
+b830e68f-29ab7518.jpg,bus,car,0.7359803676136916,clear,night,city street,0,0
+b8322a8e-438f9ef0.jpg,truck,car,0.9320331415584535,rainy,night,city street,0,0
+b83235c2-32416553.jpg,traffic sign,traffic light,0.5225917787249671,clear,daytime,city street,1,0
+b836b14a-fb13c905.jpg,rider,person,0.824889739607254,rainy,daytime,city street,1,0
+b83ec6be-edf04b3c.jpg,truck,car,0.8595561351561549,clear,night,highway,1,0
+b842809b-8900f4f0.jpg,traffic sign,traffic light,0.5764585269182295,clear,night,city street,0,0
+b84a1117-3673ce8a.jpg,traffic light,traffic sign,0.7963567447767312,rainy,daytime,city street,0,0
+b84ba7d0-583269f1.jpg,car,truck,0.9796885457258802,undefined,daytime,residential,0,1
+b84da41b-2d3fce12.jpg,truck,car,0.9449597005875188,undefined,daytime,city street,0,1
+b84f4f83-c6842bd6.jpg,car,truck,0.9294493468738704,clear,night,city street,0,0
+b851c0af-630d8381.jpg,car,motor,0.8653308483330907,clear,night,city street,1,0
+b857eb06-2a0d9098.jpg,truck,car,0.6480579609731236,rainy,daytime,highway,1,0
+b857eb06-a85b37f5.jpg,truck,car,0.6340692398954771,overcast,daytime,highway,1,0
+b85a3ec7-4296bad6.jpg,truck,car,0.9457896019979788,rainy,daytime,residential,1,0
+b85eb331-920d81fe.jpg,rider,person,0.6762325918711662,clear,daytime,highway,1,0
+b85f5cc9-44db10f1.jpg,truck,car,0.8365984692239807,clear,daytime,city street,1,0
+b85f5cc9-44db10f1.jpg,truck,car,0.9358796435104239,clear,daytime,city street,1,0
+b85f5cc9-44db10f1.jpg,truck,car,0.564199236314102,clear,daytime,city street,1,0
+b86294f6-781fa55d.jpg,traffic light,traffic sign,0.7878835038692027,clear,night,city street,0,0
+b863bd5e-d1ff4b7c.jpg,car,bus,0.7390384766935029,clear,dawn/dusk,city street,0,0
+b86413b9-35499361.jpg,bus,car,0.9110301840805866,overcast,daytime,highway,1,0
+b86413b9-c5b79892.jpg,traffic sign,car,0.7633824080250234,clear,dawn/dusk,residential,1,0
+b869965a-f5ff417c.jpg,bus,truck,0.9090870562363046,clear,daytime,highway,0,0
+b86ab068-8556a229.jpg,traffic light,traffic sign,0.8378862209441439,overcast,daytime,city street,0,0
+b873c993-1d508f5a.jpg,truck,bus,0.9610060141319938,snowy,daytime,city street,1,1
+b873c993-69e9f8fb.jpg,truck,car,0.8448954467244093,snowy,daytime,city street,1,1
+b87ca2c5-47ae44e3.jpg,truck,car,0.6964485565897518,undefined,daytime,city street,1,0
+b87ee3bb-be0b1bb6.jpg,car,bus,0.7660347732517436,clear,night,city street,0,1
+b8854854-756c468f.jpg,traffic sign,car,0.5256659693653649,clear,daytime,city street,0,0
+b88b6624-e1aabf99.jpg,car,truck,0.9087320840240742,overcast,daytime,city street,0,0
+b893983a-265a0b70.jpg,truck,car,0.8193874860261182,overcast,daytime,city street,1,0
+b893983a-265a0b70.jpg,truck,car,0.5176803346840128,overcast,daytime,city street,1,0
+b89581ec-e0ee3038.jpg,car,truck,0.6913316789000087,clear,night,city street,0,0
+b8a135c9-434a126d.jpg,bus,car,0.753973258529929,snowy,dawn/dusk,residential,1,0
+b8a835db-c49dfee5.jpg,truck,car,0.7392614313019847,clear,daytime,city street,1,0
+b8a9d382-3bd7d3e4.jpg,truck,car,0.9833088744266753,clear,night,city street,0,1
+b8acc534-23eb2531.jpg,truck,bus,0.870896011150293,clear,night,city street,0,1
+b8b18469-00a140bf.jpg,truck,car,0.7639677789784667,clear,daytime,highway,1,0
+b8b9ffae-d3cb2bbd.jpg,bus,car,0.9391538449895619,partly cloudy,daytime,residential,0,0
+b8b9ffae-d3cb2bbd.jpg,bus,truck,0.9573138057383985,partly cloudy,daytime,residential,0,0
+b8c21917-b001727c.jpg,traffic sign,traffic light,0.8121401953737184,clear,daytime,residential,0,0
+b8c21917-b001727c.jpg,truck,bus,0.818096265294496,clear,daytime,residential,0,1
+b8c3f870-db0f236f.jpg,truck,car,0.9444083094881782,snowy,dawn/dusk,highway,0,1
+b8c7c957-84df8251.jpg,truck,car,0.9339493985634864,clear,daytime,highway,0,0
+b8c7c957-84df8251.jpg,truck,car,0.7460136590113161,clear,daytime,highway,1,0
+b8dce66a-004c2b9d.jpg,car,traffic sign,0.7941501545949294,clear,night,highway,0,0
+b8e06f7a-f11a9604.jpg,truck,car,0.6318136372428758,undefined,daytime,highway,1,0
+b8e675b0-eeb01556.jpg,car,truck,0.6916661598852859,clear,daytime,highway,0,1
+b8f0315c-6d83432c.jpg,car,traffic light,0.6316790147231249,overcast,daytime,city street,0,0
+b8f0b141-c00fd8b4.jpg,truck,car,0.8386174733563887,clear,dawn/dusk,city street,1,0
+b8fb5451-6c0e5ec6.jpg,traffic light,traffic sign,0.9025434657761593,partly cloudy,daytime,city street,0,0
+b8fe9f2b-d63131a3.jpg,truck,car,0.5058696193948539,partly cloudy,daytime,city street,0,0
+b9012b42-ba320de2.jpg,truck,traffic sign,0.6382147736703594,undefined,daytime,city street,1,0
+b9102500-70bcb1c3.jpg,bus,car,0.7594431056448246,overcast,daytime,highway,1,0
+b91383d9-1f2454a4.jpg,truck,car,0.9489099769541902,partly cloudy,daytime,highway,0,0
+b91cdc5d-bce994ce.jpg,motor,car,0.51240602300118,clear,daytime,city street,1,0
+b9206eb1-08915f67.jpg,rider,person,0.7468312331292706,clear,daytime,city street,1,0
+b928271b-35145ad6.jpg,car,truck,0.9646766820176881,clear,daytime,city street,0,1
+b931fe93-37b7cffb.jpg,car,bus,0.6135856188628507,snowy,night,city street,1,0
+b931fe93-37b7cffb.jpg,traffic sign,traffic light,0.7189828035286786,snowy,night,city street,0,0
+b934dfc0-55ee2773.jpg,truck,car,0.5277918366267048,overcast,daytime,city street,1,0
+b934dfc0-55ee2773.jpg,bus,car,0.8024611575639624,overcast,daytime,city street,1,0
+b934dfc0-55ee2773.jpg,bus,truck,0.8361864607696662,overcast,daytime,city street,1,0
+b934dfc0-55ee2773.jpg,truck,car,0.751396960977291,overcast,daytime,city street,1,0
+b93616ca-eaeb3f71.jpg,bus,car,0.7526296125999834,partly cloudy,daytime,city street,0,0
+b9470f2d-aa9b22f2.jpg,truck,car,0.8170824459134732,clear,daytime,city street,0,0
+b953a340-298cb3fb.jpg,person,rider,0.6452645447718127,overcast,daytime,city street,0,0
+b953a340-298cb3fb.jpg,traffic sign,traffic light,0.7495422524255412,overcast,daytime,city street,0,0
+b953a340-d188ea90.jpg,truck,bus,0.8856514501436994,snowy,daytime,residential,1,0
+b953a340-d936cbba.jpg,truck,bus,0.9324009448759659,snowy,daytime,residential,0,0
+b955232a-62397ff4.jpg,rider,person,0.6540285035879473,clear,night,city street,1,0
+b9586e5c-33b83562.jpg,traffic light,car,0.8389992538814804,snowy,daytime,city street,0,0
+b9597719-4d141a98.jpg,rider,person,0.6297698205265368,clear,daytime,residential,1,0
+b959dc9b-1c7fc954.jpg,traffic light,traffic sign,0.7596650529878036,clear,night,city street,0,0
+b965ce1b-ad83b0ff.jpg,traffic sign,traffic light,0.5693203329407789,undefined,daytime,city street,0,0
+b96d19af-4b6a5a63.jpg,car,truck,0.863238413945529,clear,night,city street,1,0
+b9782b2a-681c4b4d.jpg,truck,car,0.839984851755527,clear,dawn/dusk,residential,0,0
+b9782b2a-681c4b4d.jpg,truck,car,0.6094645891094259,clear,dawn/dusk,residential,0,0
+b97e697f-1c37913f.jpg,bus,car,0.91358196034366,undefined,daytime,city street,0,0
+b97e697f-1c37913f.jpg,bus,truck,0.8053291246623219,undefined,daytime,city street,1,0
+b981e7e3-f39b9a1b.jpg,truck,car,0.6556575431888065,snowy,dawn/dusk,residential,0,0
+b989ad0d-b8f7d12a.jpg,truck,car,0.8541201357217948,clear,daytime,highway,0,0
+b995794d-66208231.jpg,truck,bus,0.9531779013447242,overcast,daytime,city street,0,0
+b9966b34-d7579b48.jpg,bus,car,0.6315677775777779,overcast,daytime,residential,1,0
+b99eeedd-f211870f.jpg,truck,car,0.5969260930376652,clear,daytime,highway,1,0
+b99f7c8d-b97ed7dc.jpg,person,car,0.6294931567147801,overcast,dawn/dusk,city street,0,0
+b99f7c8d-b97ed7dc.jpg,traffic light,person,0.6741303675332943,overcast,dawn/dusk,city street,0,0
+b99f7c8d-b97ed7dc.jpg,car,traffic sign,0.7797076778818178,overcast,dawn/dusk,city street,0,0
+b99fd3ff-95f75133.jpg,traffic sign,traffic light,0.781130401912109,clear,daytime,city street,0,1
+b9a2146e-1fcf3af6.jpg,truck,car,0.8590502103166618,partly cloudy,daytime,residential,0,0
+b9aabdcf-d1433a19.jpg,car,truck,0.9547876152562925,clear,daytime,city street,1,0
+b9aabdcf-d1433a19.jpg,car,bus,0.9178112400214186,clear,daytime,city street,1,0
+b9b53753-91a5d5f8.jpg,car,bus,0.8249574173191481,rainy,daytime,tunnel,1,0
+b9c71ec0-1a77e45e.jpg,truck,car,0.9617305673264899,overcast,daytime,city street,0,0
+b9d34460-2c3b1ab3.jpg,truck,car,0.9620492852978196,rainy,daytime,highway,0,1
+b9d34460-68942f09.jpg,truck,car,0.6669424259781473,foggy,daytime,city street,1,0
+b9d34460-d648a4c1.jpg,bus,truck,0.8953936413930238,rainy,daytime,highway,0,0
+b9d34460-eb5b8d34.jpg,truck,car,0.751653175459568,rainy,daytime,city street,1,0
+b9de552a-0e2a01b8.jpg,car,bus,0.5493288030894667,clear,night,city street,0,1
+b9df54a4-66f58812.jpg,bus,truck,0.9557896451359408,undefined,daytime,city street,0,1
+b9df54a4-8203d67b.jpg,bus,car,0.9566699495974476,partly cloudy,daytime,city street,0,0
+b9df54a4-8203d67b.jpg,traffic sign,traffic light,0.6273718391250427,partly cloudy,daytime,city street,0,0
+b9e2c847-48127b39.jpg,truck,bus,0.8275840185879656,clear,night,city street,1,0
+b9ecc316-2fdb6c92.jpg,truck,car,0.6656742689018846,rainy,daytime,city street,0,0
+b9f83545-eb28b690.jpg,truck,car,0.9810489215017825,rainy,daytime,city street,0,0
+b9fb8b07-28df834c.jpg,traffic sign,traffic light,0.5718995795993621,partly cloudy,daytime,city street,0,0
+b9fdf8bf-9de2321b.jpg,car,truck,0.9368527894599632,clear,daytime,city street,0,0
+b9fdf8bf-9de2321b.jpg,car,truck,0.5616068929771559,clear,daytime,city street,0,0
+ba01e424-d3effc2d.jpg,car,person,0.7834975684088785,undefined,daytime,city street,0,0
+ba01e424-d3effc2d.jpg,car,person,0.6425246176735585,undefined,daytime,city street,1,0
+ba01e424-d3effc2d.jpg,car,person,0.8598625563820559,undefined,daytime,city street,0,0
+ba01e424-d3effc2d.jpg,car,person,0.9134344364284934,undefined,daytime,city street,0,0
+ba01e424-d3effc2d.jpg,car,person,0.8178662242457045,undefined,daytime,city street,0,0
+ba01e424-d3effc2d.jpg,car,person,0.8472208257065343,undefined,daytime,city street,0,0
+ba01e424-d3effc2d.jpg,car,person,0.7718932402237022,undefined,daytime,city street,1,0
+ba01e424-d3effc2d.jpg,car,person,0.6394328485936085,undefined,daytime,city street,1,0
+ba01e424-d3effc2d.jpg,car,person,0.7153641151926791,undefined,daytime,city street,0,0
+ba01e424-d3effc2d.jpg,car,person,0.6881420099580793,undefined,daytime,city street,1,0
+ba01e424-d3effc2d.jpg,car,person,0.5293993509866539,undefined,daytime,city street,1,0
+ba01e424-d3effc2d.jpg,car,person,0.7714711498826385,undefined,daytime,city street,1,0
+ba01e424-d3effc2d.jpg,car,person,0.5563169665246379,undefined,daytime,city street,0,0
+ba01e424-d3effc2d.jpg,car,person,0.5142176382046784,undefined,daytime,city street,1,0
+ba01e424-d3effc2d.jpg,car,person,0.6045676852821557,undefined,daytime,city street,0,0
+ba01e424-d3effc2d.jpg,car,person,0.596148972601724,undefined,daytime,city street,1,0
+ba08174b-15c134f7.jpg,truck,car,0.9515695392387437,overcast,daytime,city street,1,0
+ba09810a-a1c9c327.jpg,car,person,0.8499254046119067,clear,daytime,city street,1,0
+ba09810a-a1c9c327.jpg,car,person,0.7212594682846253,clear,daytime,city street,1,0
+ba09810a-a1c9c327.jpg,car,person,0.6029177108123233,clear,daytime,city street,1,0
+ba0a827b-dfcec16f.jpg,truck,car,0.9234367141261438,clear,night,city street,0,0
+ba112f29-be7a8dfc.jpg,traffic light,traffic sign,0.5528772616283524,rainy,night,city street,0,0
+ba19e1c4-c243da22.jpg,truck,car,0.5940720184267321,partly cloudy,daytime,highway,0,0
+ba1c5b5f-bc36c5fa.jpg,car,truck,0.7752006995140659,clear,daytime,highway,1,1
+ba1f97fc-214aaccb.jpg,traffic sign,traffic light,0.6430165579289963,clear,daytime,residential,0,0
+ba22eaaf-b6fad89d.jpg,truck,car,0.7723488162826211,clear,daytime,highway,1,0
+ba2e8260-2f6c9b36.jpg,motor,bike,0.8396077507907975,undefined,daytime,city street,1,0
+ba2e8c76-d41571cb.jpg,truck,car,0.8179899630492578,undefined,daytime,highway,1,0
+ba31ed47-117c074b.jpg,car,truck,0.8541506569140513,clear,daytime,city street,0,0
+ba37b3d4-a8126899.jpg,truck,car,0.891798539430174,clear,daytime,city street,0,1
+ba37b3d4-a8126899.jpg,car,bus,0.9255540652038884,clear,daytime,city street,0,0
+ba3d031c-e85b19e4.jpg,bus,car,0.7299835232785851,partly cloudy,daytime,city street,0,0
+ba3ffa1d-05ce6de4.jpg,truck,car,0.9733420510623351,overcast,daytime,city street,0,1
+ba4432a9-3956a266.jpg,rider,person,0.8943560707214112,clear,daytime,residential,0,0
+ba4432a9-9df2cbad.jpg,truck,car,0.8896696371494343,partly cloudy,daytime,residential,1,0
+ba508231-2158c29b.jpg,truck,car,0.9066997847889584,clear,daytime,city street,1,0
+ba510a80-edefe47f.jpg,truck,car,0.7921242946993868,clear,daytime,city street,1,0
+ba510a80-edefe47f.jpg,traffic sign,traffic light,0.5348610204366676,clear,daytime,city street,1,0
+ba60e97a-3b02b136.jpg,car,truck,0.813459334128425,partly cloudy,daytime,city street,0,1
+ba635a0a-fd69cb62.jpg,truck,car,0.708019130977821,clear,daytime,city street,1,0
+ba65c274-e0f6a546.jpg,rider,person,0.5900677819255358,undefined,daytime,city street,1,0
+ba6aa28c-fd3beb1c.jpg,car,rider,0.5050832206893553,clear,night,highway,1,0
+ba73ab52-4980c05c.jpg,truck,traffic light,0.826178856870903,overcast,daytime,city street,0,0
+ba73ab52-4980c05c.jpg,bus,truck,0.5251632675883224,overcast,daytime,city street,1,0
+ba8138ba-3a90a8bf.jpg,car,truck,0.9780001855091788,undefined,daytime,city street,0,0
+ba87390f-22dabe83.jpg,traffic sign,traffic light,0.5701551086519622,clear,night,residential,0,0
+ba8df917-d4cd5e36.jpg,truck,car,0.9161910163683414,clear,night,city street,0,1
+ba908c74-4e0a63ae.jpg,bus,car,0.7219013424698404,undefined,daytime,city street,1,0
+ba99033d-82ea8fb8.jpg,truck,car,0.8985390456424768,undefined,daytime,city street,0,1
+baa09f40-a72f5fa3.jpg,truck,car,0.5934292582625308,clear,night,city street,0,0
+baa50786-e1613030.jpg,car,truck,0.9369490427698609,clear,daytime,highway,0,0
+baa59d18-90fc3158.jpg,car,truck,0.7998590038757122,rainy,daytime,city street,1,0
+baa9acbe-f3af19f6.jpg,truck,bus,0.896048956776357,clear,night,city street,0,0
+baab5a30-8d713374.jpg,car,bus,0.9301823087088612,clear,daytime,highway,0,1
+bab692c9-35904fdb.jpg,truck,car,0.8948917304577383,clear,daytime,city street,0,1
+bab97280-a3c6a37c.jpg,person,traffic sign,0.7425836327850364,rainy,daytime,city street,0,0
+bac391de-5885bad6.jpg,truck,car,0.9507745107126794,snowy,daytime,city street,0,1
+bac8fe51-6b258bd9.jpg,bus,car,0.67597928176091,overcast,daytime,city street,1,0
+bacfd285-7f7bf1ce.jpg,traffic sign,traffic light,0.8870664487639438,overcast,daytime,city street,0,0
+bad4932f-06acec3c.jpg,car,person,0.5044882363034078,overcast,daytime,city street,1,0
+bade898f-11350592.jpg,rider,person,0.5645855454797034,clear,daytime,city street,1,0
+bae4f394-11239e42.jpg,car,traffic sign,0.5785025830254724,undefined,night,city street,0,0
+bae5905c-b009aff3.jpg,person,car,0.7119614441642487,clear,daytime,city street,0,0
+bae9f15e-0f68c902.jpg,bus,car,0.8062375807768563,clear,daytime,city street,1,0
+baeb1657-6169cccd.jpg,car,truck,0.9730757082868892,clear,daytime,highway,0,0
+baecebd1-0c93fa0d.jpg,motor,car,0.665981531133771,rainy,daytime,city street,1,0
+baee6fb9-390cd194.jpg,person,car,0.6138470060961801,clear,daytime,city street,1,0
+baef72b1-809d1abe.jpg,truck,bus,0.9613148739669314,undefined,daytime,city street,1,0
+baef72b1-809d1abe.jpg,traffic sign,traffic light,0.6411049826828918,undefined,daytime,city street,0,0
+baef8908-b0802135.jpg,bus,truck,0.7973170426444058,rainy,daytime,city street,1,0
+baef8908-b0802135.jpg,truck,bus,0.9482766185740461,rainy,daytime,city street,1,0
+baefbbd2-83ba702b.jpg,traffic light,traffic sign,0.5485580333526306,snowy,night,city street,0,0
+baefe65c-bb9793d9.jpg,truck,car,0.9342417151281639,clear,daytime,highway,1,0
+baf1c81c-d909d4dc.jpg,traffic light,traffic sign,0.7951428446248267,clear,night,city street,0,0
+baf29436-f6375fa4.jpg,truck,car,0.8722269471354822,overcast,daytime,city street,0,0
+baf29436-f6375fa4.jpg,truck,car,0.7686901005691555,overcast,daytime,city street,1,0
+baf567e1-5ffa6b77.jpg,bike,motor,0.6769722058451267,partly cloudy,daytime,city street,1,0
+baf6c5b1-9236f4d1.jpg,bus,truck,0.8669336240785408,undefined,daytime,city street,1,0
+baf870f0-a1a64cd6.jpg,truck,bus,0.8789568249284023,clear,daytime,city street,0,0
+bafb04fb-119f164b.jpg,car,bus,0.7479451395679374,rainy,daytime,highway,0,0
+bafb04fb-119f164b.jpg,car,truck,0.7615006696030562,rainy,daytime,highway,0,0
+bafcc992-a5faf18d.jpg,truck,bus,0.897956981968142,rainy,daytime,city street,1,0
+bb0d0a55-6e9e48be.jpg,truck,car,0.9532127675738421,snowy,daytime,highway,1,0
+bb0ea699-3d008331.jpg,truck,car,0.754558673334152,clear,daytime,highway,0,0
+bb0ea699-e350eac6.jpg,traffic sign,car,0.7986385323588726,clear,daytime,city street,0,0
+bb145d9b-5ae8376f.jpg,truck,car,0.5958288661886479,undefined,night,highway,0,0
+bb160b7f-0553000b.jpg,truck,car,0.6180522278940769,undefined,daytime,city street,0,1
+bb16d9b5-588275af.jpg,truck,car,0.778581173106809,undefined,daytime,city street,0,1
+bb17665d-8f5794bb.jpg,truck,car,0.7340132607407666,undefined,night,city street,1,0
+bb198c24-924a7794.jpg,truck,car,0.9585284799352994,clear,night,city street,0,0
+bb2ecd61-c580ebaf.jpg,car,bus,0.8320205773486256,clear,night,city street,1,0
+bb2f678a-73bc87ec.jpg,truck,car,0.9323037247820664,snowy,daytime,highway,0,0
+bb2f678a-92915562.jpg,traffic sign,truck,0.6440077972173154,snowy,daytime,highway,0,0
+bb2f678a-af43ed71.jpg,truck,car,0.7457864524337943,snowy,daytime,residential,0,0
+bb2f678a-af43ed71.jpg,truck,car,0.6549200871044998,snowy,daytime,residential,0,0
+bb2f678a-af43ed71.jpg,truck,bus,0.8347897351629677,snowy,daytime,residential,0,0
+bb391d59-8c851310.jpg,truck,car,0.9319670097313844,snowy,daytime,city street,0,0
+bb3ada23-9d8e8e6e.jpg,truck,car,0.9657581659483545,overcast,dawn/dusk,city street,0,0
+bb3bb8c0-c140b72f.jpg,car,truck,0.7115856136162307,snowy,night,city street,0,0
+bb3bb8c0-c140b72f.jpg,car,bus,0.7184145534472285,snowy,night,city street,0,0
+bb3f49d9-ca104345.jpg,traffic light,traffic sign,0.614031503532135,clear,night,city street,0,0
+bb55f0e2-e5501b3c.jpg,person,car,0.6797429693941061,clear,daytime,city street,1,0
+bb55f0e2-e5501b3c.jpg,person,car,0.7158182678821066,clear,daytime,city street,1,0
+bb55f0e2-e5501b3c.jpg,person,car,0.5919886906997255,clear,daytime,city street,1,0
+bb5cc516-235bb167.jpg,truck,car,0.9634483094186009,rainy,daytime,city street,0,1
+bb655f15-825903ad.jpg,rider,person,0.5431104050237292,undefined,daytime,city street,1,0
+bb6575eb-90478df6.jpg,traffic light,traffic sign,0.8117152236961227,rainy,dawn/dusk,highway,0,0
+bb6643fa-a2b42d16.jpg,traffic sign,traffic light,0.6562606967242685,partly cloudy,daytime,city street,0,0
+bb71ba86-3204e97e.jpg,bus,car,0.8558883611761746,partly cloudy,daytime,city street,0,0
+bb725082-6cfb3269.jpg,truck,car,0.940012856950424,clear,daytime,residential,1,0
+bb7696a2-4c117c92.jpg,traffic light,traffic sign,0.6684787377676328,rainy,night,city street,0,0
+bb7792f1-e7ef3677.jpg,bike,person,0.6699217927090251,undefined,daytime,city street,1,0
+bb78624a-098bd29a.jpg,truck,car,0.7785737080207265,overcast,daytime,highway,1,0
+bb78fe06-3994d745.jpg,truck,car,0.8992996067570298,partly cloudy,daytime,highway,0,0
+bb7fd291-10af39c3.jpg,car,bus,0.8717365947834982,overcast,daytime,residential,0,1
+bb7fd291-10af39c3.jpg,car,truck,0.838106444229643,overcast,daytime,residential,0,1
+bb7fd291-bf28c0b5.jpg,truck,car,0.686557656465412,overcast,daytime,residential,1,0
+bb7fd291-bf28c0b5.jpg,truck,car,0.7992363917082326,overcast,daytime,residential,1,0
+bb8dba97-50af5a1e.jpg,truck,bus,0.9630025289867371,overcast,daytime,highway,0,0
+bb8dba97-b6abbfb0.jpg,truck,car,0.8481873790624501,overcast,daytime,highway,1,0
+bb9071ac-4ee8ed8c.jpg,rider,person,0.729774559794476,clear,daytime,city street,1,0
+bb9071ac-4ee8ed8c.jpg,rider,person,0.6175964463237601,clear,daytime,city street,1,0
+bb9071ac-4ee8ed8c.jpg,rider,person,0.7783184007707731,clear,daytime,city street,1,0
+bb9071ac-4ee8ed8c.jpg,rider,person,0.630275294397391,clear,daytime,city street,1,0
+bb94c68a-820fd793.jpg,traffic sign,car,0.6436834379882191,overcast,daytime,city street,0,0
+bb95526b-7123f6e0.jpg,truck,car,0.8591997771285377,partly cloudy,dawn/dusk,city street,0,1
+bb95526b-ceac3ace.jpg,bus,car,0.6368203788358694,snowy,daytime,city street,1,0
+bb974084-c0e23420.jpg,truck,car,0.867846293264008,overcast,daytime,highway,0,0
+bb97c366-2adf3cdc.jpg,person,car,0.9206438375321848,overcast,daytime,city street,0,0
+bb9fb09f-c2a5e3d5.jpg,truck,car,0.9133754179891039,snowy,daytime,city street,0,0
+bba4ee51-3badc9f8.jpg,truck,car,0.8756888159008441,undefined,daytime,residential,1,0
+bba6b17c-417567f2.jpg,truck,car,0.5759470262389073,rainy,daytime,residential,1,0
+bbadf190-864c9a43.jpg,truck,traffic light,0.7048562964697969,snowy,daytime,city street,0,0
+bbb01fbb-f2064005.jpg,rider,person,0.7041235954194606,overcast,daytime,city street,1,0
+bbb1289a-b49fe5de.jpg,truck,car,0.8238199441385881,clear,daytime,highway,0,0
+bbb2487c-578aa473.jpg,truck,car,0.918772621744764,clear,night,city street,0,0
+bbb25499-f602899d.jpg,truck,car,0.7958037508827999,clear,daytime,city street,0,1
+bbb7bb8e-85124fbf.jpg,car,truck,0.7600343179657931,clear,daytime,city street,1,0
+bbc06e30-2dc7912c.jpg,car,person,0.8003138223827778,clear,night,city street,1,0
+bbc19c5e-51fd9cc0.jpg,car,bus,0.9479855539592779,clear,daytime,city street,0,1
+bbc19c5e-51fd9cc0.jpg,car,truck,0.5350842368581918,clear,daytime,city street,0,0
+bbc357f2-ddaa5e79.jpg,truck,car,0.9094071357423672,undefined,daytime,city street,0,0
+bbc4e74d-7ae9336b.jpg,truck,bus,0.9237763780310294,clear,night,city street,1,0
+bbcdfc12-745c6e19.jpg,traffic sign,traffic light,0.691723958894411,overcast,daytime,city street,0,0
+bbcf6d54-e39b0c22.jpg,traffic sign,car,0.9651245460104382,clear,night,city street,0,0
+bbdfa37f-a37db6bd.jpg,traffic light,traffic sign,0.708692050392027,clear,daytime,city street,0,1
+bbe2ac68-e15af654.jpg,bus,car,0.7085024961781808,undefined,night,city street,1,0
+bbe2ac68-e15af654.jpg,truck,car,0.5685928268604724,undefined,night,city street,1,0
+bbea4013-25cf6227.jpg,truck,car,0.6659148632289247,overcast,daytime,city street,0,0
+bbebc8cb-c0c59383.jpg,motor,car,0.7877154852002033,clear,night,residential,0,0
+bbec733f-32b81849.jpg,car,truck,0.8829772756986647,clear,daytime,highway,0,0
+bbec733f-f92d5a38.jpg,truck,car,0.8133596866723976,partly cloudy,daytime,highway,1,0
+bbecbb69-bd7c745a.jpg,truck,car,0.8575241492999214,undefined,daytime,city street,1,0
+bbf2bd83-750c3f46.jpg,traffic sign,traffic light,0.5228641584065743,clear,night,city street,0,0
+bbf2c809-6d93ddf1.jpg,truck,car,0.8421442867993845,snowy,daytime,city street,1,1
+bbf38397-6c3d4ef5.jpg,traffic light,traffic sign,0.932455175780991,partly cloudy,daytime,highway,0,0
+bbf5747b-35f769d6.jpg,truck,car,0.9213814498371695,clear,daytime,city street,1,0
+bbf5747b-35f769d6.jpg,bus,car,0.8216810339274108,clear,daytime,city street,0,0
+bbf6edef-5d90487a.jpg,truck,car,0.8747219331581493,partly cloudy,daytime,city street,1,0
+bbf7e280-19aed161.jpg,truck,car,0.5666477417033924,snowy,daytime,city street,1,0
+bbf7e280-e5ccb014.jpg,bus,truck,0.8871325461755728,snowy,daytime,city street,0,0
+bbf7e280-e5ccb014.jpg,truck,car,0.8894896040495558,snowy,daytime,city street,1,1
+bbfe3b4f-5137ff9f.jpg,truck,car,0.9800520379959704,clear,daytime,city street,0,0
+bc05c126-d00aeb9c.jpg,bus,truck,0.8419194512943579,overcast,dawn/dusk,highway,1,0
+bc07d865-b2971089.jpg,traffic light,traffic sign,0.7244485504729054,clear,night,highway,1,0
+bc07d865-b2971089.jpg,traffic light,traffic sign,0.8965433556247542,clear,night,highway,0,0
+bc07d865-f526e4d9.jpg,truck,car,0.955762720808475,overcast,daytime,highway,1,0
+bc07d865-f526e4d9.jpg,truck,car,0.5339858210651133,overcast,daytime,highway,1,0
+bc101f0f-2bd5f9ec.jpg,truck,car,0.9175676379243534,clear,daytime,residential,0,0
+bc171ee0-b1f4fca6.jpg,truck,car,0.8112817967962761,clear,daytime,highway,0,1
+bc197c3b-9d39a36a.jpg,truck,car,0.6099510173849111,undefined,daytime,city street,1,0
+bc197c3b-fc1e2d41.jpg,bike,motor,0.9013321230061945,overcast,daytime,city street,1,0
+bc19c993-c0a0f85f.jpg,bus,truck,0.8769799992324374,overcast,daytime,city street,1,0
+bc230811-8caf576d.jpg,bus,truck,0.7466280283501158,clear,daytime,city street,1,0
+bc24f222-538f2ee5.jpg,car,truck,0.6078304422084772,clear,night,residential,0,0
+bc24f222-f198b643.jpg,motor,car,0.6721715558309891,clear,daytime,city street,1,0
+bc2a1273-b863f5dd.jpg,car,truck,0.8693782148162448,overcast,daytime,city street,0,0
+bc2a1273-b863f5dd.jpg,bus,car,0.5768981610761762,overcast,daytime,city street,1,0
+bc2e52cc-cbd2ddae.jpg,truck,car,0.7255766967176365,clear,dawn/dusk,city street,1,0
+bc4712a2-b5a5966b.jpg,truck,car,0.9372103438645534,overcast,daytime,highway,0,0
+bc4a16d5-cefa77b6.jpg,truck,car,0.9217832661497938,snowy,daytime,highway,0,0
+bc4b0294-c59cadbf.jpg,bus,truck,0.6143600730931663,clear,night,city street,1,0
+bc4fb79c-561bbfc5.jpg,car,truck,0.8662008561928707,undefined,daytime,city street,0,0
+bc4fb79c-561bbfc5.jpg,bike,person,0.7026897879118926,undefined,daytime,city street,1,0
+bc574681-0a675ff3.jpg,truck,car,0.6833045886533585,clear,night,highway,1,0
+bc5bcfab-07883191.jpg,truck,car,0.9625743757451678,clear,night,city street,0,1
+bc5bcfab-07883191.jpg,truck,car,0.9393111926494382,clear,night,city street,1,0
+bc5bcfab-07883191.jpg,truck,bus,0.9392892551791464,clear,night,city street,1,0
+bc5bcfab-a639a82e.jpg,traffic sign,traffic light,0.6614917653398354,clear,night,city street,0,0
+bc5c87da-f8979312.jpg,traffic sign,traffic light,0.7209487403886216,clear,night,city street,0,0
+bc5e32e9-9471ac2d.jpg,truck,car,0.9125919473989083,clear,dawn/dusk,city street,1,1
+bc5fa92b-97ad7b5d.jpg,traffic sign,traffic light,0.6202734066809173,rainy,daytime,city street,0,0
+bc5fadac-47398ddc.jpg,bus,truck,0.9337643687999712,clear,daytime,city street,1,0
+bc621584-2e17dc3d.jpg,truck,car,0.7165585652944512,undefined,daytime,city street,1,0
+bc621584-2e17dc3d.jpg,truck,bus,0.8226554830332408,undefined,daytime,city street,1,0
+bc621584-f5b1895d.jpg,rider,person,0.7809365684571954,undefined,daytime,city street,1,1
+bc621584-f5b1895d.jpg,rider,person,0.7786535066616576,undefined,daytime,city street,1,1
+bc66fedc-6649b88c.jpg,car,traffic light,0.5734014104928348,clear,night,city street,0,1
+bc67ddf0-874dcf8d.jpg,bus,truck,0.9012960984680258,clear,daytime,city street,1,0
+bc6a2a77-e9984397.jpg,truck,car,0.906519013330943,clear,daytime,city street,0,0
+bc709acb-5b7fbd2f.jpg,car,traffic light,0.7613546360544055,rainy,night,city street,0,0
+bc715fc7-87a29be4.jpg,traffic light,traffic sign,0.7397650546317297,undefined,undefined,highway,0,0
+bc715fc7-87a29be4.jpg,traffic light,traffic sign,0.8373917000548593,undefined,undefined,highway,0,0
+bc715fc7-fab6edbb.jpg,person,car,0.8399392950298857,clear,night,city street,1,0
+bc715fc7-fab6edbb.jpg,truck,car,0.8763351716925138,clear,night,city street,1,0
+bc7325ea-2146b9aa.jpg,car,bus,0.9375553478455136,overcast,dawn/dusk,highway,1,1
+bc7a0adc-caf8512c.jpg,truck,car,0.9351410607949282,partly cloudy,daytime,city street,0,0
+bc7a0adc-caf8512c.jpg,truck,car,0.869431525609678,partly cloudy,daytime,city street,0,0
+bc7a7a1f-64c449cc.jpg,truck,car,0.7900064440522656,clear,daytime,city street,0,1
+bc7a7a1f-64c449cc.jpg,motor,car,0.6694826656086248,clear,daytime,city street,1,0
+bc7cbf85-1a484d84.jpg,traffic light,car,0.5799162474365742,clear,dawn/dusk,city street,0,1
+bc7cbf85-6f37fbdf.jpg,person,bike,0.5168563169661196,clear,night,city street,0,0
+bc7cbf85-6f37fbdf.jpg,truck,car,0.6713388314368064,clear,night,city street,0,0
+bc7e7e2c-3f42fbae.jpg,traffic light,traffic sign,0.5268054455325059,overcast,daytime,city street,0,0
+bc7e7e2c-6388153c.jpg,bus,car,0.7198039124817425,undefined,daytime,city street,1,0
+bc80bb96-eca9a0d6.jpg,truck,car,0.8681162966508315,overcast,dawn/dusk,highway,1,0
+bc886b45-3b6d2883.jpg,truck,car,0.5534618602771334,overcast,daytime,city street,1,0
+bc88fd46-c20f2648.jpg,traffic sign,traffic light,0.729005612769192,overcast,daytime,city street,0,0
+bc8cb926-c12df6cb.jpg,bus,car,0.5422186643094096,snowy,daytime,city street,1,0
+bc8ccccd-bbc93b76.jpg,bus,car,0.9608175546051791,clear,daytime,city street,0,1
+bc915645-a19e009d.jpg,bus,car,0.7741183179931542,clear,night,city street,1,0
+bc92c1d7-b310d9e8.jpg,car,truck,0.7702282074738344,undefined,daytime,city street,1,1
+bc97328c-1869fa3c.jpg,truck,car,0.8729816432089835,clear,dawn/dusk,city street,1,0
+bc9880e2-42c6aaac.jpg,truck,car,0.9252971898473014,clear,night,highway,1,0
+bc9cce42-b4577861.jpg,car,bus,0.9199676577038529,clear,dawn/dusk,city street,1,0
+bc9da78f-b423cd9a.jpg,car,truck,0.9381877557762908,overcast,daytime,highway,0,0
+bc9da78f-b423cd9a.jpg,car,truck,0.519049642488149,overcast,daytime,highway,0,0
+bca1cbed-a81e3dba.jpg,truck,car,0.9817471621376975,undefined,daytime,residential,0,1
+bca84cbc-1ce525d6.jpg,truck,car,0.9032115186876866,partly cloudy,daytime,residential,1,0
+bca84cbc-800427b6.jpg,truck,car,0.9269972357417985,overcast,daytime,city street,0,0
+bca84cbc-800427b6.jpg,truck,car,0.5224641483016229,overcast,daytime,city street,1,0
+bcadb48c-9a41d823.jpg,car,truck,0.8055541715343454,clear,daytime,residential,1,0
+bcade6d5-430ff8e0.jpg,traffic sign,car,0.6789788117791655,partly cloudy,daytime,highway,1,0
+bcaf57de-8a71dbde.jpg,bus,car,0.7051214544955268,clear,daytime,city street,0,0
+bcaf73c1-311f299e.jpg,car,traffic light,0.6876068138203917,clear,night,city street,1,0
+bcaf73c1-d16abb7a.jpg,car,truck,0.8546035213228673,partly cloudy,dawn/dusk,city street,1,0
+bcb2c6fd-05ee678b.jpg,bus,car,0.5158569586736257,undefined,daytime,city street,1,0
+bcbbfe2a-33e57bea.jpg,person,car,0.5178630916006919,rainy,daytime,city street,1,0
+bcbbfe2a-33e57bea.jpg,person,car,0.5672581941806978,rainy,daytime,city street,1,0
+bcbbfe2a-33e57bea.jpg,traffic sign,traffic light,0.6955681048739569,rainy,daytime,city street,0,0
+bcbbfe2a-33e57bea.jpg,person,car,0.5328715191345613,rainy,daytime,city street,1,0
+bcbbfe2a-33e57bea.jpg,person,car,0.5541349017223326,rainy,daytime,city street,1,0
+bcbbfe2a-49d953fb.jpg,car,truck,0.8209237352702443,undefined,daytime,city street,1,1
+bcbf4834-88a0b878.jpg,truck,car,0.695967206969159,clear,dawn/dusk,residential,0,0
+bcbf4834-88a0b878.jpg,truck,bus,0.8402728472020042,clear,dawn/dusk,residential,0,0
+bcbfbfb8-297deca0.jpg,truck,car,0.8874912749496079,clear,daytime,highway,0,0
+bcc84a33-2b38c69f.jpg,bus,truck,0.6144556836329875,rainy,daytime,city street,1,1
+bcc942dc-d64dc48f.jpg,traffic light,traffic sign,0.7107449250949293,clear,daytime,city street,1,0
+bcd596fa-d4c78bb9.jpg,truck,car,0.8257509773617155,clear,daytime,city street,1,0
+bcd900a7-02adf687.jpg,rider,car,0.9597405482471233,overcast,daytime,city street,0,0
+bce1e185-c51123bb.jpg,truck,car,0.6443200177277999,clear,daytime,residential,1,0
+bcef3e08-801cf8bd.jpg,truck,car,0.7434718013230218,snowy,night,city street,1,0
+bcf0401c-3f464d19.jpg,car,truck,0.528985827535215,clear,night,city street,0,0
+bcfc54ad-c713893a.jpg,car,truck,0.8517332591666674,snowy,night,city street,0,1
+bcfdd6af-698c03e3.jpg,traffic light,traffic sign,0.5853655884603746,snowy,daytime,parking lot,0,0
+bd026bc5-1d80043b.jpg,traffic sign,traffic light,0.5572240514709477,overcast,daytime,city street,0,0
+bd0a1433-99c735e8.jpg,truck,bus,0.978715996810814,partly cloudy,daytime,city street,0,0
+bd0a1433-99c735e8.jpg,truck,car,0.9879005781345384,partly cloudy,daytime,city street,0,0
+bd0b3e14-8b246958.jpg,bus,car,0.7027965231924415,undefined,daytime,city street,1,0
+bd16d59f-bd4eedcd.jpg,truck,car,0.921392627741746,rainy,night,highway,0,0
+bd1ae0c2-325d1820.jpg,traffic light,traffic sign,0.6808141380873522,overcast,dawn/dusk,city street,0,0
+bd1ae0c2-a649baaa.jpg,car,traffic sign,0.5624870969240423,clear,night,city street,1,0
+bd1b8b79-10f4b3af.jpg,car,truck,0.7597727048967783,undefined,daytime,city street,1,0
+bd1b8b79-10f4b3af.jpg,car,bus,0.7953298359407681,undefined,daytime,city street,1,0
+bd1d310c-f5fb429f.jpg,bus,truck,0.8323038743511748,clear,daytime,city street,1,0
+bd1d310c-f5fb429f.jpg,bus,car,0.5053455936086924,clear,daytime,city street,1,0
+bd338426-a0b4e877.jpg,truck,car,0.9337749776777561,clear,daytime,residential,0,0
+bd355fcc-3c7a6e8f.jpg,rider,person,0.6209348195570039,undefined,daytime,city street,1,0
+bd355fcc-3c7a6e8f.jpg,car,person,0.915456187236213,undefined,daytime,city street,0,1
+bd355fcc-5054cb5f.jpg,truck,car,0.7784374208397774,overcast,daytime,residential,0,1
+bd355fcc-c7aa3ca3.jpg,car,truck,0.7261033571202818,clear,night,residential,0,0
+bd3bd3ab-8e38f822.jpg,rider,person,0.641450676209567,clear,daytime,city street,0,0
+bd4a61fd-4b64ea82.jpg,bus,car,0.9353462053667588,clear,night,city street,1,0
+bd4c1d7e-9edc4d74.jpg,truck,car,0.8271044203669626,undefined,daytime,highway,1,0
+bd50478a-7c1e236c.jpg,truck,car,0.8070832729920394,clear,night,highway,0,0
+bd554ae8-bcb18664.jpg,truck,car,0.6624450913613639,clear,night,highway,0,0
+bd57e60e-187054e3.jpg,car,truck,0.9609952114291951,undefined,dawn/dusk,residential,1,0
+bd5bb58b-7c049603.jpg,truck,car,0.8664629910034563,clear,night,city street,0,1
+bd60211c-05ed033f.jpg,truck,car,0.897563137905455,undefined,daytime,city street,1,0
+bd60211c-05ed033f.jpg,truck,bus,0.8797359841298515,undefined,daytime,city street,1,0
+bd65dd37-4c3cdf2d.jpg,truck,car,0.9509452057492129,clear,daytime,highway,0,0
+bd65dd37-4c3cdf2d.jpg,truck,bus,0.9371420363289972,clear,daytime,highway,0,0
+bd6ca291-74e28b01.jpg,car,truck,0.8815941948614904,clear,dawn/dusk,residential,1,0
+bd70577b-b4dd3097.jpg,car,truck,0.8527875267487356,clear,dawn/dusk,highway,1,0
+bd735753-1451d21f.jpg,car,truck,0.8595471837923321,clear,daytime,city street,0,0
+bd82f517-793eb747.jpg,bus,truck,0.9093051632895188,overcast,daytime,residential,0,1
+bd8d420d-ec34c634.jpg,car,truck,0.8824888578848622,clear,daytime,city street,0,0
+bd8d420d-ec34c634.jpg,traffic sign,traffic light,0.57058027121177,clear,daytime,city street,0,0
+bd92c756-0eee51cd.jpg,truck,car,0.5148909843234424,rainy,dawn/dusk,city street,0,0
+bd92c756-1eafae31.jpg,truck,car,0.9471457932953513,rainy,dawn/dusk,city street,0,1
+bd956549-140a4edf.jpg,truck,car,0.9375996286291138,clear,night,residential,0,1
+bd989210-5855f1e4.jpg,traffic light,traffic sign,0.8418957761601082,rainy,night,city street,0,0
+bd989210-5855f1e4.jpg,traffic light,traffic sign,0.8032160494470684,rainy,night,city street,0,0
+bd99da12-66a3321c.jpg,bus,car,0.7501539990825952,clear,night,city street,0,0
+bda1cdfa-5da26736.jpg,car,truck,0.8641332717058372,partly cloudy,daytime,highway,1,0
+bda1cdfa-a4626edd.jpg,bus,truck,0.9800876684542944,partly cloudy,daytime,highway,0,0
+bda48a2c-ea6ab69b.jpg,bus,truck,0.9690887994016515,undefined,daytime,city street,0,1
+bda52dd7-f0a0dd1a.jpg,truck,bus,0.9375739342368431,clear,night,highway,0,0
+bdaa98a5-d23583cb.jpg,rider,person,0.9118194230835341,clear,daytime,city street,1,0
+bdae005f-7823c05b.jpg,truck,car,0.9094738588826117,partly cloudy,daytime,city street,1,0
+bdae005f-7e7e0f56.jpg,truck,car,0.5804314051584494,undefined,daytime,city street,1,1
+bdb3c90f-dba6400e.jpg,bus,truck,0.6287428543289083,clear,daytime,highway,1,0
+bdb658c2-01af4ab1.jpg,traffic sign,traffic light,0.8723747709692546,clear,daytime,city street,0,0
+bdb95837-032891c3.jpg,car,truck,0.7714521396555422,clear,night,highway,1,0
+bdc0dc52-b4d05890.jpg,bus,car,0.6382632216368378,partly cloudy,daytime,city street,1,0
+bdc7ed93-686684d6.jpg,truck,car,0.8793205035341928,partly cloudy,daytime,city street,0,0
+bdc7ed93-75e5f442.jpg,car,truck,0.7184529957389438,snowy,daytime,highway,1,0
+bdcb68eb-4a3561a4.jpg,bus,truck,0.9642947744825066,snowy,night,city street,0,0
+bdd0049d-8c592c39.jpg,truck,car,0.7258868305967261,clear,daytime,city street,1,0
+bdda4e2e-6d2bc480.jpg,bus,car,0.570206345619181,undefined,dawn/dusk,city street,1,0
+bde83a65-61f8f702.jpg,truck,car,0.9116821595567385,undefined,daytime,residential,0,0
+bde83a65-61f8f702.jpg,truck,car,0.8139430778764932,undefined,daytime,residential,1,0
+bde96867-d909dae7.jpg,car,truck,0.9740898745060705,clear,daytime,highway,1,0
+bdec2416-d18fb371.jpg,truck,car,0.7865108087729327,overcast,daytime,highway,0,0
+bdec2416-d18fb371.jpg,truck,car,0.7730678881398225,overcast,daytime,highway,1,0
+bdec39d8-f1063651.jpg,truck,car,0.9694906979590419,clear,daytime,city street,0,1
+bded2d56-8641bc0d.jpg,traffic light,traffic sign,0.629593016007143,clear,night,city street,0,0
+bdf775d9-3cb15a15.jpg,truck,car,0.5955900857587567,overcast,daytime,city street,1,0
+be005230-7facbb3e.jpg,truck,car,0.8723729204864603,snowy,night,city street,0,1
+be005230-7facbb3e.jpg,truck,car,0.9621947289775552,snowy,night,city street,1,0
+be005230-7facbb3e.jpg,rider,person,0.5059136156985158,snowy,night,city street,1,0
+be042f25-579f9c94.jpg,truck,car,0.8947058078902733,undefined,daytime,city street,1,0
+be0456d5-e34d2c07.jpg,car,truck,0.7867331790572235,clear,night,city street,1,0
+be0fdf82-5cb62b50.jpg,bus,car,0.5648363811556529,snowy,night,city street,0,0
+be0fdf82-5cb62b50.jpg,traffic light,traffic sign,0.5682316725816577,snowy,night,city street,0,0
+be0fdf82-972594ce.jpg,truck,bus,0.950940882087503,snowy,night,city street,0,0
+be1a0aee-7127f0d8.jpg,truck,car,0.903095653720343,snowy,daytime,city street,1,0
+be1a0aee-7127f0d8.jpg,person,bike,0.5558111432614143,snowy,daytime,city street,0,0
+be26ac57-35dabb9c.jpg,bus,car,0.6972684932707308,undefined,daytime,city street,1,0
+be273f87-b164bca1.jpg,car,truck,0.8711897523236981,clear,night,city street,0,0
+be2c4865-af9a958b.jpg,car,truck,0.7232720301613104,overcast,daytime,city street,0,1
+be2c4865-af9a958b.jpg,car,truck,0.6383753984077779,overcast,daytime,city street,1,0
+be2fbf0b-5d71c655.jpg,truck,car,0.828231001172181,overcast,daytime,city street,0,0
+be3159f3-13250ffe.jpg,truck,car,0.7201960592811953,overcast,daytime,highway,0,0
+be3159f3-13250ffe.jpg,truck,car,0.5415969249609983,overcast,daytime,highway,1,0
+be3294d0-e1c119ea.jpg,rider,person,0.6680633807417231,undefined,daytime,city street,1,0
+be3b7c5d-d25131a7.jpg,truck,car,0.9805353148114155,undefined,daytime,city street,0,1
+be3b7c5d-d25131a7.jpg,truck,bus,0.9768202369591024,undefined,daytime,city street,0,1
+be41362b-bf2985b5.jpg,traffic sign,traffic light,0.5173257413954787,clear,night,city street,0,0
+be463595-1fa1df9c.jpg,person,car,0.5785883107522087,clear,night,city street,0,0
+be4f207d-cd1dcff1.jpg,person,rider,0.8327721595838471,clear,night,city street,1,0
+be4f3873-33c738a5.jpg,truck,car,0.6036396262172067,clear,daytime,city street,0,0
+be4f53be-a7d26a38.jpg,truck,car,0.6317212401768006,clear,daytime,city street,0,0
+be52b29f-3c297726.jpg,truck,car,0.8782875100343958,clear,night,highway,0,0
+be52b29f-de33251f.jpg,car,truck,0.9215533805514418,clear,night,city street,1,0
+be651ed5-21253da1.jpg,motor,person,0.6979923575240065,clear,daytime,residential,1,0
+be651ed5-4b80b1c3.jpg,motor,car,0.6352264450418319,clear,night,highway,0,0
+be731030-c29affd6.jpg,truck,car,0.9242122420321022,partly cloudy,daytime,highway,1,1
+be769e9f-abea5fd9.jpg,truck,bus,0.6235880586563374,snowy,daytime,city street,1,0
+be769e9f-ed37df2b.jpg,truck,car,0.9155194384482347,partly cloudy,daytime,city street,0,1
+be769e9f-ed37df2b.jpg,truck,car,0.8752842551345541,partly cloudy,daytime,city street,0,0
+be80a253-75e6f6aa.jpg,truck,car,0.7811018585309009,clear,daytime,city street,1,0
+be83fbfa-53a6b842.jpg,truck,car,0.9280976564111367,undefined,daytime,city street,0,0
+be854092-492e5e65.jpg,truck,car,0.6372077151880169,undefined,dawn/dusk,city street,0,0
+be8590fa-9ab10ced.jpg,traffic sign,traffic light,0.8105833155432008,clear,daytime,residential,0,1
+be85bd88-4aad89d7.jpg,truck,car,0.5634408498736855,overcast,daytime,highway,1,0
+be85bd88-d849c034.jpg,car,bus,0.7730639423162364,overcast,daytime,highway,1,0
+be8962cd-2f4d528e.jpg,truck,car,0.8851865372708878,undefined,night,residential,1,0
+be8bceff-efda56f8.jpg,truck,car,0.5008721574331492,clear,night,highway,1,0
+be94df25-464ac4f8.jpg,truck,car,0.7956937417868969,clear,daytime,highway,0,0
+be95af9a-dee1fc2d.jpg,truck,car,0.8154085587188037,clear,night,city street,1,0
+be9c5bdd-02782f34.jpg,truck,car,0.8909412575952542,clear,daytime,residential,0,0
+bea64506-a82db0f9.jpg,person,rider,0.9193116359492113,undefined,daytime,city street,0,0
+bea64506-c04d4b12.jpg,car,person,0.7478955030712776,clear,daytime,city street,1,0
+bea74140-801c009e.jpg,truck,car,0.768178048564232,clear,daytime,city street,1,0
+bea78bf6-01be38ee.jpg,truck,car,0.9333474689423825,clear,night,city street,0,1
+beb12388-c681fd3d.jpg,truck,bus,0.8338536006578375,clear,night,city street,1,1
+beb2d175-69dae2f2.jpg,car,bus,0.8983110825686347,partly cloudy,daytime,highway,0,0
+beb712cc-6594b626.jpg,truck,car,0.7065548415152466,clear,daytime,highway,1,0
+beb87fd7-6120b637.jpg,truck,car,0.827727329797934,clear,daytime,city street,1,0
+bec0d815-f71f4f7b.jpg,truck,car,0.7658222660328915,clear,daytime,city street,0,0
+bec7b5c0-177923dd.jpg,bus,truck,0.9268416001912614,undefined,daytime,city street,1,0
+bec7b5c0-177923dd.jpg,bus,truck,0.6447681595414362,undefined,daytime,city street,1,0
+bec7b5c0-6bf5ac85.jpg,truck,car,0.8713428830949033,clear,dawn/dusk,city street,0,0
+bec7b5c0-ca19e1e3.jpg,car,truck,0.8913619816636186,undefined,daytime,residential,0,0
+bec7b5c0-e365257b.jpg,truck,car,0.816849341719026,undefined,daytime,city street,0,0
+becccb13-74e09a25.jpg,truck,car,0.7554536261047742,rainy,daytime,city street,1,0
+beccfad4-d24a29c5.jpg,car,truck,0.7749803331910595,clear,daytime,highway,1,0
+becfc708-eaf36a96.jpg,truck,car,0.5246326419293743,rainy,daytime,residential,1,0
+bed3db3f-f0ce3c29.jpg,car,bus,0.6943644709656012,clear,night,city street,0,0
+bed3db3f-f0ce3c29.jpg,bike,person,0.5733005893228136,clear,night,city street,1,0
+bed4ed94-526eb41d.jpg,bike,person,0.7131700940237604,undefined,daytime,city street,1,0
+bed4ed94-7b8c51c7.jpg,rider,person,0.6324018392589277,undefined,night,city street,1,0
+bee67716-2a04a827.jpg,car,truck,0.9374429272005219,clear,daytime,city street,0,0
+bee67716-2a04a827.jpg,car,bus,0.9051483548412206,clear,daytime,city street,0,0
+bef1fe5a-64664ad2.jpg,truck,car,0.6266529567411747,overcast,daytime,city street,0,0
+bef1fe5a-64664ad2.jpg,traffic sign,traffic light,0.8870091406437669,overcast,daytime,city street,0,0
+bef1fe5a-64664ad2.jpg,traffic sign,traffic light,0.866236153733671,overcast,daytime,city street,0,0
+bef9fe55-0bba41cb.jpg,truck,car,0.8823167137079846,clear,daytime,highway,1,0
+befa588e-80b3c62a.jpg,traffic sign,traffic light,0.8806480059214062,undefined,daytime,city street,0,0
+befa588e-80b3c62a.jpg,traffic sign,traffic light,0.7494714397216387,undefined,daytime,city street,0,0
+befce81b-f743c561.jpg,truck,car,0.6760392383263891,overcast,daytime,city street,1,0
+beff1d1c-61ba43ef.jpg,truck,car,0.9094850836905779,clear,night,city street,1,1
+beff1d1c-61ba43ef.jpg,bus,truck,0.769156640575159,clear,night,city street,1,0
+beff1d1c-c6d92f51.jpg,traffic light,traffic sign,0.8475470686081399,clear,night,city street,0,0
+beffe676-8c0d1028.jpg,motor,car,0.5876470866313572,clear,daytime,city street,0,0
+bf054de4-025bb1c3.jpg,car,truck,0.9776217196665146,clear,daytime,city street,0,1
+bf0e0d24-5b11b412.jpg,bus,truck,0.9520095252562216,undefined,daytime,city street,0,1
+bf0eda09-d1773b85.jpg,truck,car,0.848482020712304,rainy,night,city street,1,0
+bf15b5bf-01ddf8ac.jpg,traffic sign,traffic light,0.6667573608222515,overcast,daytime,highway,0,0
+bf15b5bf-01ddf8ac.jpg,traffic sign,traffic light,0.790689518036441,overcast,daytime,highway,0,0
+bf15b5bf-01ddf8ac.jpg,traffic sign,traffic light,0.6239595184028214,overcast,daytime,highway,0,0
+bf1af4ce-dcf62242.jpg,person,car,0.7224206785228228,rainy,night,city street,1,0
+bf1af616-e750e7dd.jpg,motor,car,0.6904085240171062,partly cloudy,dawn/dusk,city street,1,1
+bf234dae-f65aaae7.jpg,bus,truck,0.9568481801633049,clear,night,city street,0,0
+bf245ae0-7630688e.jpg,car,truck,0.7336418205448815,clear,night,city street,1,0
+bf2c174a-547a550a.jpg,bike,car,0.5473876707502338,undefined,daytime,city street,1,0
+bf31a320-4f8a93b3.jpg,car,bus,0.6169845230346475,partly cloudy,daytime,city street,1,0
+bf343a92-8db05f89.jpg,bus,car,0.5029529234084228,snowy,daytime,city street,1,0
+bf343a92-8db05f89.jpg,bus,car,0.6963483143404273,snowy,daytime,city street,0,0
+bf35cb3d-af58fa54.jpg,car,bus,0.7627139681032361,undefined,daytime,city street,1,0
+bf3ce441-1f58c6c7.jpg,car,truck,0.8469248403513514,partly cloudy,daytime,highway,1,1
+bf3ce441-9a0953bb.jpg,person,car,0.7386361639085199,undefined,daytime,city street,0,1
+bf42f468-f2b3301f.jpg,bus,truck,0.8842730401413816,overcast,daytime,highway,1,0
+bf476255-3d67b267.jpg,bus,truck,0.7610054860185084,overcast,daytime,highway,0,0
+bf482378-d236a3a7.jpg,car,traffic light,0.5562922703027888,clear,night,city street,0,0
+bf482378-d236a3a7.jpg,car,traffic light,0.5362244187334302,clear,night,city street,0,0
+bf4af26f-3304199e.jpg,bus,car,0.6716242195404414,snowy,daytime,highway,1,1
+bf54973d-fa144605.jpg,traffic sign,traffic light,0.5323441646246317,undefined,daytime,city street,0,0
+bf568d39-2bac1d09.jpg,traffic sign,traffic light,0.8268037948895381,clear,daytime,city street,0,0
+bf5b423c-955dc71e.jpg,truck,car,0.5896982611899372,clear,dawn/dusk,city street,1,0
+bf5b423c-955dc71e.jpg,traffic sign,traffic light,0.8249953479176052,clear,dawn/dusk,city street,0,0
+bf5b7ee3-c2fbdc46.jpg,bus,car,0.6427120106116488,rainy,daytime,city street,1,0
+bf5b7ee3-c2fbdc46.jpg,bus,car,0.580662189584126,rainy,daytime,city street,1,0
+bf65bf11-942ce158.jpg,bus,car,0.5807574013194973,snowy,daytime,residential,0,0
+bf6711ef-76e408aa.jpg,bus,truck,0.7920958608536195,clear,night,highway,1,0
+bf6b680e-fe68c5f5.jpg,truck,car,0.8358098525802756,clear,night,highway,0,0
+bf76fa8e-889c317d.jpg,truck,bus,0.9530698552117592,overcast,daytime,highway,0,0
+bf77e9b1-b7b5025b.jpg,truck,car,0.9322226891858298,overcast,dawn/dusk,city street,1,0
+bf8220b9-086e9e29.jpg,truck,car,0.7275144703712849,rainy,night,city street,0,0
+bf8220b9-086e9e29.jpg,rider,person,0.6338293374910153,rainy,night,city street,1,0
+bf86bb70-2699b8b6.jpg,truck,car,0.5809939285499313,partly cloudy,daytime,residential,1,0
+bf86bb70-2699b8b6.jpg,bus,car,0.7164910494229825,partly cloudy,daytime,residential,1,0
+bf86bb70-2699b8b6.jpg,truck,car,0.5270725513479071,partly cloudy,daytime,residential,1,0
+bf879071-533b979e.jpg,truck,bus,0.9017015021034662,undefined,daytime,city street,1,0
+bf8982ce-a4dd6736.jpg,car,truck,0.9166997472625293,undefined,daytime,city street,1,0
+bf8ec5b7-72e1f37c.jpg,truck,car,0.9615225680922157,partly cloudy,daytime,city street,0,1
+bf8ec5b7-72e1f37c.jpg,truck,car,0.9243535552797763,partly cloudy,daytime,city street,1,0
+bf9460c0-65fea53a.jpg,truck,bus,0.9320002125502866,snowy,daytime,city street,1,1
+bf9460c0-65fea53a.jpg,rider,person,0.6303189772978262,snowy,daytime,city street,1,0
+bf9460c0-65fea53a.jpg,rider,person,0.6132456264443027,snowy,daytime,city street,1,0
+bf97082f-7b5ec66c.jpg,truck,car,0.6855635218648929,overcast,daytime,city street,1,0
+bf9b895d-47e834dc.jpg,traffic sign,car,0.7693531002291288,clear,dawn/dusk,highway,0,0
+bf9d1ca5-2ff62aeb.jpg,truck,car,0.9217096153157387,clear,daytime,city street,0,0
+bf9e3b67-2d5736bc.jpg,truck,car,0.8549364197309252,undefined,daytime,city street,1,0
+bf9e3b67-2d5736bc.jpg,truck,car,0.6675374272873589,undefined,daytime,city street,1,0
+bf9e3b67-2d5736bc.jpg,truck,car,0.6273075557269308,undefined,daytime,city street,1,0
+bfa5fc6e-e4c87cf7.jpg,truck,car,0.7642442788259316,overcast,daytime,parking lot,1,0
+bfa5fc6e-e4c87cf7.jpg,car,truck,0.505286065311492,overcast,daytime,parking lot,1,1
+bfa8c531-7831c864.jpg,bus,car,0.9536279113532068,partly cloudy,daytime,residential,0,0
+bfaa2229-ae426591.jpg,bus,car,0.6034211740753567,clear,night,city street,1,0
+bfaa2229-ae426591.jpg,traffic sign,traffic light,0.7596193344794613,clear,night,city street,0,0
+bfaa2229-c1b190bb.jpg,truck,car,0.7145396267634112,clear,night,highway,1,0
+bfaca2bb-30af2110.jpg,truck,bus,0.7343397862921458,clear,daytime,city street,0,1
+bfb5e668-6cddf5eb.jpg,traffic sign,traffic light,0.859066811148136,overcast,daytime,city street,0,1
+bfb5e668-6cddf5eb.jpg,traffic sign,traffic light,0.5759415124286206,overcast,daytime,city street,0,1
+bfc3a09f-117ab7b9.jpg,traffic sign,traffic light,0.5474181918453339,undefined,daytime,city street,0,0
+bfc3a09f-117ab7b9.jpg,traffic sign,traffic light,0.587168040620818,undefined,daytime,city street,0,0
+bfc62f16-f88f822c.jpg,truck,car,0.6791418209652877,snowy,daytime,city street,0,0
+bfc99518-547e6e69.jpg,traffic light,traffic sign,0.5065437292521459,clear,night,city street,0,0
+bfd64d5f-d141be33.jpg,bus,car,0.8506743466333307,clear,daytime,city street,1,0
+bfdd9ffd-82f78be7.jpg,truck,car,0.7085614681172074,rainy,daytime,city street,1,0
+bfe0801e-20388316.jpg,bus,truck,0.8889646337524455,clear,daytime,city street,1,0
+bfe0801e-20388316.jpg,bus,truck,0.559513981365085,clear,daytime,city street,1,0
+bfe2b817-628f0621.jpg,person,car,0.5682706356594597,clear,night,residential,0,0
+bfe2b817-f79474a3.jpg,truck,car,0.9272664440270192,partly cloudy,daytime,city street,0,0
+bfe52f47-395aca52.jpg,car,truck,0.8492488777097418,undefined,daytime,residential,0,0
+bfe52f47-a09aa689.jpg,rider,person,0.6418425799846433,undefined,daytime,residential,1,0
+bfe976fd-62a13503.jpg,traffic sign,traffic light,0.7818520919101167,partly cloudy,daytime,city street,0,0
+bff2ee41-90d20c1a.jpg,bus,truck,0.8084997349461259,undefined,daytime,city street,1,0
+bff2ee41-90d20c1a.jpg,bike,person,0.5227153064749281,undefined,daytime,city street,1,0
+bffa98fc-bfb566ff.jpg,truck,bus,0.8858227011247961,clear,night,highway,0,0
+bffa98fc-bfb566ff.jpg,truck,car,0.8591499563579195,clear,night,highway,0,0
+bffe8c14-cb8d9a20.jpg,bus,car,0.832008043815717,undefined,daytime,city street,1,0
+c003e0c6-ed98cc51.jpg,car,truck,0.9662758918989636,clear,night,city street,0,0
+c0082590-683d229f.jpg,truck,bus,0.8708707526940296,partly cloudy,dawn/dusk,city street,1,0
+c0082590-683d229f.jpg,person,rider,0.6463384873684216,partly cloudy,dawn/dusk,city street,0,0
+c0082590-c1533b81.jpg,truck,car,0.7251367180355848,partly cloudy,daytime,highway,1,0
+c009571d-dec7e775.jpg,car,traffic sign,0.8645748459519921,clear,night,city street,0,0
+c009571d-dec7e775.jpg,traffic light,traffic sign,0.8586932613334594,clear,night,city street,0,0
+c00cc83c-a6a9ce44.jpg,truck,car,0.5947900512222297,overcast,dawn/dusk,city street,1,0
+c00cc83c-a6a9ce44.jpg,truck,car,0.7369474249252115,overcast,dawn/dusk,city street,1,0
+c00d0859-8e02615e.jpg,car,truck,0.8052907983120529,clear,daytime,city street,1,0
+c013a15f-06edbffd.jpg,bus,car,0.6946540091544978,partly cloudy,daytime,city street,1,0
+c0217f91-3ec314e4.jpg,traffic sign,traffic light,0.7169665850661364,rainy,daytime,city street,0,0
+c024c31c-9ec7869f.jpg,traffic light,traffic sign,0.8259211144734477,rainy,daytime,city street,0,0
+c02cb208-81964a07.jpg,truck,car,0.7518832923593769,overcast,daytime,city street,0,0
+c02cb208-81964a07.jpg,truck,car,0.5263968113563333,overcast,daytime,city street,0,0
+c02eb4ca-b352643a.jpg,traffic light,traffic sign,0.7891516774665871,undefined,daytime,city street,0,0
+c02ee64a-ec68fa8e.jpg,traffic sign,traffic light,0.6931680715308477,clear,daytime,highway,0,0
+c030d423-f82b1a39.jpg,truck,car,0.786045059887798,rainy,night,city street,0,0
+c038f7df-82eb7666.jpg,traffic sign,traffic light,0.6395787540920328,rainy,daytime,city street,1,0
+c041f204-6b0c3778.jpg,bus,truck,0.9483740547706003,partly cloudy,daytime,city street,0,1
+c041f204-6b0c3778.jpg,traffic light,car,0.8218244487129732,partly cloudy,daytime,city street,0,0
+c04ad8f3-05b8c75c.jpg,traffic light,traffic sign,0.925982959499124,clear,night,city street,0,0
+c04ad8f3-05b8c75c.jpg,truck,bus,0.9174062531003153,clear,night,city street,1,0
+c04ad8f3-05b8c75c.jpg,truck,car,0.9007272727607993,clear,night,city street,1,0
+c051661b-c3b862eb.jpg,rider,person,0.6032760118508634,snowy,daytime,city street,1,1
+c051661b-c3b862eb.jpg,rider,person,0.8544823910241599,snowy,daytime,city street,1,1
+c051661b-c3b862eb.jpg,rider,person,0.585295997249447,snowy,daytime,city street,1,1
+c0568203-456be7fe.jpg,bike,person,0.5526332357800382,clear,night,highway,1,0
+c05767da-e6197c97.jpg,person,traffic sign,0.6063462954426175,partly cloudy,daytime,city street,1,0
+c05767da-e6e016b5.jpg,truck,traffic sign,0.8795088052190355,clear,daytime,highway,1,0
+c05f27be-54bd73f1.jpg,bus,truck,0.9593742049545675,clear,dawn/dusk,city street,1,0
+c05f6683-01c5215b.jpg,person,bike,0.5710628521892456,clear,night,city street,0,0
+c0625a26-cefa81e9.jpg,bus,car,0.6780019157444727,undefined,dawn/dusk,city street,1,1
+c0726425-0b2f4892.jpg,car,truck,0.7685395073995748,clear,daytime,residential,1,0
+c0726425-0b2f4892.jpg,car,bus,0.7892978795741127,clear,daytime,residential,1,0
+c0756468-c4fd9382.jpg,truck,car,0.9628869674515838,clear,night,city street,0,1
+c0756468-c4fd9382.jpg,truck,car,0.8663675827942604,clear,night,city street,0,0
+c0771fb7-d03aa33e.jpg,person,car,0.5097689735520424,rainy,dawn/dusk,city street,0,0
+c07733d0-aebb8786.jpg,traffic sign,car,0.8666411600408851,overcast,daytime,highway,0,0
+c0792259-e4b3dbbe.jpg,truck,car,0.7363990669286719,clear,daytime,highway,1,0
+c07e5e33-68d7a2fe.jpg,traffic sign,traffic light,0.5097865323650373,overcast,daytime,city street,0,0
+c07e5e33-68d7a2fe.jpg,person,car,0.6841446689438956,overcast,daytime,city street,0,0
+c07e5e33-e6e74657.jpg,traffic sign,traffic light,0.5503994144692089,undefined,daytime,residential,0,0
+c08b49d7-712e16b7.jpg,car,bus,0.8540076355542119,clear,night,city street,1,0
+c090895d-02949f2b.jpg,bus,car,0.6293465123640648,clear,daytime,residential,1,0
+c093f8be-b478e611.jpg,bus,truck,0.7636574114110544,clear,daytime,city street,1,0
+c0945c0c-e16c694a.jpg,truck,car,0.8374171481445962,overcast,daytime,city street,1,0
+c0945c0c-e16c694a.jpg,rider,person,0.5134687255629488,overcast,daytime,city street,1,0
+c0945c0c-e16c694a.jpg,rider,person,0.7412942898495475,overcast,daytime,city street,1,0
+c09ffc61-d494d8f0.jpg,bus,car,0.8983167405050263,clear,daytime,city street,1,0
+c0a66d6a-607213d1.jpg,bus,truck,0.8595369683704278,clear,daytime,city street,1,0
+c0a6cfd6-3b25543a.jpg,truck,car,0.7837808061298682,partly cloudy,dawn/dusk,city street,1,0
+c0a7a9dc-7762bc0e.jpg,truck,car,0.9551712572331347,undefined,daytime,city street,0,1
+c0a7fac6-3b412647.jpg,car,truck,0.935074977157079,rainy,daytime,city street,0,0
+c0b279b6-134749d1.jpg,bus,car,0.7665260142530277,overcast,daytime,residential,0,0
+c0b30dae-548c5972.jpg,car,person,0.7088610485264674,overcast,daytime,highway,0,0
+c0b731b5-01375e2e.jpg,truck,car,0.6365087503118113,overcast,daytime,highway,1,0
+c0b98a97-c7609d09.jpg,traffic sign,truck,0.8038769067308549,rainy,daytime,highway,1,0
+c0bbcd5e-d9c5d41e.jpg,traffic light,traffic sign,0.9051118798656569,clear,night,city street,0,1
+c0bbcd5e-d9c5d41e.jpg,traffic light,traffic sign,0.6529353181374182,clear,night,city street,0,1
+c0be0e03-459a6d3c.jpg,truck,car,0.7695622148037438,clear,dawn/dusk,highway,0,1
+c0c8ee02-431b9781.jpg,bus,truck,0.7180072553162159,snowy,daytime,city street,1,0
+c0c8ee02-431b9781.jpg,rider,person,0.695917124825191,snowy,daytime,city street,0,0
+c0c8ee02-431b9781.jpg,car,truck,0.9316105917488169,snowy,daytime,city street,0,1
+c0c954a7-0c7fa0bb.jpg,traffic sign,car,0.6102954526602129,clear,daytime,highway,0,0
+c0d12f7f-1e033ebf.jpg,truck,car,0.915825671929917,snowy,night,highway,0,0
+c0d3128e-8adf0493.jpg,truck,car,0.616676067476237,clear,daytime,highway,1,0
+c0d8d6d0-f2152200.jpg,truck,person,0.5753549735342087,clear,dawn/dusk,city street,1,0
+c0db3bd8-17587381.jpg,truck,traffic sign,0.8281550129473396,clear,night,highway,1,0
+c0deebc1-16cfa791.jpg,truck,car,0.823230345050023,undefined,daytime,city street,1,0
+c0deebc1-ff77802c.jpg,car,bus,0.8397829114727914,overcast,daytime,city street,1,0
+c0e24bac-f07076d1.jpg,motor,bike,0.8073119943843055,partly cloudy,daytime,city street,1,0
+c0e24bac-f07076d1.jpg,motor,bike,0.7400829545498935,partly cloudy,daytime,city street,1,0
+c0e6d0ec-71f98edb.jpg,truck,car,0.8376404011001048,partly cloudy,daytime,residential,1,0
+c0e7271a-a3c8d55f.jpg,car,truck,0.9211210327572247,clear,daytime,highway,0,0
+c0edf06a-74008e93.jpg,motor,bike,0.5595308047297733,partly cloudy,daytime,city street,1,0
+c0edf06a-74008e93.jpg,motor,bike,0.7577688719406405,partly cloudy,daytime,city street,1,0
+c0efbe92-541cb3fa.jpg,bus,car,0.6284977506905187,overcast,daytime,city street,1,0
+c0f1a2f9-8928361a.jpg,truck,car,0.9103651421532614,undefined,daytime,city street,1,0
+c0f1a2f9-8928361a.jpg,traffic sign,truck,0.676787147006717,undefined,daytime,city street,0,0
+c0f5b0d0-f7860ad8.jpg,truck,bus,0.8783666817145385,undefined,daytime,city street,0,0
+c0f5b0d0-f7860ad8.jpg,person,traffic light,0.7367428157242996,undefined,daytime,city street,1,0
+c0f978fa-9b4e623f.jpg,truck,car,0.6469388934904406,clear,daytime,city street,0,0
+c0faf05b-b3cba171.jpg,truck,car,0.696937274811482,overcast,daytime,residential,1,0
+c0faf05b-b3cba171.jpg,truck,car,0.7405836863443847,overcast,daytime,residential,1,0
+c0fb59eb-895d806d.jpg,car,truck,0.8345654271794166,clear,daytime,city street,0,0
+c10f0578-c613c144.jpg,bus,car,0.628518287939694,overcast,daytime,city street,1,0
+c1211833-db271204.jpg,truck,car,0.8770888049705393,clear,daytime,city street,1,0
+c122b0dd-9c06c62c.jpg,car,traffic sign,0.8251748730801045,clear,night,highway,0,0
+c1252e1f-c0640ea4.jpg,car,truck,0.9658304360816737,clear,daytime,city street,0,0
+c12bfd38-4fe7afb2.jpg,person,traffic sign,0.681138017773367,clear,daytime,highway,0,0
+c12bfd38-4fe7afb2.jpg,person,traffic sign,0.7841538023780656,clear,daytime,highway,0,0
+c12ce21f-6f6ecfa7.jpg,car,traffic sign,0.7209587076045187,clear,daytime,city street,0,1
+c12dc478-0d43272d.jpg,bus,truck,0.938752488399815,clear,night,city street,1,0
+c12dc478-40a1a306.jpg,truck,car,0.7896237301926194,clear,daytime,city street,0,0
+c12e6924-6d6ef77c.jpg,car,person,0.607520286523098,rainy,daytime,city street,1,0
+c132ff8a-831eadbd.jpg,truck,bus,0.8472989580176635,snowy,daytime,highway,1,1
+c1362f73-5aa8acd1.jpg,car,bus,0.889755039665622,clear,night,city street,0,0
+c1394b3c-a48bc983.jpg,car,traffic sign,0.5746239985948817,clear,night,highway,0,0
+c13ab9cd-88c99ae5.jpg,truck,car,0.9128390231535889,rainy,night,city street,1,0
+c13ab9cd-88c99ae5.jpg,truck,car,0.5906925382644517,rainy,night,city street,1,0
+c13b9590-492e626a.jpg,car,truck,0.8871602032561456,clear,night,city street,1,0
+c13b9590-5105f7ad.jpg,car,truck,0.7782837670470125,clear,night,highway,1,0
+c143af06-b1635ba6.jpg,truck,car,0.8570204440937871,clear,daytime,city street,1,0
+c14425b1-5fa20993.jpg,truck,car,0.8814084679109764,snowy,daytime,highway,1,0
+c146d100-4ee36f35.jpg,car,truck,0.706046815179948,partly cloudy,daytime,city street,1,0
+c146d100-4ee36f35.jpg,bus,car,0.5647980754662444,partly cloudy,daytime,city street,1,0
+c146d100-cb76d05b.jpg,bus,car,0.7231430617816594,partly cloudy,daytime,highway,0,0
+c1496e0d-45fb4823.jpg,truck,car,0.6739038791799518,overcast,daytime,city street,0,0
+c14dc226-1d699f84.jpg,car,truck,0.7030427906911415,clear,daytime,city street,1,0
+c14e8180-1968200f.jpg,truck,bus,0.9521593318050899,overcast,daytime,city street,0,0
+c150197f-1cf078f2.jpg,bus,car,0.7466273503941063,snowy,dawn/dusk,city street,1,0
+c1504278-565f9d8f.jpg,traffic sign,traffic light,0.5037343066670572,overcast,daytime,city street,0,0
+c153a7d6-902f591d.jpg,bike,car,0.6437877323290103,clear,daytime,residential,1,0
+c154b889-31f9ae3e.jpg,bus,truck,0.6780897112479167,rainy,daytime,city street,1,0
+c155b6d9-cfa6c733.jpg,motor,car,0.6632544389664072,clear,daytime,residential,1,0
+c155d65b-2d961d55.jpg,truck,car,0.6821886161115387,undefined,daytime,city street,1,0
+c155d65b-ae8038a6.jpg,rider,person,0.6639941540056487,undefined,daytime,city street,1,0
+c155d65b-bf020dcb.jpg,truck,car,0.9070605288716026,undefined,daytime,city street,0,1
+c1583ab8-1c0feef0.jpg,traffic sign,car,0.623183156130767,rainy,daytime,city street,0,0
+c159a842-7fa65680.jpg,traffic sign,car,0.8165899645907315,snowy,night,city street,0,0
+c15c29a5-47a16c75.jpg,person,traffic sign,0.9114697010145425,partly cloudy,daytime,city street,0,0
+c15c29a5-6881956e.jpg,bus,car,0.5863820226552448,overcast,daytime,city street,1,0
+c1675e95-6e450bc4.jpg,truck,bus,0.8727053820314972,clear,night,city street,0,0
+c1675e95-6e450bc4.jpg,truck,car,0.8710857474586211,clear,night,city street,0,0
+c1707ab9-9321801c.jpg,traffic light,traffic sign,0.7467398704134655,overcast,dawn/dusk,highway,0,0
+c1757757-140fa8b6.jpg,bus,car,0.5888812721598363,clear,daytime,city street,1,0
+c1757757-601402ff.jpg,car,truck,0.888262446137512,overcast,daytime,city street,1,0
+c1757757-9879fd39.jpg,truck,bus,0.9330972328206205,undefined,daytime,highway,0,0
+c17b2387-b53d9933.jpg,traffic sign,car,0.7535135246660355,clear,night,city street,0,0
+c17b2387-d6a59eed.jpg,traffic sign,traffic light,0.7087538712973316,clear,night,highway,0,0
+c1862df8-21ee7c12.jpg,bus,car,0.9231340635177072,overcast,daytime,city street,1,0
+c1862df8-21ee7c12.jpg,bus,truck,0.9249956907365774,overcast,daytime,city street,1,0
+c18d3ffa-2e847265.jpg,truck,car,0.7961353800039564,undefined,daytime,residential,1,0
+c19681f6-26f7aa52.jpg,traffic sign,traffic light,0.7102456132597045,clear,daytime,city street,0,0
+c19aa2da-25679033.jpg,bus,car,0.7636752488016977,snowy,night,city street,1,1
+c1a07cae-0aaf3a16.jpg,rider,person,0.5323172623570385,clear,daytime,city street,1,0
+c1a07cae-0aaf3a16.jpg,car,truck,0.7705504038071864,clear,daytime,city street,1,0
+c1a07cae-fc54c9dc.jpg,traffic sign,car,0.7250153930680232,undefined,daytime,city street,0,0
+c1a1e343-92f68005.jpg,bus,car,0.5837647128952821,overcast,daytime,highway,0,0
+c1a5825c-0ea22b59.jpg,truck,car,0.9762349774048433,snowy,night,city street,0,1
+c1a5825c-16222044.jpg,truck,car,0.9766088812287832,rainy,night,city street,0,1
+c1a5825c-29536004.jpg,truck,car,0.9412325549813507,snowy,night,city street,0,0
+c1a5825c-f4d4e625.jpg,truck,car,0.5007870796879804,snowy,night,city street,0,0
+c1aa3aff-7dab2121.jpg,car,truck,0.914709545684834,undefined,daytime,city street,0,0
+c1b3582d-b9c87c82.jpg,bus,car,0.7736579207696159,clear,daytime,city street,1,0
+c1b3582d-b9c87c82.jpg,bus,car,0.9518469192092534,clear,daytime,city street,1,0
+c1b3582d-b9c87c82.jpg,truck,bus,0.8169398682057102,clear,daytime,city street,1,0
+c1b3582d-b9c87c82.jpg,bus,truck,0.9195886621868103,clear,daytime,city street,1,0
+c1b7f449-2e7ddbce.jpg,truck,car,0.7627522451437424,clear,daytime,city street,0,1
+c1b93aa0-cba79a5f.jpg,traffic sign,traffic light,0.7706100905513507,rainy,night,city street,0,0
+c1b93aa0-cba79a5f.jpg,traffic sign,traffic light,0.7414033099979638,rainy,night,city street,0,0
+c1ba5ee6-d5c419d3.jpg,car,person,0.8835907892007508,overcast,dawn/dusk,residential,0,0
+c1bb60fd-24b6cf0b.jpg,bus,car,0.8555863974577225,clear,dawn/dusk,city street,1,0
+c1bd9a5f-8706ae26.jpg,traffic light,traffic sign,0.801305043280156,undefined,dawn/dusk,residential,0,0
+c1c7a738-75bb5332.jpg,truck,bus,0.9606938273073625,overcast,daytime,city street,0,0
+c1c7a738-75bb5332.jpg,truck,car,0.9625940628140331,overcast,daytime,city street,0,0
+c1c7a738-75bb5332.jpg,truck,bus,0.8692066819628587,overcast,daytime,city street,0,0
+c1c811a6-523b402f.jpg,bus,car,0.6177433892995459,clear,night,city street,1,0
+c1c8b782-bece3215.jpg,rider,car,0.6662633743417021,clear,daytime,city street,1,0
+c1ca33ef-2b3cedac.jpg,truck,car,0.9755699054563761,overcast,daytime,city street,0,0
+c1cc53e4-301ce7f6.jpg,truck,car,0.5073142862876937,undefined,daytime,city street,1,0
+c1d2a1ff-3fe5e395.jpg,car,bus,0.9687030642470251,rainy,daytime,city street,0,0
+c1d4499d-c5dd6747.jpg,truck,traffic sign,0.5224714181551823,undefined,daytime,city street,1,0
+c1d63428-737aac1d.jpg,rider,person,0.6707135145285683,partly cloudy,daytime,city street,1,0
+c1d9b74d-57a10465.jpg,car,truck,0.9676211189635353,clear,night,highway,0,1
+c1d9b74d-d3c2b059.jpg,person,rider,0.7852829721269702,clear,night,city street,1,0
+c1dc5cd2-0fd8be03.jpg,traffic light,traffic sign,0.6593141185004868,clear,night,city street,0,0
+c1e1f0cb-ffa477f3.jpg,truck,car,0.8482302909627432,clear,daytime,city street,1,0
+c1e1f0cb-ffa477f3.jpg,truck,car,0.8740189008400665,clear,daytime,city street,1,0
+c1e1f7c0-b6466fae.jpg,traffic light,traffic sign,0.6214258662532697,clear,daytime,city street,0,0
+c1e52d50-200c259b.jpg,truck,car,0.8377709327719493,clear,night,highway,0,0
+c1e662cf-67b73cdc.jpg,truck,car,0.8880809630516342,undefined,daytime,city street,0,0
+c1f1b5b7-9bc64925.jpg,car,person,0.6923409460083673,undefined,daytime,city street,1,0
+c1f35f18-3c7d204b.jpg,truck,car,0.8078482298496067,clear,night,city street,1,0
+c1f39934-5ae83750.jpg,truck,bus,0.5826751790012521,overcast,daytime,city street,1,0
+c1f39934-6e74022e.jpg,bus,truck,0.9592161863000127,overcast,dawn/dusk,city street,0,0
+c1f39934-717857b3.jpg,bike,person,0.6869007150799152,undefined,daytime,city street,1,0
+c1f39934-d26d7dd2.jpg,truck,car,0.6343772993770742,overcast,daytime,city street,1,0
+c1f4b883-84444018.jpg,bus,truck,0.8986229591153028,snowy,dawn/dusk,city street,1,0
+c1f9f357-0ea2a4a9.jpg,traffic sign,traffic light,0.5757812409494673,undefined,daytime,city street,0,0
+c1fa81f4-f26197b3.jpg,traffic sign,traffic light,0.8720201907621126,undefined,dawn/dusk,highway,0,1
+c1fcbbba-82bed253.jpg,car,truck,0.8808627695577309,snowy,daytime,city street,1,0
+c1fcdfd1-b34ce63c.jpg,car,truck,0.9372401522362815,undefined,dawn/dusk,city street,0,0
+c1fdd182-0431866d.jpg,truck,car,0.8154526611186694,clear,daytime,residential,0,0
+c1fdd182-ee635148.jpg,traffic sign,traffic light,0.7348617804419865,clear,daytime,residential,0,0
+c2021c8c-474a8eda.jpg,truck,car,0.9524041825831651,undefined,daytime,city street,1,0
+c2032247-86ea336e.jpg,truck,car,0.864826344649555,clear,daytime,residential,1,0
+c2032247-86ea336e.jpg,truck,car,0.5624575664218678,clear,daytime,residential,1,0
+c2032247-86ea336e.jpg,truck,car,0.7340506261722084,clear,daytime,residential,1,0
+c2074a7c-7905ced0.jpg,bus,car,0.6453772568518689,partly cloudy,dawn/dusk,highway,1,0
+c20ae70f-f5107b2c.jpg,truck,car,0.9734317175791897,clear,night,city street,0,0
+c20db6e7-6613883a.jpg,traffic light,traffic sign,0.8934898790907165,clear,night,parking lot,0,0
+c2148d05-b52ebea0.jpg,truck,bus,0.7930086977289174,snowy,daytime,city street,1,0
+c2179f35-d4666c72.jpg,truck,car,0.8970630335789361,clear,daytime,highway,1,0
+c2186a76-6757a4be.jpg,bus,car,0.5062650551340373,overcast,daytime,city street,1,0
+c21defc7-61b5e22a.jpg,truck,car,0.9331118165653006,undefined,daytime,city street,1,0
+c21e328e-0d19a282.jpg,car,truck,0.541144956811312,clear,daytime,city street,1,0
+c21fba09-f4501c68.jpg,truck,car,0.8481935092050152,snowy,night,city street,0,0
+c22c0422-2de1b215.jpg,truck,car,0.9747437641222483,clear,daytime,city street,0,1
+c2341eec-16d212b8.jpg,bus,truck,0.9276774317856591,undefined,daytime,city street,0,0
+c2341eec-293df47b.jpg,truck,car,0.7249035446631475,snowy,daytime,residential,1,0
+c2341eec-293df47b.jpg,truck,car,0.781996033093112,snowy,daytime,residential,1,0
+c23551ce-6007b75e.jpg,truck,car,0.76337298552362,partly cloudy,daytime,highway,1,0
+c2364a53-a22c73f2.jpg,car,bus,0.8244495791254529,undefined,daytime,city street,1,0
+c23770f3-1b29a7b7.jpg,bus,car,0.6537605189257764,clear,night,city street,1,0
+c239dcd2-0868f0e1.jpg,truck,car,0.8891617510826699,undefined,daytime,city street,1,0
+c239dcd2-0868f0e1.jpg,truck,car,0.8342145186043255,undefined,daytime,city street,0,0
+c239dcd2-0868f0e1.jpg,truck,car,0.9439349534935924,undefined,daytime,city street,0,1
+c239dcd2-0868f0e1.jpg,truck,car,0.91836021425936,undefined,daytime,city street,1,1
+c239dcd2-0868f0e1.jpg,truck,car,0.7095240631035225,undefined,daytime,city street,1,0
+c2425dd9-ca97c25b.jpg,motor,car,0.6399169023245201,clear,night,city street,1,0
+c24aece5-9554f636.jpg,bus,truck,0.9684120904131208,clear,night,city street,0,0
+c24bae34-454a0416.jpg,bike,person,0.5743762634236574,partly cloudy,daytime,city street,1,0
+c24e7c72-2aefe7f1.jpg,truck,car,0.7152213864338778,partly cloudy,daytime,city street,1,1
+c2592033-48254ed4.jpg,bus,car,0.9325919835307837,clear,daytime,residential,0,0
+c25f97e6-1827a77f.jpg,truck,car,0.8837993288037334,snowy,daytime,city street,1,0
+c25f97e6-1827a77f.jpg,truck,car,0.6548457193992441,snowy,daytime,city street,1,0
+c25f97e6-1827a77f.jpg,truck,car,0.9283009294587968,snowy,daytime,city street,0,0
+c26620df-69c25d46.jpg,bus,car,0.9049401783919822,overcast,daytime,highway,0,0
+c267da7f-006f108f.jpg,truck,car,0.9300717569940338,snowy,daytime,city street,0,0
+c267da7f-b62da311.jpg,car,traffic light,0.7129960530432266,snowy,daytime,city street,1,0
+c26f2635-f33e1d9f.jpg,truck,car,0.9449294169056704,snowy,daytime,city street,1,0
+c274ce4e-e2f8d81b.jpg,car,truck,0.8809729906709164,partly cloudy,daytime,city street,1,0
+c27e2a5d-3fb04be8.jpg,truck,car,0.7855735893096877,undefined,daytime,city street,1,0
+c27e2a5d-93699ec3.jpg,bike,car,0.8532636062176489,undefined,daytime,city street,0,0
+c27e5a2b-ecd48437.jpg,truck,car,0.6081738528213246,rainy,daytime,city street,1,0
+c281c4a6-40432e1d.jpg,traffic light,traffic sign,0.8035297289100939,overcast,daytime,city street,0,1
+c291c9ab-a9ccb89d.jpg,traffic sign,car,0.6605510442233214,snowy,daytime,city street,0,0
+c292800e-4290dbb9.jpg,motor,bike,0.8712187990983129,clear,daytime,city street,1,0
+c29976d5-c811d4fc.jpg,truck,car,0.8951283712347892,clear,night,residential,0,0
+c2a42061-fc4af0cd.jpg,truck,bus,0.7882583736760019,overcast,daytime,highway,1,0
+c2a6b1c9-ce009635.jpg,bus,truck,0.8249072716593342,clear,daytime,highway,1,0
+c2b0aeff-8116fb32.jpg,truck,car,0.874660965852286,clear,daytime,city street,1,0
+c2b457e5-36e3ecee.jpg,bike,motor,0.8045785637193354,clear,daytime,residential,1,0
+c2b79a27-6c31cf15.jpg,truck,car,0.865932657215648,clear,dawn/dusk,highway,0,0
+c2bc5a4c-b2bc828b.jpg,car,truck,0.9060566591106451,clear,daytime,highway,1,0
+c2bc5a4c-c4864ac1.jpg,traffic light,traffic sign,0.7441698246957944,clear,daytime,city street,1,0
+c2c5fee5-da368df3.jpg,truck,car,0.537725374128876,undefined,daytime,city street,1,0
+c2ca6fc5-20262bf2.jpg,person,traffic sign,0.6922697687965123,clear,night,city street,1,0
+c2cf05b9-112623fd.jpg,truck,car,0.6124355102656256,overcast,daytime,city street,0,1
+c2cf05b9-a796747a.jpg,truck,car,0.8274353989520921,undefined,daytime,city street,1,0
+c2d921c8-2d2a2c9b.jpg,truck,car,0.6951638591842464,partly cloudy,daytime,undefined,1,0
+c2d921c8-6d91821a.jpg,motor,car,0.8626638149968205,partly cloudy,dawn/dusk,city street,0,0
+c2e3cd3c-fc972e2e.jpg,bike,motor,0.8176581161039607,clear,daytime,city street,1,0
+c2e3fe05-fa312f4d.jpg,train,traffic sign,0.548418468074173,snowy,night,city street,0,0
+c2e4e91e-cf165083.jpg,truck,car,0.9592627081978479,clear,dawn/dusk,residential,0,1
+c2e4e91e-cf165083.jpg,truck,car,0.9440012965012378,clear,dawn/dusk,residential,0,0
+c2f25682-59bb9423.jpg,motor,car,0.7029956056071848,overcast,daytime,highway,0,1
+c2f25682-d1334b0c.jpg,traffic sign,traffic light,0.8057520697502637,partly cloudy,daytime,city street,0,0
+c2f25682-d1334b0c.jpg,traffic sign,traffic light,0.8470436618694003,partly cloudy,daytime,city street,0,0
+c3009124-b8d0d1ea.jpg,truck,car,0.9566148701437649,clear,daytime,highway,0,0
+c301c86c-1acdbecb.jpg,rider,person,0.653009295445733,overcast,daytime,city street,1,0
+c3026ac7-8105e9a9.jpg,truck,traffic sign,0.6556720515459867,overcast,daytime,highway,1,1
+c3061560-e5d3971d.jpg,car,truck,0.5408779923183051,snowy,night,city street,0,0
+c306771b-67b9007f.jpg,traffic sign,traffic light,0.8945103836124949,partly cloudy,daytime,city street,0,0
+c308561a-1b698bb4.jpg,truck,car,0.923803227726614,partly cloudy,daytime,highway,1,0
+c308724a-56daf08b.jpg,car,truck,0.8078959197212542,clear,night,city street,0,0
+c3127fc5-0411259f.jpg,car,truck,0.5521013614672727,clear,daytime,city street,1,0
+c31a04de-a3a5bc29.jpg,bus,truck,0.910576368300675,clear,night,city street,1,0
+c31aa969-1f6cbf7f.jpg,truck,car,0.8276869860421453,clear,night,city street,1,0
+c3248121-96de25d5.jpg,truck,bus,0.9036831447533711,snowy,daytime,city street,1,0
+c324e953-ad402fa6.jpg,truck,car,0.8363147010488542,clear,night,city street,1,0
+c3283326-494b49b0.jpg,truck,car,0.8772233229489889,clear,night,city street,0,0
+c328b7ab-8bb33358.jpg,traffic light,traffic sign,0.588777710470651,clear,night,city street,0,0
+c32dbcaf-50f0a281.jpg,motor,car,0.5510446292105812,clear,night,highway,1,0
+c330c787-aa838610.jpg,car,truck,0.9196104231901049,undefined,daytime,city street,1,0
+c330c787-ac4f1ff5.jpg,truck,car,0.9412610166856729,undefined,dawn/dusk,city street,1,0
+c3367099-841c2fba.jpg,traffic sign,car,0.9430012715868865,clear,night,city street,1,0
+c3367099-841c2fba.jpg,traffic sign,car,0.806199017256439,clear,night,city street,1,0
+c3367099-841c2fba.jpg,traffic sign,car,0.880514117585331,clear,night,city street,1,0
+c3367099-841c2fba.jpg,traffic sign,car,0.7333192199028136,clear,night,city street,1,0
+c3367099-841c2fba.jpg,traffic sign,car,0.7024540234252807,clear,night,city street,1,0
+c3367099-841c2fba.jpg,traffic sign,car,0.7868744737747294,clear,night,city street,1,0
+c3367099-841c2fba.jpg,traffic sign,car,0.5831577282885526,clear,night,city street,1,0
+c3367099-841c2fba.jpg,traffic sign,car,0.6452615118723876,clear,night,city street,1,0
+c33700f7-08262a44.jpg,truck,car,0.6269737297719933,overcast,daytime,city street,0,0
+c33ff185-6648dfa9.jpg,car,truck,0.7849865730100035,snowy,daytime,city street,1,0
+c33ff185-93a0dd91.jpg,truck,car,0.7329543144683449,undefined,undefined,tunnel,1,0
+c34058b8-2790784b.jpg,bus,truck,0.9186706693258307,overcast,dawn/dusk,city street,1,0
+c342b42d-09b85192.jpg,truck,car,0.5331585888914494,clear,night,city street,1,0
+c3436372-eb18934d.jpg,truck,car,0.7789962877608266,clear,daytime,city street,0,0
+c352d9c5-d0019b8b.jpg,rider,person,0.6646845002137327,clear,daytime,city street,0,0
+c352d9c5-d0019b8b.jpg,truck,car,0.706948994664369,clear,daytime,city street,0,0
+c352d9c5-d0019b8b.jpg,rider,person,0.6292120035175635,clear,daytime,city street,0,0
+c353f0b4-c62600fa.jpg,person,car,0.9433153094070451,partly cloudy,daytime,city street,1,0
+c35531fb-c1bd532b.jpg,person,car,0.5002892859324223,overcast,daytime,city street,0,0
+c357f7fe-3f94d6aa.jpg,traffic light,traffic sign,0.5435667339816536,clear,night,highway,0,0
+c3593016-c20441ce.jpg,truck,car,0.8891994430742923,overcast,daytime,city street,0,1
+c3593016-c20441ce.jpg,truck,car,0.8027901242805734,overcast,daytime,city street,1,0
+c35c16ba-b65a3906.jpg,traffic sign,traffic light,0.6552031979061815,clear,night,city street,0,0
+c360ca4b-7a8ec6e6.jpg,truck,car,0.8929659218445708,clear,daytime,city street,0,1
+c360ca4b-7a8ec6e6.jpg,truck,car,0.654484153458387,clear,daytime,city street,1,0
+c366973d-c03525b0.jpg,bike,person,0.699735416780203,clear,daytime,city street,0,0
+c3714b40-1610471f.jpg,bus,truck,0.9441751946633602,undefined,daytime,city street,0,1
+c37388ef-99765627.jpg,truck,bus,0.7582098889132048,overcast,daytime,city street,1,1
+c37388ef-99765627.jpg,person,bike,0.5912925777540217,overcast,daytime,city street,1,0
+c37388ef-99765627.jpg,rider,person,0.5468001449599738,overcast,daytime,city street,0,0
+c37388ef-99765627.jpg,person,rider,0.932114128459564,overcast,daytime,city street,1,0
+c37388ef-99765627.jpg,bike,person,0.5654735487715353,overcast,daytime,city street,1,0
+c37388ef-99765627.jpg,rider,person,0.5717834079436531,overcast,daytime,city street,0,0
+c373cc4e-59108d25.jpg,truck,bus,0.9246091386367037,clear,night,city street,0,0
+c37b517d-477f8143.jpg,truck,car,0.7241790107795343,clear,night,city street,0,0
+c37b517d-477f8143.jpg,truck,car,0.7016711609334136,clear,night,city street,0,0
+c37b9726-29dfad76.jpg,truck,car,0.951623740112448,snowy,daytime,city street,1,0
+c37cf84f-18aa50f6.jpg,truck,car,0.6889084233174821,rainy,daytime,city street,1,0
+c37fdf68-03ba744c.jpg,person,car,0.6611462102538874,snowy,night,city street,0,0
+c3870915-a0d8f653.jpg,bus,car,0.5707526792738932,clear,night,city street,1,0
+c38bdba6-bc70b28c.jpg,motor,person,0.7136838066991661,undefined,daytime,city street,1,0
+c38cd3f6-c74ca48b.jpg,car,person,0.7010207233743582,clear,daytime,residential,1,0
+c3968de8-21d6c364.jpg,truck,car,0.9136208129748847,rainy,night,highway,0,0
+c396e833-ba935f99.jpg,truck,car,0.9048504872220577,overcast,daytime,city street,0,0
+c396e833-ba935f99.jpg,truck,car,0.9205135127892257,overcast,daytime,city street,0,0
+c396e833-ba935f99.jpg,truck,car,0.9422145074124691,overcast,daytime,city street,0,0
+c396e833-ba935f99.jpg,truck,car,0.5140194639992236,overcast,daytime,city street,1,0
+c39a0a67-dcf8ab72.jpg,bus,car,0.8462226174937888,clear,daytime,highway,1,0
+c3a015d4-2779708e.jpg,car,truck,0.6363955936643901,undefined,daytime,city street,1,0
+c3a015d4-2779708e.jpg,motor,bike,0.6350246874394716,undefined,daytime,city street,1,0
+c3a048fb-9adc169f.jpg,car,truck,0.9703366675868563,clear,daytime,highway,0,0
+c3a0a1c9-90f0081e.jpg,truck,car,0.519388058906317,clear,dawn/dusk,highway,1,0
+c3a18207-109c0500.jpg,truck,car,0.9618820294975436,clear,daytime,highway,0,1
+c3a26429-19fefafb.jpg,truck,car,0.9036826110769078,overcast,daytime,residential,0,0
+c3a94f80-27e0d36a.jpg,truck,car,0.8482204460127403,rainy,daytime,highway,1,0
+c3ac34e8-2701e034.jpg,motor,car,0.5125736932216907,clear,night,city street,1,0
+c3b31662-4e576035.jpg,traffic sign,traffic light,0.735273863985658,undefined,daytime,city street,0,0
+c3bfdcda-bfdd5fdb.jpg,truck,car,0.7749547833926174,clear,daytime,residential,1,0
+c3c0f47b-e11941f3.jpg,truck,car,0.905753883381084,clear,daytime,highway,1,0
+c3cae07c-b1c025cf.jpg,bus,car,0.6137014839093483,clear,daytime,city street,1,0
+c3cae07c-b1c025cf.jpg,truck,car,0.539621697848004,clear,daytime,city street,1,0
+c3cd662f-228cba06.jpg,truck,car,0.985332632004508,rainy,daytime,residential,1,0
+c3d39d44-4ee18d50.jpg,truck,car,0.9450577996931376,snowy,daytime,parking lot,1,0
+c3d39d44-4ee18d50.jpg,truck,car,0.6548676141054373,snowy,daytime,parking lot,1,0
+c3d81c03-185c3684.jpg,truck,car,0.9919611725648576,undefined,daytime,highway,0,1
+c3da90b0-cfd1d6b9.jpg,truck,car,0.7886573426597929,snowy,daytime,highway,1,0
+c3dc6d37-450bc114.jpg,car,bus,0.5115942580947427,clear,daytime,highway,1,0
+c3dd2df5-262ecc08.jpg,truck,car,0.925885324882385,clear,night,city street,0,1
+c3e87419-dd6f2321.jpg,truck,car,0.8437311703358396,clear,daytime,highway,0,0
+c3ecb3cb-5fb43d29.jpg,truck,car,0.9306674431159404,partly cloudy,daytime,residential,1,0
+c4057c0c-a47d8dba.jpg,truck,car,0.9367363584903277,clear,daytime,city street,0,0
+c4057c0c-a47d8dba.jpg,truck,car,0.7428814364731517,clear,daytime,city street,0,0
+c40a2c98-3709f786.jpg,truck,bus,0.965976908375575,clear,night,city street,1,0
+c410bbba-9460f6c1.jpg,truck,car,0.8045687621026772,overcast,dawn/dusk,city street,1,0
+c41203a6-f2bee3f0.jpg,truck,car,0.6794997020580287,clear,daytime,city street,1,0
+c41358e5-e74b4a5b.jpg,traffic sign,truck,0.7254498066201985,clear,daytime,highway,0,0
+c4155f73-01f813b2.jpg,car,truck,0.941163266741314,overcast,daytime,residential,0,0
+c415a08c-a6cb455e.jpg,truck,car,0.878217545795345,clear,daytime,highway,0,0
+c4160d08-c506293d.jpg,truck,car,0.9660913978766829,overcast,daytime,residential,1,0
+c4160d08-d9c52d7b.jpg,truck,car,0.9004141085541669,overcast,dawn/dusk,residential,0,0
+c417a291-7802692d.jpg,bike,person,0.6055662099091165,undefined,dawn/dusk,residential,1,0
+c417a291-7ea03054.jpg,truck,car,0.7545015319736962,overcast,daytime,city street,0,1
+c41826e3-9e581f79.jpg,traffic sign,traffic light,0.5484423761130515,overcast,daytime,residential,0,0
+c428e890-674ecc9d.jpg,truck,car,0.7877479812021884,snowy,night,residential,1,0
+c428e890-674ecc9d.jpg,truck,car,0.7439968460071895,snowy,night,residential,1,0
+c428e890-674ecc9d.jpg,truck,car,0.5448412112857206,snowy,night,residential,1,0
+c4353b9c-9d50cbe9.jpg,rider,person,0.7276867539016285,overcast,daytime,city street,1,0
+c4353b9c-9d50cbe9.jpg,bike,person,0.5134720146660959,overcast,daytime,city street,1,0
+c4353b9c-9d50cbe9.jpg,person,car,0.5393781291619809,overcast,daytime,city street,0,0
+c439e607-c03383c7.jpg,bus,car,0.9160048800044615,clear,daytime,highway,1,0
+c43c290b-61f94939.jpg,truck,car,0.7075580872112505,clear,daytime,city street,1,0
+c43eaa20-61c1ec04.jpg,traffic light,traffic sign,0.7869029302105084,clear,night,highway,0,0
+c43fb080-64852108.jpg,truck,traffic sign,0.7834926498791194,clear,night,highway,1,0
+c4402b90-b65a2393.jpg,car,traffic sign,0.951176921952558,snowy,daytime,city street,1,0
+c447f74e-64671040.jpg,bike,person,0.5803728996739207,clear,daytime,city street,1,0
+c44e7068-5dafd017.jpg,traffic sign,car,0.8367310647622751,snowy,daytime,city street,0,0
+c4528c24-144b8340.jpg,bike,car,0.8630147088039875,undefined,daytime,city street,1,0
+c4590261-d7081dfa.jpg,person,car,0.5421625221339851,snowy,daytime,city street,1,0
+c4590261-d7081dfa.jpg,person,car,0.5850180820592948,snowy,daytime,city street,1,0
+c45b2e04-5689b375.jpg,truck,car,0.5658417427960941,overcast,dawn/dusk,city street,1,0
+c45d3e0a-b26d5167.jpg,car,truck,0.8192035189923337,overcast,daytime,residential,1,0
+c45d3e0a-b26d5167.jpg,person,car,0.6105003990481667,overcast,daytime,residential,0,0
+c45fbe22-2c182907.jpg,bus,car,0.6318318057652225,clear,dawn/dusk,residential,1,0
+c4605841-affd9541.jpg,truck,car,0.6760456015632113,clear,daytime,highway,0,0
+c463025d-87dab187.jpg,person,rider,0.7575872710813575,clear,night,city street,0,0
+c463025d-87dab187.jpg,person,bike,0.6130879965019164,clear,night,city street,0,0
+c46ae02f-e7635cbf.jpg,person,car,0.7906974756448787,clear,dawn/dusk,city street,0,1
+c4742900-38974bfd.jpg,motor,bike,0.8504749841428272,clear,night,city street,1,0
+c4742900-38974bfd.jpg,rider,person,0.785986776386002,clear,night,city street,1,0
+c4742900-38974bfd.jpg,motor,bike,0.5804040640475162,clear,night,city street,1,0
+c4742900-81aa45ae.jpg,truck,bus,0.8270552736834298,clear,night,city street,0,0
+c47ac0cd-7e14e3f2.jpg,rider,person,0.6289639055472022,undefined,daytime,city street,1,0
+c47d8d11-30ed3058.jpg,truck,car,0.5072732486191116,overcast,daytime,residential,1,0
+c47d8d11-30ed3058.jpg,truck,car,0.6926919550965844,overcast,daytime,residential,1,0
+c482a775-8e9c09c8.jpg,traffic light,traffic sign,0.8266393940804596,undefined,daytime,city street,1,0
+c485d97d-e833c4a1.jpg,car,motor,0.5026007899419106,clear,daytime,city street,1,0
+c49d39a3-738d6240.jpg,car,truck,0.9277234792824417,clear,night,highway,0,1
+c49e96b9-24ec6193.jpg,truck,car,0.8742420127193333,overcast,daytime,city street,1,0
+c49e96b9-24ec6193.jpg,bus,truck,0.9612705929617336,overcast,daytime,city street,1,0
+c49e96b9-24ec6193.jpg,truck,car,0.7384671441284709,overcast,daytime,city street,1,0
+c4a19ba6-872ab53e.jpg,motor,car,0.5859864541434162,undefined,daytime,city street,1,0
+c4a19ba6-e17be5d5.jpg,truck,car,0.6281881275800024,clear,daytime,city street,1,0
+c4a19ba6-e706bdc2.jpg,truck,bus,0.8929629540009629,clear,daytime,city street,1,1
+c4a19ba6-fa93d45f.jpg,car,truck,0.8778707911140623,clear,daytime,city street,0,0
+c4a4ccdc-9c4aeeeb.jpg,truck,car,0.8818149130152424,overcast,daytime,city street,1,0
+c4a6774c-753a089b.jpg,truck,car,0.964937388218542,clear,daytime,city street,1,0
+c4a6774c-753a089b.jpg,rider,person,0.7248677003288112,clear,daytime,city street,1,0
+c4a6feae-63c06b39.jpg,truck,bus,0.8878135303786371,clear,night,city street,1,0
+c4a6feae-63c06b39.jpg,truck,car,0.8165740056373868,clear,night,city street,1,0
+c4adecb8-62235513.jpg,bus,car,0.8051129950879026,undefined,daytime,city street,1,0
+c4adecb8-62235513.jpg,traffic light,traffic sign,0.8261421742741993,undefined,daytime,city street,0,0
+c4b90e82-0a023704.jpg,person,rider,0.6905994826311774,overcast,daytime,city street,0,0
+c4c4b88a-d1a38d2f.jpg,traffic sign,truck,0.8900311422311645,partly cloudy,daytime,highway,1,0
+c4ccd765-48590402.jpg,car,truck,0.8921765239309136,clear,night,highway,0,1
+c4ccd765-48590402.jpg,bus,car,0.5608105049800277,clear,night,highway,0,0
+c4d1be5c-f868e120.jpg,bike,person,0.5528620673403787,clear,night,city street,1,0
+c4d25f00-3b1d8669.jpg,person,car,0.5697556185165423,clear,night,city street,1,0
+c4d25f00-b6658057.jpg,car,truck,0.8860479389314206,clear,night,city street,1,0
+c4d58b70-d6d1bc1b.jpg,bus,truck,0.6894925659854733,rainy,night,city street,1,0
+c4d631ce-55e4d4e9.jpg,traffic sign,traffic light,0.812529565233111,undefined,daytime,residential,0,0
+c4d631ce-55e4d4e9.jpg,traffic sign,traffic light,0.5900585850902111,undefined,daytime,residential,0,0
+c4d8d2c5-4b12f422.jpg,traffic sign,car,0.8510213814456695,overcast,daytime,city street,0,0
+c4da6b04-56ce6c06.jpg,truck,bus,0.8519344345512341,overcast,daytime,city street,1,0
+c4dbd719-26df8369.jpg,motor,car,0.7989465401599396,partly cloudy,daytime,city street,1,0
+c4dcbfde-47aff5b9.jpg,car,truck,0.9292539646920569,overcast,daytime,highway,0,1
+c4dcbfde-47aff5b9.jpg,car,truck,0.7353626063060119,overcast,daytime,highway,1,0
+c4e926af-43c5f8d3.jpg,bus,car,0.8713218633322802,partly cloudy,daytime,city street,0,0
+c4e96efa-73bd2e38.jpg,rider,person,0.6192515250989205,rainy,daytime,highway,1,0
+c4e96efa-73bd2e38.jpg,rider,person,0.9310440494801431,rainy,daytime,highway,1,0
+c4e96efa-73bd2e38.jpg,rider,traffic sign,0.5521663042799475,rainy,daytime,highway,1,0
+c4e96efa-94aad2be.jpg,truck,car,0.8602314768079828,rainy,daytime,highway,0,0
+c4eb5462-184dced9.jpg,bike,person,0.8249928289123428,undefined,daytime,city street,0,1
+c4eb5462-184dced9.jpg,bike,person,0.6227692088675786,undefined,daytime,city street,1,0
+c4eb5462-184dced9.jpg,car,truck,0.6341777781769286,undefined,daytime,city street,1,0
+c4eb5462-4d947240.jpg,truck,car,0.5893596736064175,clear,daytime,city street,1,0
+c4eb5462-4d947240.jpg,truck,car,0.6168588869523002,clear,daytime,city street,1,0
+c4eb5462-c917fefd.jpg,truck,car,0.7681273838155832,clear,daytime,highway,1,0
+c4eb5462-ebd248b7.jpg,car,truck,0.8195230874303822,clear,daytime,city street,1,0
+c4eb5462-f87b7afc.jpg,traffic light,traffic sign,0.7020336826233051,clear,daytime,city street,0,0
+c4eb680f-4fdac155.jpg,truck,car,0.8963009489758393,partly cloudy,daytime,highway,0,0
+c4fb5145-f7056d01.jpg,car,truck,0.9368656667717588,clear,night,city street,0,0
+c4fb8930-2ff82458.jpg,car,truck,0.8460377402813828,clear,daytime,city street,1,0
+c50b63be-93930ff0.jpg,truck,car,0.9742779883383665,rainy,daytime,city street,0,1
+c50b63be-93930ff0.jpg,truck,bus,0.9816845111341423,rainy,daytime,city street,0,1
+c50d0b3f-3a8df0bf.jpg,truck,car,0.9136949021061584,clear,daytime,city street,1,1
+c50faaad-75284f27.jpg,rider,car,0.6283881678858265,clear,daytime,residential,1,0
+c517c182-a162a7f9.jpg,car,truck,0.9305330736387245,clear,night,gas stations,1,0
+c517c182-a162a7f9.jpg,car,bus,0.92348216443515,clear,night,gas stations,1,0
+c51c4c12-e9006511.jpg,truck,bus,0.9418162951232131,rainy,daytime,highway,1,0
+c51ec845-99c75a49.jpg,bus,truck,0.9605350711920196,partly cloudy,daytime,highway,1,1
+c51ec845-99c75a49.jpg,car,traffic sign,0.7886274063802051,partly cloudy,daytime,highway,1,0
+c51ec845-99c75a49.jpg,car,traffic sign,0.562828406192991,partly cloudy,daytime,highway,0,0
+c51ec845-99c75a49.jpg,traffic sign,traffic light,0.6744720390152139,partly cloudy,daytime,highway,0,0
+c5218d47-c938bca6.jpg,bus,car,0.5917111578509565,clear,night,city street,0,0
+c52b6d8b-defd3a03.jpg,truck,car,0.9063393499939175,undefined,daytime,city street,0,0
+c532201e-8531945e.jpg,bus,truck,0.9256167339583556,clear,daytime,city street,0,0
+c53478c5-0565e28b.jpg,traffic sign,traffic light,0.6158108272498353,clear,daytime,city street,0,0
+c536d061-03d98dde.jpg,person,car,0.8626053879317905,clear,night,city street,0,1
+c53986c1-a827a10a.jpg,car,truck,0.8061890487394809,snowy,daytime,city street,1,0
+c53c8bba-e8fa6bc6.jpg,truck,car,0.661168123218979,overcast,daytime,residential,0,0
+c53cad0a-e31c0406.jpg,truck,car,0.9679119303593287,undefined,daytime,city street,0,0
+c540a708-71fd04e3.jpg,car,truck,0.664062904175197,clear,night,city street,0,0
+c5434464-5dcb3bd7.jpg,truck,car,0.6524830179217169,overcast,daytime,city street,1,0
+c54ec43c-1aa7875b.jpg,bus,truck,0.8981491640952513,partly cloudy,daytime,city street,1,0
+c55554e1-b61fd176.jpg,traffic sign,traffic light,0.5787242756367502,clear,daytime,highway,0,0
+c5568343-87284a3a.jpg,truck,bus,0.6130853823971677,clear,night,city street,0,0
+c5568343-87284a3a.jpg,truck,car,0.8176393282976048,clear,night,city street,0,0
+c5578df5-1318c8a5.jpg,bus,car,0.8137372802192109,clear,daytime,city street,1,0
+c5578df5-1318c8a5.jpg,truck,car,0.8991282182018833,clear,daytime,city street,1,0
+c5578df5-1318c8a5.jpg,truck,bus,0.9001117699159561,clear,daytime,city street,1,0
+c5584f14-cba77967.jpg,bus,truck,0.724804579323495,overcast,dawn/dusk,city street,0,0
+c558e42a-f172181e.jpg,traffic light,traffic sign,0.7602359334137889,clear,night,city street,0,0
+c55b79ad-fff7df7b.jpg,truck,car,0.7337438776349587,partly cloudy,daytime,highway,1,0
+c55f5f07-1d069cfd.jpg,motor,car,0.6787614941773693,clear,night,residential,0,0
+c5617574-cca98859.jpg,truck,car,0.9380592081546605,clear,daytime,residential,0,0
+c5617574-cca98859.jpg,truck,car,0.8324962777400426,clear,daytime,residential,0,0
+c561cb9a-6b311a1c.jpg,truck,car,0.9982433217385921,clear,daytime,city street,1,0
+c561cb9a-6b311a1c.jpg,truck,car,0.687505779186882,clear,daytime,city street,1,0
+c561cb9a-aafc0bad.jpg,bus,car,0.8686706972675421,overcast,daytime,city street,1,0
+c564c92b-dec2638b.jpg,truck,car,0.9315984004048938,partly cloudy,daytime,highway,0,0
+c564c92b-dec2638b.jpg,car,truck,0.8101813559095289,partly cloudy,daytime,highway,1,0
+c564c92b-dec2638b.jpg,car,truck,0.7191601991137403,partly cloudy,daytime,highway,0,1
+c5694077-e345e2a8.jpg,bike,rider,0.8536822152747001,overcast,daytime,city street,1,1
+c569c251-0738a573.jpg,rider,person,0.8649021150188771,clear,daytime,city street,0,0
+c569c251-ee16dcb1.jpg,bus,truck,0.8741477958622178,undefined,daytime,city street,0,0
+c56ad92a-5ee26a21.jpg,truck,car,0.7522128669842395,rainy,daytime,city street,0,1
+c56f2163-005261fc.jpg,truck,car,0.8595379471334043,overcast,daytime,residential,1,0
+c57363a5-1237e193.jpg,traffic light,traffic sign,0.8006982774668994,undefined,daytime,city street,0,0
+c573ac02-6c5f037e.jpg,truck,car,0.520547874939311,clear,daytime,city street,1,0
+c573d709-4a0dbd2a.jpg,rider,person,0.6577552906615791,partly cloudy,daytime,city street,1,0
+c573d709-4a0dbd2a.jpg,bus,truck,0.6917933497913586,partly cloudy,daytime,city street,1,0
+c57c1efb-3033d1ff.jpg,person,car,0.5320253823337543,clear,night,city street,1,0
+c57c1efb-d906271a.jpg,traffic light,traffic sign,0.7674332663903204,clear,night,city street,0,0
+c586b898-99a46642.jpg,truck,bus,0.8617770267573572,clear,night,city street,1,0
+c5879538-6312ddd1.jpg,bus,car,0.9526695063240496,clear,daytime,city street,1,0
+c589f726-1a6459e8.jpg,truck,car,0.7147343887269891,overcast,dawn/dusk,city street,1,0
+c58a9085-abc0c295.jpg,truck,car,0.5514980497167332,rainy,daytime,highway,1,0
+c58a9085-abc0c295.jpg,traffic sign,car,0.7255394268088634,rainy,daytime,highway,0,0
+c58a9085-abc0c295.jpg,truck,car,0.9365528332452604,rainy,daytime,highway,0,0
+c58eb8da-9871eb53.jpg,bus,truck,0.831780110989562,clear,daytime,residential,1,0
+c59500f0-130d7415.jpg,bus,truck,0.815859942952016,overcast,daytime,residential,1,0
+c59500f0-d3272eb4.jpg,truck,car,0.9567230557549513,undefined,daytime,city street,0,0
+c59500f0-d3272eb4.jpg,truck,car,0.940366736298026,undefined,daytime,city street,1,0
+c59500f0-f26be735.jpg,car,truck,0.6089337777551723,rainy,dawn/dusk,highway,1,1
+c59e4f05-5ebe763a.jpg,car,bus,0.8590957118482148,partly cloudy,daytime,highway,1,0
+c5a170ce-85355a1b.jpg,truck,car,0.7077244660153056,clear,dawn/dusk,highway,1,0
+c5a42fb0-f73381b8.jpg,truck,car,0.76462325872395,partly cloudy,daytime,city street,0,0
+c5a4ccc0-2119ddb9.jpg,truck,car,0.8555544052918121,clear,night,city street,1,0
+c5a4ccc0-87c6df6e.jpg,car,truck,0.8900579462074014,partly cloudy,daytime,city street,1,0
+c5a4ccc0-b786fbb2.jpg,car,truck,0.5706232628643212,clear,night,city street,0,1
+c5a84acc-baf6323a.jpg,truck,car,0.5942697227792699,clear,dawn/dusk,city street,1,0
+c5ab4d79-c244d950.jpg,bus,truck,0.5366342117182759,overcast,daytime,city street,1,0
+c5b2506d-07e406a6.jpg,person,traffic sign,0.8997761429864771,clear,daytime,residential,0,0
+c5b2506d-1241a008.jpg,car,truck,0.7040238670957568,clear,daytime,city street,1,1
+c5b2506d-6e15c4c3.jpg,rider,person,0.7374117434867113,undefined,daytime,city street,1,0
+c5b2506d-9121123c.jpg,truck,car,0.5076638717237342,undefined,daytime,city street,1,0
+c5b2506d-b5774e49.jpg,truck,car,0.6879501739536564,undefined,daytime,city street,1,0
+c5b7b466-c3bd479a.jpg,car,bus,0.9506552055432735,undefined,daytime,highway,0,1
+c5b80ec1-6efedb0e.jpg,bus,truck,0.900990889452931,clear,daytime,highway,0,1
+c5bbf929-e89aac92.jpg,car,truck,0.9553369322430493,overcast,daytime,city street,0,0
+c5bbf929-e89aac92.jpg,truck,car,0.7847959286930075,overcast,daytime,city street,1,0
+c5bc3aa9-0d55c4f9.jpg,bus,truck,0.8285625602890585,overcast,daytime,city street,1,0
+c5bc3aa9-0d55c4f9.jpg,car,bus,0.8854290982335772,overcast,daytime,city street,1,0
+c5bc3aa9-0d55c4f9.jpg,bus,truck,0.6596843147135231,overcast,daytime,city street,0,1
+c5bc3aa9-0d55c4f9.jpg,car,truck,0.8938784444347426,overcast,daytime,city street,1,0
+c5d13cf9-8840eb07.jpg,truck,car,0.9148712070885461,snowy,night,highway,1,0
+c5d2daaf-bee29c76.jpg,car,truck,0.8973717601261458,clear,night,city street,0,0
+c5d864fa-46e3de37.jpg,truck,car,0.9081526468940604,rainy,daytime,city street,0,0
+c5d864fa-a008f891.jpg,truck,car,0.8999907050773939,rainy,daytime,city street,1,0
+c5d864fa-a008f891.jpg,truck,car,0.7313975251132303,rainy,daytime,city street,1,0
+c5d864fa-a4e15b55.jpg,car,truck,0.962513048619743,rainy,daytime,city street,0,0
+c5d864fa-a4e15b55.jpg,bus,car,0.8076824238824427,rainy,daytime,city street,1,0
+c5d864fa-a4e15b55.jpg,bus,truck,0.7712447379160476,rainy,daytime,city street,1,0
+c5def92b-af08d4b8.jpg,bus,car,0.5930450975856629,overcast,dawn/dusk,city street,1,0
+c5e32cf6-7d2e04b4.jpg,person,car,0.5323387174625125,partly cloudy,daytime,city street,0,0
+c5e32cf6-89b8fb88.jpg,truck,bus,0.9189819959235586,clear,daytime,city street,0,0
+c5e32cf6-89b8fb88.jpg,truck,car,0.6950611667243752,clear,daytime,city street,1,0
+c5e8457e-381c8a85.jpg,car,truck,0.5030940649776418,overcast,daytime,city street,1,0
+c5eb7f02-2eeb75ed.jpg,rider,person,0.6597208172730058,clear,daytime,city street,1,0
+c5eb7f02-2eeb75ed.jpg,bus,truck,0.8126309857823542,clear,daytime,city street,1,0
+c5eb7f02-4de68c54.jpg,rider,person,0.6170517222663471,clear,daytime,city street,0,0
+c5eb7f02-6ddd1f4e.jpg,truck,car,0.8139081053910711,clear,dawn/dusk,city street,1,0
+c5ed5d69-f2a3b0ed.jpg,car,traffic sign,0.8004197327169611,clear,night,city street,0,0
+c5eebbf5-1450247a.jpg,truck,car,0.8650674675968892,clear,night,highway,0,0
+c5f0cacd-3c4333b4.jpg,truck,car,0.6677318913407521,clear,night,highway,1,0
+c5f2e071-fcf05969.jpg,bus,car,0.9690371681698389,clear,daytime,highway,0,0
+c5f4350d-1f7632ea.jpg,traffic sign,traffic light,0.7826335281271137,snowy,dawn/dusk,city street,0,0
+c5f4b6d4-eb1f94b7.jpg,car,truck,0.9856004656634977,snowy,daytime,city street,0,1
+c5fb6c66-c243092c.jpg,truck,car,0.9785010766493063,rainy,daytime,city street,1,0
+c5fe7f8b-522055d5.jpg,bus,car,0.9605880560030551,clear,daytime,city street,0,0
+c5fe7f8b-522055d5.jpg,bus,car,0.7537321669831135,clear,daytime,city street,1,0
+c60144b6-74583c0d.jpg,person,car,0.5707178121013546,partly cloudy,dawn/dusk,city street,0,1
+c6079e86-f5203076.jpg,truck,car,0.6287844131914941,overcast,daytime,city street,1,0
+c60d6c5c-11adb0a5.jpg,car,bus,0.8939707881776928,clear,daytime,city street,0,0
+c60dc8c4-3c29b3e3.jpg,truck,car,0.729838105994432,rainy,daytime,residential,1,0
+c60dc8c4-c8c80749.jpg,truck,car,0.8344455154250237,overcast,daytime,residential,0,1
+c60ffc99-13f7f8e0.jpg,truck,car,0.902436498859371,overcast,daytime,highway,1,0
+c617d219-c5bb6104.jpg,truck,car,0.861580112035392,clear,night,city street,1,0
+c6215f72-266bf801.jpg,car,truck,0.7828163797597196,undefined,daytime,city street,1,0
+c62664f1-b6fec7e5.jpg,bus,car,0.6862296448390717,clear,daytime,city street,0,0
+c62ba5b8-0efc4385.jpg,truck,car,0.7983963386767187,clear,daytime,city street,1,0
+c62ba5b8-0efc4385.jpg,truck,car,0.7239193381395951,clear,daytime,city street,1,0
+c62ba5b8-0efc4385.jpg,bus,truck,0.9718336790653102,clear,daytime,city street,0,1
+c6367bde-a28b0ad2.jpg,car,truck,0.835084927317855,rainy,daytime,city street,0,0
+c6367bde-a28b0ad2.jpg,car,bus,0.8859313170371477,rainy,daytime,city street,0,0
+c63864a9-35e14676.jpg,traffic sign,traffic light,0.7213671288194478,overcast,daytime,city street,0,0
+c6406d76-4b7872d2.jpg,truck,bus,0.7650407829437883,clear,daytime,city street,0,0
+c6406d76-b7b64e81.jpg,truck,car,0.6248125708545508,undefined,daytime,residential,0,0
+c6424a42-272aa782.jpg,truck,car,0.8252096777029533,snowy,daytime,city street,1,0
+c647174d-4f64af93.jpg,traffic light,traffic sign,0.8550099857758847,partly cloudy,daytime,highway,0,1
+c64d742b-b58c8bc3.jpg,rider,person,0.6647416982695563,clear,night,city street,1,0
+c64dd3d9-51adbe1e.jpg,car,truck,0.7100018337632374,undefined,daytime,city street,1,1
+c6549c4a-6d2e9309.jpg,bus,truck,0.8069108422550962,clear,night,city street,0,0
+c65f7702-979ab570.jpg,truck,car,0.8498201637033402,overcast,dawn/dusk,city street,1,0
+c66202a8-69baf495.jpg,person,rider,0.588942422359384,undefined,night,city street,0,0
+c66202a8-69baf495.jpg,bus,car,0.82234461597202,undefined,night,city street,0,1
+c66202a8-69baf495.jpg,bus,truck,0.8097227320882328,undefined,night,city street,0,1
+c664605e-abd72a76.jpg,motor,car,0.7556290852081478,clear,daytime,residential,0,0
+c665137e-a9471287.jpg,truck,bus,0.6019273360523085,clear,daytime,city street,0,0
+c66a2cb5-64bc6565.jpg,bus,car,0.8169293798212203,undefined,daytime,city street,0,0
+c66a2cb5-64bc6565.jpg,truck,car,0.8307318650917077,undefined,daytime,city street,1,0
+c66c630d-0ffac45a.jpg,truck,car,0.5638068518473109,rainy,daytime,city street,1,0
+c66c630d-50cda53e.jpg,truck,car,0.9660163221597761,rainy,daytime,city street,1,0
+c66c630d-a9d179a7.jpg,bus,car,0.9424215280870687,rainy,daytime,city street,1,1
+c66c630d-fd7e3bff.jpg,traffic light,traffic sign,0.7851517845483749,rainy,daytime,city street,0,0
+c66c630d-fd7e3bff.jpg,traffic light,traffic sign,0.7148528828374093,rainy,daytime,city street,0,0
+c66c630d-fd7e3bff.jpg,traffic light,traffic sign,0.775386587487357,rainy,daytime,city street,0,0
+c66c709e-de7a55ed.jpg,bus,car,0.9328477621839363,overcast,daytime,city street,0,0
+c66cd6fa-e9647604.jpg,truck,car,0.937989328024307,clear,night,city street,0,0
+c6716c49-8a602ea6.jpg,truck,car,0.9399174808480291,overcast,daytime,highway,1,0
+c675081b-c71e159b.jpg,truck,car,0.8777301403625392,undefined,dawn/dusk,city street,1,0
+c675081b-c71e159b.jpg,truck,car,0.9542698418525243,undefined,dawn/dusk,city street,0,0
+c6758a15-258953c9.jpg,truck,car,0.6480348430464141,undefined,daytime,city street,0,1
+c6758a15-258953c9.jpg,truck,bus,0.9099065676794094,undefined,daytime,city street,1,0
+c6758a15-9154b963.jpg,truck,car,0.5598926112935232,partly cloudy,daytime,city street,1,0
+c676514a-8b4d18b7.jpg,traffic light,person,0.5470369051902756,undefined,night,city street,0,0
+c67f1dd2-995c9a8f.jpg,truck,car,0.5681652377712915,rainy,night,residential,1,0
+c682e86e-049c847f.jpg,motor,car,0.7727232993841058,overcast,daytime,city street,1,0
+c685aea9-1f0ae51d.jpg,traffic sign,traffic light,0.7538428557041575,undefined,daytime,city street,0,1
+c685aea9-1f0ae51d.jpg,rider,person,0.761591279282039,undefined,daytime,city street,1,0
+c685aea9-1f0ae51d.jpg,traffic sign,traffic light,0.5996630660343332,undefined,daytime,city street,0,1
+c68bb3b7-ae8ce5d9.jpg,bus,car,0.5895310711747257,clear,daytime,city street,1,0
+c68f8fd2-61681484.jpg,truck,car,0.8852177232354939,overcast,daytime,highway,1,0
+c696b1c8-4e0accee.jpg,bike,person,0.7287333544658342,overcast,daytime,city street,1,0
+c698371e-a290fa18.jpg,motor,person,0.9117802358606862,undefined,daytime,city street,0,1
+c698371e-a290fa18.jpg,bus,truck,0.8110046313002878,undefined,daytime,city street,1,0
+c69d1519-dfb88cdf.jpg,traffic sign,car,0.7997620903163403,overcast,daytime,highway,0,0
+c69d1519-f8c8bbe8.jpg,truck,car,0.8712729986219581,clear,night,highway,1,0
+c69f536a-9d45ee3d.jpg,truck,car,0.6035990819292666,partly cloudy,daytime,city street,1,0
+c6a0e7c1-4171ca59.jpg,traffic sign,traffic light,0.5541099097425801,clear,daytime,city street,1,0
+c6a2100d-d6e54e21.jpg,person,rider,0.8527443980377811,clear,daytime,city street,0,1
+c6a4abc9-1b48b2ab.jpg,car,truck,0.964953425531937,clear,dawn/dusk,city street,0,1
+c6a5ec44-26ea8514.jpg,truck,car,0.8496454693232501,rainy,daytime,residential,0,0
+c6a922ec-c98fe832.jpg,truck,car,0.9412185048997357,undefined,daytime,city street,0,0
+c6a922ec-c98fe832.jpg,bus,car,0.766524823691435,undefined,daytime,city street,1,0
+c6a94213-9e85fba1.jpg,car,truck,0.9167783115118585,rainy,daytime,residential,0,0
+c6b2d249-04498047.jpg,traffic sign,traffic light,0.7611732547904375,partly cloudy,daytime,highway,0,0
+c6b45cee-d74b5791.jpg,truck,car,0.724895783607521,partly cloudy,daytime,city street,1,0
+c6b511a2-d0de577c.jpg,traffic light,traffic sign,0.887983197637656,snowy,daytime,city street,0,0
+c6b511a2-d0de577c.jpg,traffic light,traffic sign,0.7822181349030412,snowy,daytime,city street,0,0
+c6b518ec-31800547.jpg,bike,person,0.5627305416894278,clear,daytime,city street,0,0
+c6b7ebec-b2b3a6c0.jpg,truck,car,0.605745809849496,overcast,daytime,city street,1,0
+c6bb2e07-3276c201.jpg,truck,car,0.8869222981685237,clear,daytime,city street,1,1
+c6bd6f3b-d6ad11b5.jpg,truck,car,0.851732439060994,clear,daytime,city street,0,0
+c6c08fb0-cb0efab6.jpg,truck,car,0.7240466069953527,snowy,daytime,highway,1,0
+c6c8c8a2-cb166bb4.jpg,traffic light,traffic sign,0.8626894059290248,overcast,daytime,residential,0,0
+c6ca1dcf-635b762f.jpg,truck,car,0.7392588916557429,partly cloudy,daytime,city street,1,0
+c6cd3ccb-b775a5a3.jpg,bus,truck,0.8145111715767329,overcast,daytime,city street,1,0
+c6cde7ef-8fc5b688.jpg,car,bus,0.5594791836025452,clear,daytime,city street,1,0
+c6d36663-2e8ff6e3.jpg,bus,truck,0.848538462489565,undefined,daytime,city street,1,0
+c6d7400d-8a08045e.jpg,traffic sign,traffic light,0.5648295737509708,overcast,daytime,city street,1,0
+c6da9a5f-4f00039a.jpg,car,truck,0.9576914472894074,partly cloudy,daytime,highway,0,1
+c6dca574-a5f624f4.jpg,truck,car,0.8060054244618011,clear,daytime,city street,1,0
+c6dca574-a5f624f4.jpg,bus,car,0.6370796568820464,clear,daytime,city street,1,0
+c6dd289c-693cb0cb.jpg,traffic sign,car,0.9251661982089265,partly cloudy,daytime,city street,0,0
+c6dfe6aa-5d33796c.jpg,rider,car,0.7226018366571624,clear,night,city street,1,0
+c6dfe6aa-d2b95ea8.jpg,traffic sign,traffic light,0.5807594773000077,clear,night,highway,0,0
+c6dfe6aa-d2b95ea8.jpg,traffic sign,traffic light,0.6566205216438904,clear,night,highway,0,0
+c6ed8102-2bbcbcc2.jpg,truck,car,0.7041402721029355,overcast,daytime,highway,1,0
+c6ed8102-b74b0fad.jpg,truck,car,0.5411704155643662,overcast,daytime,city street,1,0
+c6ed8102-b74b0fad.jpg,truck,car,0.7817305485754046,overcast,daytime,city street,1,0
+c6ef5bc4-b8cbb710.jpg,truck,car,0.9478675864487536,clear,night,city street,0,0
+c6f14304-88396ae1.jpg,truck,car,0.7719206897421285,clear,daytime,highway,1,0
+c6f6368c-082957c9.jpg,car,person,0.9220305802949089,clear,daytime,city street,0,0
+c6fa5a37-cfd67380.jpg,truck,car,0.7275133660198321,clear,night,city street,0,0
+c7049707-934a08d2.jpg,bus,truck,0.8799825255849791,clear,daytime,highway,0,0
+c708dc9d-12f425eb.jpg,car,bus,0.7291170565299593,clear,night,city street,1,0
+c7151d3d-27632b12.jpg,truck,car,0.7791346646734096,partly cloudy,daytime,residential,1,0
+c7151d3d-27632b12.jpg,rider,person,0.8827808582507984,partly cloudy,daytime,residential,1,0
+c71751ee-07587650.jpg,truck,car,0.8875941535832688,overcast,daytime,city street,1,0
+c72373c0-af574c12.jpg,bus,car,0.7972905455711767,clear,daytime,city street,1,0
+c732f53b-304559b2.jpg,truck,car,0.8814027181168349,snowy,dawn/dusk,highway,0,0
+c7331983-36418bf8.jpg,truck,bus,0.8026372576076547,snowy,dawn/dusk,residential,0,0
+c733594f-2568d430.jpg,car,truck,0.7130351627855489,snowy,daytime,city street,0,0
+c733594f-86a37630.jpg,traffic sign,car,0.9483163221832498,rainy,daytime,city street,0,0
+c7415d8d-cdebab3b.jpg,person,rider,0.8297939608924111,undefined,daytime,city street,0,0
+c7415d8d-dfb8ef47.jpg,bus,truck,0.9158704866788735,undefined,daytime,city street,0,0
+c741a3b6-17ca1b7e.jpg,person,car,0.931697366341531,partly cloudy,dawn/dusk,highway,0,0
+c741a3b6-17ca1b7e.jpg,person,car,0.7770419834703248,partly cloudy,dawn/dusk,highway,0,0
+c7429cad-6e71e583.jpg,traffic sign,traffic light,0.5317040293330236,clear,night,city street,0,0
+c7429cad-6e71e583.jpg,car,person,0.645319774228552,clear,night,city street,1,0
+c7429cad-6e71e583.jpg,car,person,0.630472526118608,clear,night,city street,1,0
+c7472294-1eb27561.jpg,bike,car,0.7052087899242759,rainy,night,city street,0,0
+c747bbbf-683dbc92.jpg,traffic sign,traffic light,0.6609750988536779,snowy,night,city street,0,0
+c7495330-a96a2795.jpg,car,truck,0.9385159739939045,clear,night,city street,1,0
+c7495330-a96a2795.jpg,car,bus,0.9552523915011885,clear,night,city street,1,0
+c754ce77-a105a975.jpg,truck,car,0.9870397044855147,clear,daytime,city street,1,0
+c7576575-60923084.jpg,truck,car,0.6513574587878138,snowy,daytime,highway,1,1
+c7576575-60923084.jpg,truck,car,0.5203038498570595,snowy,daytime,highway,1,1
+c7640ee1-6c86d60f.jpg,traffic light,traffic sign,0.8586824516080332,clear,night,city street,0,0
+c767ad39-119bf6f3.jpg,truck,car,0.9380673475698434,clear,daytime,residential,1,0
+c767ad39-119bf6f3.jpg,truck,car,0.9294809550448474,clear,daytime,residential,0,1
+c767ad39-b196c36a.jpg,truck,car,0.8507163348988528,clear,daytime,city street,0,1
+c76a5f2c-7efa0cc3.jpg,traffic sign,traffic light,0.5214185166416512,clear,night,city street,0,0
+c76adb6d-275e8f71.jpg,traffic light,traffic sign,0.7976890573816895,clear,daytime,highway,0,0
+c76e4ccc-86973001.jpg,truck,car,0.7305649694389942,partly cloudy,dawn/dusk,city street,1,0
+c76e6e4f-2915de4e.jpg,car,bus,0.7733453665978205,partly cloudy,daytime,residential,1,0
+c76e8ace-01aa7d5b.jpg,rider,person,0.7635966910716354,overcast,daytime,city street,0,1
+c76fbaa1-07ee965c.jpg,bus,car,0.6445385168008333,undefined,daytime,city street,1,0
+c76fbaa1-d03af260.jpg,car,person,0.5469837922480572,clear,night,city street,1,0
+c775de6b-63083e8f.jpg,truck,car,0.8594225747573891,clear,night,city street,1,0
+c77c73fc-eb090c8e.jpg,traffic light,traffic sign,0.6876463399217577,clear,night,city street,0,0
+c77c73fc-eb090c8e.jpg,traffic light,traffic sign,0.6098927080709005,clear,night,city street,0,0
+c794c86d-e4fadf29.jpg,truck,car,0.7386654301829679,clear,daytime,highway,0,0
+c7955e20-b48c7a6a.jpg,bike,person,0.5142552995000533,clear,daytime,residential,1,0
+c7955e20-b48c7a6a.jpg,bike,person,0.6635295730406463,clear,daytime,residential,1,0
+c79be479-405bfb76.jpg,bus,car,0.6322823516996225,overcast,dawn/dusk,city street,1,0
+c79be479-f221c1ff.jpg,car,traffic sign,0.7646614494833013,clear,night,city street,1,0
+c7aa5575-09247466.jpg,traffic light,traffic sign,0.6003890622135195,clear,night,city street,0,0
+c7aa5575-4706c0d1.jpg,bike,motor,0.7131247059999585,clear,night,highway,1,0
+c7aa5575-7db02116.jpg,rider,person,0.6086753592432737,clear,night,city street,1,0
+c7ad303b-6381dac9.jpg,truck,car,0.516135690118841,partly cloudy,daytime,city street,1,0
+c7ad303b-6381dac9.jpg,truck,car,0.8036871946724751,partly cloudy,daytime,city street,1,0
+c7b41787-a0d67db5.jpg,traffic sign,traffic light,0.7868717466616131,clear,night,city street,0,1
+c7bc6671-fc3f4552.jpg,truck,bus,0.9149705460413244,rainy,dawn/dusk,city street,1,0
+c7bcd5db-6483a43e.jpg,truck,car,0.7630297772914818,clear,daytime,highway,1,0
+c7bcd5db-6483a43e.jpg,truck,car,0.5728764982429434,clear,daytime,highway,1,0
+c7c9e31d-719f694c.jpg,person,bike,0.5289419232668041,clear,night,city street,1,0
+c7c9e31d-719f694c.jpg,person,rider,0.7749832384350877,clear,night,city street,1,0
+c7cb4a74-ec912bd8.jpg,car,truck,0.8034775963889106,clear,daytime,city street,1,0
+c7cc0645-95e6a224.jpg,rider,person,0.7177998694727665,clear,night,city street,1,0
+c7d0b0a7-7f2306d8.jpg,bus,car,0.6786357562009423,overcast,daytime,residential,0,0
+c7d0b0a7-a0e6b491.jpg,truck,car,0.9218497351752122,overcast,daytime,city street,0,0
+c7d1b792-8a24c40e.jpg,truck,bus,0.9175602617769105,clear,night,city street,0,0
+c7d564fe-7c51e3a3.jpg,car,truck,0.6622538795747507,clear,daytime,city street,0,0
+c7d8260d-1c3f0898.jpg,car,truck,0.8564262406608938,overcast,daytime,city street,0,0
+c7d8260d-1c3f0898.jpg,rider,person,0.6444608866886653,overcast,daytime,city street,1,0
+c7d8260d-1c3f0898.jpg,car,bus,0.8712141893940494,overcast,daytime,city street,0,0
+c7d8260d-9d45834e.jpg,truck,car,0.55746128350029,overcast,daytime,city street,1,0
+c7d8260d-9d45834e.jpg,truck,car,0.7466845214854319,overcast,daytime,city street,0,0
+c7dd6716-f165ff52.jpg,truck,car,0.9776166253231016,clear,daytime,highway,0,1
+c7e61874-56decdeb.jpg,rider,person,0.6568296776194674,undefined,daytime,city street,1,0
+c7e6d5d1-c8af9fe3.jpg,truck,bus,0.7489527235926955,clear,daytime,highway,1,0
+c7e6d5d1-c8af9fe3.jpg,person,rider,0.5447820014964807,clear,daytime,highway,0,0
+c7e9dd39-2e5a6648.jpg,traffic sign,traffic light,0.5621478524469353,partly cloudy,daytime,city street,0,0
+c7ee6626-62a3ed49.jpg,car,bus,0.9244468732432123,undefined,daytime,city street,1,1
+c7f011d1-e88f3d4b.jpg,car,truck,0.8550603236655101,clear,daytime,highway,1,0
+c7f36d03-c8418294.jpg,bike,person,0.5516257276820891,clear,dawn/dusk,city street,1,0
+c7fa148b-89df90c1.jpg,truck,car,0.9628442542673044,clear,daytime,highway,0,0
+c7fa8344-959a77c9.jpg,person,car,0.7989003021206668,rainy,daytime,city street,1,1
+c7ff2c12-cf77c29d.jpg,truck,car,0.9321904244407583,snowy,daytime,city street,0,1
+c8054f9c-3ff3c2b1.jpg,truck,bus,0.907860287498324,clear,night,highway,0,0
+c8062950-e7ac08bd.jpg,traffic sign,car,0.8361205324280331,undefined,night,city street,0,0
+c8062950-e7ac08bd.jpg,traffic sign,car,0.5665995773465136,undefined,night,city street,0,0
+c807d32d-e5383e74.jpg,bus,person,0.8092113817625802,clear,daytime,city street,0,0
+c81079a0-5816ae39.jpg,truck,car,0.963800381497181,clear,daytime,city street,0,1
+c81079a0-5816ae39.jpg,truck,car,0.6761083703756229,clear,daytime,city street,0,0
+c8111dda-1a7dded7.jpg,truck,car,0.9549114758355175,partly cloudy,daytime,city street,0,0
+c8152bfa-d1d0ceac.jpg,traffic light,person,0.7813335287874373,clear,daytime,city street,0,0
+c81af731-fe2bd777.jpg,bus,car,0.5993592392615207,partly cloudy,daytime,city street,1,1
+c82699fa-76163f60.jpg,truck,car,0.9839873350623899,snowy,night,city street,0,1
+c82ab19a-024cc3bc.jpg,traffic sign,car,0.6890507380011733,partly cloudy,daytime,highway,0,0
+c837d2ef-25f73789.jpg,bus,car,0.8864241991298583,clear,daytime,city street,0,0
+c837d2ef-25f73789.jpg,bus,car,0.7630999338124608,clear,daytime,city street,1,0
+c838510d-e1346288.jpg,car,person,0.7342662857155136,undefined,daytime,city street,1,0
+c838d26c-d5612b4e.jpg,truck,car,0.596256415002985,snowy,night,city street,0,0
+c83a8e22-0454c45c.jpg,car,truck,0.6059592924631972,overcast,daytime,highway,1,0
+c83c10de-0d2047c8.jpg,car,truck,0.8231474061561299,undefined,daytime,undefined,1,0
+c83c10de-e0aee9ee.jpg,car,truck,0.8109503823610648,clear,daytime,residential,0,1
+c84a1922-b11418ac.jpg,truck,car,0.8781878693156266,snowy,daytime,city street,1,0
+c84a1922-b11418ac.jpg,bus,truck,0.7530705396958767,snowy,daytime,city street,1,0
+c84cf4c9-8667fb28.jpg,traffic light,traffic sign,0.8531986981844747,clear,night,city street,0,0
+c85416bd-b4812a0c.jpg,truck,car,0.8740294575372529,overcast,daytime,highway,1,0
+c85416bd-db975d94.jpg,traffic sign,car,0.6643966569430118,partly cloudy,daytime,residential,0,0
+c8620a67-55f86ae2.jpg,truck,car,0.7066324677268822,partly cloudy,daytime,residential,1,0
+c8620a67-55f86ae2.jpg,truck,car,0.8543307888440831,partly cloudy,daytime,residential,1,0
+c862e633-4a5ae536.jpg,bus,car,0.9655312048564808,clear,daytime,residential,0,0
+c86482ef-b74850ca.jpg,truck,car,0.6906567397460468,clear,daytime,highway,1,0
+c8650e15-38bef9dc.jpg,car,truck,0.9790227960619705,overcast,daytime,highway,0,1
+c868e9bf-9dc0f67e.jpg,traffic light,traffic sign,0.8058465038357508,clear,night,city street,0,0
+c868e9bf-9dc0f67e.jpg,traffic light,traffic sign,0.694507185448855,clear,night,city street,0,0
+c868e9bf-9dc0f67e.jpg,traffic light,traffic sign,0.6990790981188126,clear,night,city street,0,0
+c86b771a-b1c0561b.jpg,traffic sign,traffic light,0.6131046374685024,overcast,daytime,city street,0,0
+c86db817-d6bec56a.jpg,truck,car,0.9196263558585226,clear,night,undefined,1,0
+c86db817-d6bec56a.jpg,truck,car,0.5393400163653561,clear,night,undefined,1,0
+c86f5924-0ec535db.jpg,truck,bus,0.9544298453128142,clear,night,city street,0,1
+c872e1b7-d443b346.jpg,traffic sign,traffic light,0.731342963257637,undefined,daytime,city street,0,0
+c87438f0-d1875e08.jpg,truck,car,0.916222658993891,clear,night,residential,0,0
+c87438f0-d1875e08.jpg,truck,car,0.6237824076621716,clear,night,residential,1,0
+c87438f0-d1875e08.jpg,rider,person,0.7484895004734885,clear,night,residential,1,0
+c87438f0-d1875e08.jpg,truck,car,0.5531003172647265,clear,night,residential,1,0
+c874ddc1-78b9084d.jpg,bus,car,0.9688802806706888,snowy,daytime,city street,0,1
+c8759ab5-f6a3273f.jpg,car,truck,0.9097549799270868,partly cloudy,daytime,city street,1,0
+c8759ab5-f6a3273f.jpg,person,rider,0.7172681887899596,partly cloudy,daytime,city street,1,0
+c8766d9e-4289f547.jpg,truck,car,0.7161722605716964,rainy,daytime,highway,1,0
+c877c1e3-b9b26376.jpg,bus,car,0.5942830476732331,undefined,daytime,residential,1,0
+c878b7e1-a736922b.jpg,truck,car,0.7470249255701129,rainy,daytime,city street,1,0
+c87ef40a-d9c511a4.jpg,traffic light,traffic sign,0.6855894798283652,clear,night,city street,0,0
+c88555fb-a5e194ab.jpg,traffic sign,traffic light,0.7437381578979642,clear,daytime,highway,1,0
+c88555fb-d0df0339.jpg,truck,car,0.7514397872322472,clear,daytime,residential,1,0
+c88555fb-d0df0339.jpg,truck,car,0.5447283093570597,clear,daytime,residential,1,0
+c88a29cf-4acca487.jpg,truck,car,0.7630870347955061,snowy,night,residential,0,0
+c88b1304-d64dd7b2.jpg,bus,truck,0.9788450027211044,undefined,daytime,city street,1,0
+c88b26c5-0a03ff8e.jpg,car,truck,0.7815477687596861,clear,daytime,residential,1,1
+c88f9916-2a874e4d.jpg,bus,car,0.8389657830595314,clear,night,city street,0,0
+c88fa35f-b1639d6e.jpg,car,truck,0.6100280040199841,partly cloudy,daytime,city street,0,0
+c89ee093-58ed3db1.jpg,truck,car,0.5501036388907501,clear,daytime,city street,1,0
+c89ee093-6fd1a5bc.jpg,bus,truck,0.8844357544907392,undefined,daytime,city street,0,0
+c8a5c2cd-c1d58c72.jpg,traffic light,traffic sign,0.6416668793756333,rainy,daytime,highway,0,0
+c8a830e0-95b22cac.jpg,truck,bus,0.8330725303974499,clear,daytime,city street,1,0
+c8aae827-b9b8f6ec.jpg,car,truck,0.7232915151914331,undefined,daytime,city street,1,0
+c8aca1e2-4d35a25a.jpg,rider,person,0.8368115608899316,overcast,dawn/dusk,city street,1,0
+c8b3b695-3dd9102a.jpg,truck,car,0.912679735939491,undefined,daytime,city street,1,1
+c8b46126-d3019096.jpg,bus,car,0.9420415421797166,undefined,daytime,city street,1,0
+c8b46126-d3019096.jpg,bus,truck,0.9276441916845135,undefined,daytime,city street,1,0
+c8b5bc59-7e4f7285.jpg,car,traffic sign,0.7063802985674988,clear,night,city street,1,0
+c8b5bc59-ad1aa597.jpg,truck,bus,0.9290077266942312,clear,night,city street,0,1
+c8b7358d-fc3bd36c.jpg,truck,car,0.9332528820232577,partly cloudy,daytime,residential,0,0
+c8bad943-c78f2df3.jpg,bus,truck,0.76820577501027,clear,daytime,highway,1,0
+c8bad943-c78f2df3.jpg,bus,car,0.6384405755520449,clear,daytime,highway,1,0
+c8bad943-c78f2df3.jpg,car,truck,0.7038629088180884,clear,daytime,highway,0,0
+c8bad943-c78f2df3.jpg,truck,car,0.8438436178212336,clear,daytime,highway,1,0
+c8beac4c-f1d1d6b5.jpg,truck,car,0.8477596345271748,partly cloudy,daytime,highway,0,0
+c8beac4c-f1d1d6b5.jpg,traffic sign,car,0.8794006213758961,partly cloudy,daytime,highway,0,0
+c8bf003e-c4202676.jpg,traffic sign,traffic light,0.5451660773781423,clear,night,highway,0,0
+c8c022ae-b7e1c0b5.jpg,car,truck,0.8510937285641421,undefined,daytime,city street,1,0
+c8c0c00c-39ef4894.jpg,truck,car,0.7401393898089772,overcast,daytime,highway,1,0
+c8c21a87-5eb41ad6.jpg,bus,car,0.7323138110613866,clear,daytime,city street,0,0
+c8c40f8e-36103452.jpg,truck,car,0.7598155552018705,snowy,night,city street,1,0
+c8c97803-8f294a3f.jpg,rider,bike,0.7397903031803106,clear,night,city street,1,0
+c8c97803-8f294a3f.jpg,truck,bus,0.8664658114317534,clear,night,city street,1,0
+c8c97803-c1e8543d.jpg,truck,car,0.9403567067763269,clear,night,city street,0,0
+c8d1bc4e-9c43c393.jpg,truck,car,0.7815405238444993,snowy,daytime,residential,1,0
+c8d1bc4e-9c43c393.jpg,truck,car,0.5525384140775959,snowy,daytime,residential,1,0
+c8e01103-9ff8595d.jpg,bus,truck,0.900927999877929,rainy,daytime,highway,0,1
+c8ed82f7-fe694d2f.jpg,truck,car,0.9530505312732531,overcast,dawn/dusk,city street,0,0
+c8edf7ac-e984287f.jpg,rider,person,0.7625311120433828,overcast,daytime,city street,1,0
+c8edf7ac-e984287f.jpg,person,motor,0.665807431132437,overcast,daytime,city street,0,0
+c8ef6556-56df81da.jpg,truck,car,0.8269896412786271,clear,daytime,city street,1,0
+c8ef6556-56df81da.jpg,truck,car,0.5596085904315794,clear,daytime,city street,0,0
+c8ef6556-627cdf0b.jpg,truck,car,0.733257070789208,clear,dawn/dusk,highway,0,0
+c8ef6556-8ea04157.jpg,truck,car,0.8122190219795596,undefined,daytime,city street,1,0
+c8f1cdd6-9d2a3186.jpg,traffic sign,traffic light,0.6274674122441821,overcast,daytime,city street,1,0
+c8f48328-7de61e93.jpg,traffic sign,traffic light,0.6941456291783259,clear,night,city street,0,0
+c8fc1373-3ce39fc9.jpg,bus,car,0.6894570082123475,clear,daytime,city street,1,0
+c8fc1373-3ce39fc9.jpg,bus,car,0.5893525371171378,clear,daytime,city street,1,0
+c8ffbba5-334918b7.jpg,bus,truck,0.8688024607222063,clear,night,city street,1,0
+c8ffbba5-334918b7.jpg,bus,car,0.8791112355010948,clear,night,city street,1,0
+c909f3df-d3ce29f1.jpg,bus,car,0.7225852702431528,snowy,night,residential,1,0
+c90bf06d-5782a8fb.jpg,truck,car,0.8857842110330874,snowy,night,city street,1,0
+c9160b61-80e5089a.jpg,truck,car,0.7089987222555729,clear,daytime,city street,1,0
+c92046a2-2a0b5a9e.jpg,truck,car,0.8252150052769455,clear,daytime,residential,0,0
+c9240f77-2c998430.jpg,traffic light,traffic sign,0.9047947585764742,undefined,daytime,city street,0,0
+c9240f77-2c998430.jpg,traffic light,traffic sign,0.7021903619451597,undefined,daytime,city street,0,0
+c9240f77-37f30fb5.jpg,truck,car,0.6846077087921875,partly cloudy,daytime,highway,1,0
+c9240f77-988f083f.jpg,bus,truck,0.7671440730637307,undefined,daytime,highway,1,0
+c924c4a4-7f9aa43a.jpg,truck,car,0.6001358754024075,partly cloudy,daytime,city street,1,0
+c926408d-2118bffc.jpg,truck,car,0.935882393728536,clear,daytime,highway,0,0
+c926408d-6840aaf6.jpg,traffic light,traffic sign,0.5461639767590963,clear,daytime,highway,0,0
+c928c559-7cd84c9f.jpg,traffic sign,traffic light,0.8860901165499845,clear,daytime,city street,0,0
+c92aeef7-9bdd3e46.jpg,traffic sign,traffic light,0.7023387379167286,clear,dawn/dusk,highway,0,0
+c93017ac-e728a438.jpg,motor,bike,0.7004435284479062,clear,daytime,city street,0,1
+c93017ac-e728a438.jpg,bus,truck,0.802829993110724,clear,daytime,city street,1,0
+c9375798-85c143f7.jpg,truck,car,0.9118693910479563,clear,daytime,city street,0,0
+c93bd9ce-d2617cc7.jpg,bus,traffic sign,0.9137874101373618,snowy,night,highway,0,0
+c93dc018-9a022605.jpg,bus,car,0.7808588959325001,clear,daytime,city street,1,0
+c9403737-33cab241.jpg,traffic sign,car,0.8527047757234053,partly cloudy,daytime,highway,0,0
+c9403737-33cab241.jpg,traffic sign,car,0.8827397803066998,partly cloudy,daytime,highway,0,0
+c9484cde-c9b46dc0.jpg,traffic light,traffic sign,0.5232663232967646,overcast,daytime,city street,0,0
+c94d8213-847662eb.jpg,truck,car,0.9722716720847918,partly cloudy,daytime,city street,1,0
+c94d8213-847662eb.jpg,truck,car,0.5355339552663313,partly cloudy,daytime,city street,0,0
+c953eb9b-25d6c90f.jpg,bus,car,0.899906831779293,clear,dawn/dusk,residential,1,0
+c953eb9b-25d6c90f.jpg,bus,truck,0.8860110125716477,clear,dawn/dusk,residential,1,0
+c9552b40-ae7bc148.jpg,truck,car,0.8868471375500389,undefined,daytime,city street,1,0
+c95fecc3-4e289a4e.jpg,traffic sign,car,0.7544556671180505,clear,daytime,highway,0,0
+c96299f2-8e89da2c.jpg,bus,car,0.8808330806593658,rainy,night,city street,0,0
+c96299f2-8e89da2c.jpg,bus,truck,0.888700080051463,rainy,night,city street,0,0
+c96ab7ea-761efabd.jpg,bus,truck,0.8920189388664495,clear,night,city street,0,0
+c96d4996-d78b1b88.jpg,car,traffic sign,0.949150996509469,overcast,daytime,city street,0,0
+c96ffe59-429ca2a9.jpg,truck,bus,0.611861757415772,undefined,daytime,city street,1,0
+c975393b-d0309026.jpg,traffic sign,traffic light,0.8547393894639175,clear,daytime,highway,0,0
+c975393b-d0309026.jpg,traffic sign,traffic light,0.7079814182205125,clear,daytime,highway,1,0
+c9768773-d9cf584c.jpg,motor,car,0.6516209075153381,partly cloudy,daytime,residential,1,0
+c97fc7da-ed179cad.jpg,person,traffic sign,0.8024696141048406,clear,night,city street,0,0
+c9815999-f1a3d95a.jpg,truck,car,0.9453133530463248,undefined,daytime,city street,1,1
+c9815999-f1a3d95a.jpg,car,truck,0.7869408566916932,undefined,daytime,city street,1,0
+c981c004-35dc44b9.jpg,truck,bus,0.8219825040266583,clear,night,residential,0,1
+c98258a4-e5a366fe.jpg,bus,truck,0.935176999524365,overcast,dawn/dusk,city street,1,1
+c98258a4-e5a366fe.jpg,truck,bus,0.8272970098529018,overcast,dawn/dusk,city street,1,0
+c983692b-b3a04393.jpg,bike,person,0.5402798634168734,undefined,daytime,city street,1,0
+c9854be4-2e4295ce.jpg,person,rider,0.7067771290453905,undefined,daytime,city street,0,0
+c98c1005-1a53d7d2.jpg,truck,car,0.7693677327118377,partly cloudy,daytime,city street,1,0
+c993615f-33101e6b.jpg,truck,car,0.8051980366480601,clear,night,city street,0,1
+c99a4baf-a0146015.jpg,truck,car,0.6903061977873363,partly cloudy,daytime,highway,1,0
+c9a653e3-746daa0d.jpg,traffic sign,traffic light,0.7807975860813143,clear,night,city street,0,0
+c9aa50be-8c87193e.jpg,truck,car,0.7540535753975319,clear,daytime,city street,1,0
+c9aa50be-8c87193e.jpg,bus,car,0.5996683093949321,clear,daytime,city street,1,0
+c9b19b83-da526c25.jpg,car,person,0.9104625561920399,clear,daytime,highway,0,0
+c9b19b83-da526c25.jpg,bike,motor,0.5821663251443916,clear,daytime,highway,1,0
+c9b55e48-8c2b4097.jpg,truck,car,0.5448351408846283,clear,daytime,city street,1,0
+c9b55e48-8c2b4097.jpg,truck,bus,0.58834727703591,clear,daytime,city street,1,0
+c9b55e48-8c2b4097.jpg,truck,bus,0.9368643289182909,clear,daytime,city street,1,0
+c9b55e48-8c2b4097.jpg,bus,car,0.9140754351135364,clear,daytime,city street,1,0
+c9b55e48-8c2b4097.jpg,truck,car,0.9318932591502683,clear,daytime,city street,1,0
+c9b82f4e-454a5878.jpg,rider,person,0.579433183885661,clear,daytime,highway,1,0
+c9b82f4e-454a5878.jpg,rider,person,0.8219645450600596,clear,daytime,highway,1,0
+c9c31e57-3f228293.jpg,bus,truck,0.8393082090413614,overcast,daytime,city street,1,0
+c9c4d608-be7ef06b.jpg,rider,person,0.7636003635955054,undefined,daytime,city street,0,0
+c9c4d608-be7ef06b.jpg,rider,person,0.894763267042964,undefined,daytime,city street,0,0
+c9c4d608-be7ef06b.jpg,rider,person,0.882148403219695,undefined,daytime,city street,0,0
+c9c4d608-be7ef06b.jpg,rider,person,0.8590841508399676,undefined,daytime,city street,0,0
+c9c4d608-be7ef06b.jpg,rider,car,0.5730107482244696,undefined,daytime,city street,0,0
+c9c4d608-be7ef06b.jpg,car,truck,0.6209081747579505,undefined,daytime,city street,1,0
+c9c4e755-d4a99803.jpg,traffic sign,traffic light,0.6859184688393993,clear,night,highway,1,0
+c9c77676-1fa8e0d6.jpg,motor,person,0.6128450294146022,clear,night,city street,1,0
+c9c9235f-d2de2015.jpg,traffic light,traffic sign,0.7993616398693151,clear,night,city street,0,0
+c9c9235f-d2de2015.jpg,traffic light,traffic sign,0.608821344597127,clear,night,city street,0,0
+c9c9235f-d2de2015.jpg,traffic light,traffic sign,0.6631864544363547,clear,night,city street,0,0
+c9ca4c6c-4c9db372.jpg,bus,car,0.7501594080014607,partly cloudy,daytime,highway,0,0
+c9cf1065-5578a982.jpg,truck,car,0.5952808177818067,clear,night,city street,1,0
+c9cf1065-e9fd4f91.jpg,traffic sign,traffic light,0.6436465580887256,snowy,night,city street,0,0
+c9cf1065-e9fd4f91.jpg,traffic sign,traffic light,0.7139899350359032,snowy,night,city street,0,0
+c9df3b7e-0bf4fa31.jpg,car,truck,0.7765434048604866,clear,night,city street,0,1
+c9df836e-b8fcc9d7.jpg,bus,car,0.8620613893984223,clear,night,city street,0,0
+c9eb9a86-c9dd6104.jpg,car,truck,0.9090549434618264,clear,night,city street,1,0
+c9ee0f8e-3308c0e4.jpg,truck,bus,0.9665163671549449,rainy,daytime,city street,1,1
+c9ee0f8e-3308c0e4.jpg,truck,car,0.9625285928875607,rainy,daytime,city street,1,1
+c9f5283d-1b02cbcc.jpg,car,truck,0.8436651956003127,clear,night,highway,0,0
+c9f5283d-36783b15.jpg,truck,bus,0.8926724740641029,overcast,daytime,highway,0,0
+ca009e13-883fafc6.jpg,truck,car,0.9236034690561087,undefined,daytime,city street,0,0
+ca057c8b-e42f0882.jpg,truck,car,0.8399201309623967,clear,daytime,city street,0,0
+ca057c8b-e42f0882.jpg,truck,car,0.8918258982363925,clear,daytime,city street,0,0
+ca0b4ef4-3917ead1.jpg,car,truck,0.8698605426757634,overcast,daytime,city street,1,0
+ca0b4ef4-3917ead1.jpg,car,truck,0.6436662232126598,overcast,daytime,city street,1,0
+ca0f0248-0d55e8dd.jpg,truck,car,0.6462417439427176,clear,night,highway,1,0
+ca177f63-6cb08f25.jpg,truck,car,0.9216868193750247,clear,daytime,city street,1,0
+ca1a92b5-4677f24c.jpg,person,car,0.9256547996873484,snowy,night,city street,1,0
+ca222491-8d710efa.jpg,bus,truck,0.5420967012030574,overcast,daytime,highway,1,0
+ca28f275-95fc6836.jpg,truck,car,0.9524956318248594,clear,night,city street,1,0
+ca2d1df6-76d59c0c.jpg,truck,car,0.8572705068330707,rainy,night,city street,0,0
+ca309fd3-f767659b.jpg,truck,bus,0.8704448901032356,overcast,dawn/dusk,residential,0,0
+ca3165e0-c1c82c8f.jpg,truck,car,0.9825803561311083,clear,night,city street,1,0
+ca3736db-cd087585.jpg,bus,car,0.6952871716505236,clear,daytime,city street,1,0
+ca3bbb0a-b711f4e3.jpg,car,truck,0.9092493793081287,overcast,daytime,city street,0,1
+ca3bbb0a-cd13da9e.jpg,truck,car,0.9667341417681556,overcast,daytime,highway,0,0
+ca3f4c16-add215c4.jpg,bus,car,0.8065834102876064,clear,night,city street,0,0
+ca4071a6-6fa1a1c8.jpg,traffic light,traffic sign,0.5960180981831315,rainy,daytime,city street,0,0
+ca513280-e4ec496c.jpg,bus,truck,0.9588089568708406,undefined,daytime,city street,0,1
+ca561e94-8f719a63.jpg,truck,car,0.9501842884963446,undefined,daytime,city street,0,1
+ca5925b8-ca06566b.jpg,truck,car,0.9913004521843248,undefined,daytime,city street,0,1
+ca5f8e49-0df2e0a1.jpg,truck,car,0.8117957037054784,snowy,night,city street,1,0
+fe189115-cfad8fcf.jpg,truck,car,0.918359046254313,undefined,daytime,city street,1,0
+fe1b3799-a7863feb.jpg,car,bus,0.9168842035957729,undefined,daytime,city street,0,0
+fe1cc363-a3f36598.jpg,truck,car,0.6468471409478789,overcast,dawn/dusk,city street,1,0
+fe1d74f0-6969bdb5.jpg,truck,bus,0.9071068652489218,clear,night,city street,0,1
+fe1f2409-5b415eb7.jpg,traffic sign,traffic light,0.7582535677196129,clear,daytime,residential,0,0
+fe1f2409-c16ea1ed.jpg,car,truck,0.8640682510654007,clear,daytime,city street,1,0

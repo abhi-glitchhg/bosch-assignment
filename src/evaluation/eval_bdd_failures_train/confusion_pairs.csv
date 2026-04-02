@@ -1,0 +1,54 @@
+gt_class,pred_class,count
+truck,car,704
+bus,car,164
+car,truck,162
+traffic sign,traffic light,132
+bus,truck,109
+traffic light,traffic sign,103
+truck,bus,97
+rider,person,89
+car,bus,61
+person,car,58
+traffic sign,car,39
+motor,car,27
+car,person,23
+person,rider,22
+car,traffic sign,22
+bike,person,14
+bike,motor,13
+traffic light,car,10
+rider,car,9
+motor,bike,9
+person,traffic sign,8
+truck,traffic sign,8
+bike,car,7
+person,traffic light,6
+traffic sign,truck,6
+motor,person,5
+person,bike,5
+rider,bike,4
+car,traffic light,4
+car,rider,3
+train,car,3
+train,bus,3
+truck,rider,3
+person,motor,3
+traffic sign,person,3
+train,truck,2
+bus,traffic sign,2
+train,traffic light,2
+traffic light,truck,2
+truck,motor,2
+car,bike,2
+bike,traffic sign,2
+car,motor,2
+truck,person,2
+train,traffic sign,2
+motor,rider,1
+traffic sign,bus,1
+truck,traffic light,1
+motor,truck,1
+person,bus,1
+person,truck,1
+bike,rider,1
+traffic light,person,1
