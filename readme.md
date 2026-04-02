@@ -6,9 +6,9 @@ This document gives idea about the repo structure and setup. Read `report.md` fo
 
 While running the docker image, i would suggest to mount bdd data to the /app/data directory. The expected mounted file structure would look like
 
- - /app 
-    -/data 
-        -/assignment_data_bdd
+ - /app
+ - /app/data
+ -   /app/data/asignment_data_bdd
         
 
 
@@ -21,7 +21,7 @@ We have found some interesting cases where the labels are incorrect or the bound
 
 ## Training 
 
-~~As discussed in the `report.md` we spent some time deciding on the model and unfortunately some trials were unfruitful. Finally we decided to finetune a coco-pretrained model from torchvision. ~~ 
+~~As discussed in the `report.md` we spent some time deciding on the model and unfortunately some trials were unfruitful. Finally we decided to finetune a coco-pretrained model from torchvision.~~ 
 
 As training model from the scratch was difficult and time and resource constrains were there hence i chose yolo model series from `ultralytics`  which provides me great range of models and a nice training framework. I chose yolov8 small model. Yolo models are popular and their tensorrt engine files are also available hence one can easily use them in prod. 
 
@@ -51,5 +51,6 @@ cd ../evaluation
 python evaluate_bdd_failures.py 
 ```
 
+For more detailed info, please read [report.md](report.md)
 
 Note: Ruff was used for linting of the code. 
