@@ -1,6 +1,6 @@
 # Object Detection on BDD100K: Exploration, Fine-Tuning, and Analysis
 
-This report presents an object detection pipeline for the BDD100K dataset where I document my model selection process (including approaches explored and abandoned) before settling on a COCO-pretrained Faster R-CNN fine-tuned on BDD100K. I compare a zero-shot pretrained baseline against a head-only fine-tuned model, report per-class AP and mAP, and outline concrete steps to improve performance.
+This report presents an object detection pipeline for the BDD100K dataset where I document my model selection process (including approaches explored and abandoned) before settling on a COCO-pretrained YoloV8 fine-tuned on BDD100K. I compare a zero-shot pretrained baseline against a head-only fine-tuned model, report per-class AP and mAP, and outline concrete steps to improve performance.
 
 ---
 
